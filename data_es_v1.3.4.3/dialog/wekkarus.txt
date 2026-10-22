@@ -1,0 +1,37 @@
+
+GREETING_INTRODUCTION			;Saludos, forasteros. Somos los {0}.\n\nPreferimos mantenernos apartados y vivir en paz en nuestras profundas metrópolis submarinas.
+GREETING_FRIENDLY			;Os escuchamos, amigos
+GREETING_NEUTRAL			;¿Buscáis audiencia con nosotros?
+GREETING_ANGRY				;No sois bienvenidos aquí.\n\nHablad rápido
+
+OFFER_FREETRADE				;Creemos que el comercio y la industria son actividades muy civilizadoras. ¿Aceptaríais un acuerdo de libre comercio con nosotros?\n\n¿Qué decís?
+FREETRADE_ACCEPT			;¡Aceptamos con gusto un acuerdo de libre comercio!\n\n¡Larga vida a nuestra alianza!
+FREETRADE_REJECT			;No, un acuerdo de libre comercio no nos conviene.\n\nLo sentimos
+
+CANCELTREATY				;Es hora de cancelar el {0} que tenemos con vosotros. Ya no lo queremos.
+CANCELTREATY_RESPONSE_FRIENDLY		;Qué triste. Creíamos que este era un buen tratado.
+CANCELTREATY_RESPONSE_NEUTRAL		;Como deseéis. No podemos conservarlo si vosotros no lo queréis
+CANCELTREATY_RESPONSE_ANGRY		;Sí, este tratado es malo.\n\nDesconfiamos de vosotros. Sois como un Darkhul mortífero
+
+TREATY_PROPOSAL				;¿Qué nuevo acuerdo buscáis?
+TREATY_ACCEPTRESPONSE			;¡Que este nuevo tratado nos beneficie a ambos! Bienvenidos, amigos
+TREATY_REJECTRESPONSE			;No pudo ser. No podemos obligaros
+
+TRADESANCTIONS_IMPOSE			;¡Por las garras del Darkhul, sois unos tramposos!\n\nHa llegado la hora de imponeros sanciones comerciales. Ya no comerciaremos con vosotros
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY	;¡Tratar con vosotros es como manipular una anémona venenosa de las profundidades! Nos alegra haber acabado con vuestras artimañas.\n\nManteneos alejados de nosotros a partir de ahora
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL	;Sobrevivimos antes de conoceros. Sobreviviremos ahora
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED	;¡Qué inesperado! No vemos ninguna razón para esto.\n\nSupongo que tendremos que adaptarnos
+TRADESANCTIONS_LIFT			;Hemos decidido poner fin a nuestras sanciones comerciales contra vosotros. Volvemos a comerciar con vosotros.\n\nPero os advertimos que seguiremos atentos a cualquier artimaña por vuestra parte
+TRADESANCTIONS_LIFT_RESPONSE		;Agradecemos esta decisión vuestra. El comercio conduce a la paz
+
+WAR_DECLARE				;Sois un Darkhul furioso al que hay que enjaular. ¡Os declaramos la GUERRA!\n\nPondremos fin a vuestro reinado de terror
+WAR_DECLARE_RESPONSE_EAGER		;¡Somos un pueblo pacífico, pero sabemos defender nuestros hogares!\n\nLucharemos con todas nuestras fuerzas
+WAR_DECLARE_RESPONSE_NEUTRAL		;Vuestra agresión hizo inevitable este camino.\n\n¡Estamos preparados para vosotros!
+WAR_DECLARE_RESPONSE_SURPRISED		;¡Qué horror! Sois un Darkhul mortífero que se acerca a hurtadillas por la espalda.\n\n¡Volveremos a meteros en vuestra jaula!
+
+WAR_END					;Esta guerra se ha vuelto muy oscura: no aporta nada y lo destruye todo. Proponemos ponerle fin.\n\n¿Qué decís?
+WAR_END_ACCEPT				;Sí, esta guerra debe terminar.\n\nNuestras fuerzas están regresando ya a casa
+WAR_END_REJECT				;¿Terminar la guerra? No, esta guerra no puede terminar mientras sigáis siendo libres.
+
+GIFT_GIVE				;Os enviamos un regalo de {0} créditos
+GIFT_THANKS				;Gracias por vuestro amable regalo

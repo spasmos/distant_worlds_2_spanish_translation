@@ -1,0 +1,15 @@
+La Exploración consiste en enviar Naves exploradoras a mundos desconocidos para descubrir sus recursos, su idoneidad para colonizar y cualquier bonificación especial. También pueden encontrar Ruinas antiguas o naves y bases abandonadas que investigar.
+
+En cada ubicación, la Nave exploradora envía equipos de reconocimiento para inspeccionar el planeta. Este proceso es lento y requiere tiempo.
+
+Las tecnologías más avanzadas desbloquean escáneres que aceleran la Exploración. Sin embargo, los equipos de reconocimiento más lentos siguen siendo útiles para examinar una ubicación a fondo y descubrir elementos ocultos a gran profundidad.
+
+[H3]Lista de Naves exploradoras[/H3]
+Esta pantalla enumera todas las Naves exploradoras de tu Imperio. Consulta las opciones de ordenación y filtrado de la parte superior del panel.
+
+En los niveles de la galaxia y del sistema, sus ubicaciones aparecen resaltadas en el mapa. Pasa el cursor sobre un elemento de la lista para señalar su ubicación, haz clic para seleccionarlo o haz doble clic para desplazar la vista hasta allí.
+
+Puedes cambiar el estado de automatización de una Nave exploradora mediante el botón del extremo derecho del elemento.
+
+[H3]Superposición del mapa de Exploración[/H3]
+Al abrir la lista de Naves exploradoras se activa automáticamente la superposición de Exploración del mapa galáctico, que muestra el estado de cada sistema. Los sistemas verdes están totalmente explorados y los amarillos, solo parcialmente.

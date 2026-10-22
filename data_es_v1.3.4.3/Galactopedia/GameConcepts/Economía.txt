@@ -1,0 +1,68 @@
+Tu imperio está formado por tus colonias: mundos con una población leal.
+
+[H3]Sector estatal y privado[/H3]
+Los habitantes de tus colonias actúan de forma independiente y conforman la economía privada. Buscan activamente mejorar sus colonias y aumentar su riqueza.
+
+Por ello, buscan oportunidades de negocio comerciando entre tus colonias con los bienes más demandados. Cuando estableces tratados comerciales con colonias independientes u otros imperios, también amplían sus actividades para aprovechar esas nuevas oportunidades.
+
+Los ciudadanos más emprendedores también organizan expediciones mineras: emplean naves mineras para extraer recursos valiosos por toda la galaxia explorada y llevarlos a tus puertos espaciales.
+
+La población de cada colonia crece con el tiempo hasta alcanzar el límite natural de su tipo de mundo. Una población mayor genera más ingresos y proporciona una base tributaria más amplia con la que financiar tu imperio.
+
+La pantalla de economía del imperio (F2) muestra un resumen de las economías estatal y privada.
+
+A continuación se explican detalladamente los distintos tipos de ingresos y gastos:
+
+[H2]Ingresos estatales[/H2]
+La economía estatal se financia mediante las principales fuentes de ingresos descritas a continuación:
+
+[H3]Ingresos fiscales de las colonias[/H3]
+Puedes ajustar directamente los tipos impositivos de cada colonia para recaudar más. Sin embargo, cuanto más suban los impuestos, mayor será la evasión: algunos ciudadanos encontrarán formas de no pagarlos. Los impuestos elevados también reducen la felicidad de la colonia y la generación de riqueza.
+
+[H3]Construcción de naves[/H3]
+Expandir el imperio con nuevas colonias aumenta la demanda privada de cargueros y naves mineras. La compra de esas naves en tus astilleros aporta más dinero a la economía estatal.
+
+[H3]Comisiones por transacciones comerciales[/H3]
+Cada transacción realizada en tus puertos espaciales y estaciones mineras genera una comisión para el imperio. Por eso es importante garantizar un comercio libre y seguro con esos lugares. Patrulla tus puertos espaciales y estaciones mineras y ahuyenta amenazas como piratas, criaturas espaciales agresivas o imperios enemigos.
+
+[H3]Ingresos por bonificaciones comerciales[/H3]
+Cuando tu imperio dispone de bonificaciones comerciales, obtienes ingresos adicionales por cada transacción realizada en tus puertos espaciales, colonias y estaciones mineras.
+
+Las bonificaciones a los ingresos comerciales pueden proceder de determinados tipos de gobierno. Algunas razas alienígenas las poseen de forma natural, y ciertas instalaciones planetarias y maravillas también las proporcionan.
+
+[H3]Acuerdos comerciales[/H3]
+Los acuerdos comerciales con otros imperios generan ingresos. Cada parte obtiene como bonificación un porcentaje del volumen comercial total entre ambos imperios. Este porcentaje aumenta con el tiempo hasta alcanzar un límite máximo.
+
+[H3]Turismo en bases turísticas[/H3]
+Las bases turísticas de tu imperio generan ingresos cuando reciben visitantes.
+
+[H3]Estrategia económica[/H3]
+Para aumentar los ingresos estatales, tu estrategia debería incluir lo siguiente:
+[ULI]Sigue expandiendo el imperio con nuevas colonias: así estimularás el comercio y el sector privado comprará más cargueros y otras naves.[/ULI]
+[ULI]Garantiza rutas comerciales seguras para los cargueros que abastecen tus colonias: un mayor nivel de desarrollo colonial produce más ingresos fiscales.[/ULI]
+[ULI]Busca acuerdos comerciales con imperios amistosos para complementar tus ingresos. Recibirás una bonificación basada en el volumen comercial total entre ambos imperios.[/ULI]
+[ULI]Construye bases turísticas en lugares con bonificaciones de paisaje.[/ULI]
+
+[H3]Gastos regulares[/H3]
+La economía estatal de tu imperio tiene tres gastos regulares principales:
+[ULI]Mantenimiento de naves y bases.[/ULI]
+[ULI]Mantenimiento de tropas.[/ULI]
+[ULI]Mantenimiento de instalaciones planetarias.[/ULI]
+
+Puedes controlar los costes de mantenimiento equilibrando cuidadosamente el número de naves, tropas e instalaciones del imperio. Construye solo las naves que necesites, recluta únicamente las tropas necesarias y no levantes instalaciones superfluas.
+
+[H3]Ingresos excedentes y niveles de financiación[/H3]
+También puedes destinar los ingresos excedentes a dos áreas importantes:
+[ULI]Financiación del crecimiento colonial: destina parte de los ingresos excedentes a acelerar el crecimiento de tus colonias.[/ULI]
+[ULI]Investigación: destina parte de los ingresos excedentes a aumentar la velocidad de investigación.[/ULI]
+
+Consulta la pantalla Niveles de financiación del imperio para obtener más información (Mayús+F2).
+
+[H3]Gastos irregulares[/H3]
+Otros gastos son irregulares y no recurrentes:
+[ULI]Construcción naval estatal: coste de construir nuevas naves y bases estatales.[/ULI]
+[ULI]Reclutamiento de tropas: coste de reclutar nuevas unidades.[/ULI]
+[ULI]Construcción de instalaciones: coste de levantar nuevas instalaciones planetarias y maravillas.[/ULI]
+[ULI]Compra de recursos a otros imperios: coste de adquirirles recursos.[/ULI]
+[ULI]Tributos: incluyen los regalos a otros imperios y los pagos de protección a piratas.[/ULI]
+[ULI]Combustible: coste del combustible consumido por tus naves y bases estatales.[/ULI]

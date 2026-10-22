@@ -1,0 +1,61 @@
+Las flotas permiten agrupar varias naves militares y asignar misiones al conjunto, lo que facilita coordinar grandes ataques contra objetivos enemigos.
+
+Cada flota tiene una base que constituye su centro de operaciones y un rango de intervención que delimita, desde esa base, el área donde se enfrentará a objetivos enemigos.
+
+Cuando no haya fuerzas suficientes para proteger un objetivo, tus flotas automatizadas responderán a los ataques enemigos. La flota disponible más cercana viajará hasta allí para defenderlo.
+
+Existen cinco tipos de flota:
+[ULI]Ataque: grandes flotas destinadas a ofensivas importantes contra colonias, puertos espaciales y otros objetivos enemigos.[/ULI]
+[ULI]Defensa: protegen ubicaciones importantes y responden a ataques enemigos dentro de su alcance.[/ULI]
+[ULI]Incursión: flotas menores que atacan bases, flotas pequeñas y otros objetivos limitados.[/ULI]
+[ULI]Invasión: desembarcan grandes cantidades de tropas al invadir colonias enemigas.[/ULI]
+[ULI]Manual: flota controlada directamente por el jugador.[/ULI]
+
+[H3]Crear flotas nuevas[/H3]
+Puedes crear una flota de varias formas:
+[ULI]Selecciona varias naves militares en la vista principal arrastrando con el botón izquierdo pulsado o haciendo Ctrl-clic en cada una; después pulsa 'Crear nueva flota' bajo el Panel de selección.[/ULI]
+[ULI]Selecciona varias naves en la lista Naves militares mediante Ctrl-clic o Mayús-clic; después pulsa 'Crear nueva flota' bajo el Panel de selección.[/ULI]
+[ULI]En la pantalla Plantillas de flota, selecciona una plantilla y pulsa 'Formar nueva flota' o 'Construir nueva flota' a la derecha.[/ULI]
+
+También puedes añadir una nave a una flota existente: selecciónala y pulsa 'Unir a la flota' bajo el Panel de selección. Aparecerán todas las flotas disponibles; haz clic en aquella a la que quieras incorporarla.
+
+[H3]Opciones tácticas[/H3]
+Las flotas disponen de numerosas opciones tácticas para ajustar su comportamiento. Selecciona la flota y pulsa 'Establecer tácticas', en el extremo derecho bajo el Panel de selección, para abrir la pantalla correspondiente.
+
+Cada nave de la flota conserva sus propias opciones tácticas. Puedes ajustar la interacción entre ambas en la sección 'Tácticas de flota - Reemplazo táctico'.
+
+[H3]Rango de intervención de la flota[/H3]
+El rango de intervención es una opción táctica esencial que determina hasta qué distancia responderá una flota a las amenazas.
+
+Las flotas de Defensa protegen su base y responden a ataques contra cualquiera de nuestras colonias o bases situadas dentro de su rango de intervención.
+
+Las flotas de Ataque, Incursión e Invasión atacan primero su punto de ataque y después cualquier otro objetivo enemigo dentro de su rango. También responden a amenazas y ubicaciones peligrosas situadas dentro del rango medido desde su base.
+
+[H3]Seleccionar flotas[/H3]
+Hay cuatro formas de seleccionar una flota:
+[ULI]Al alejar la vista hasta el nivel del sistema o superior, las flotas aparecen como grandes iconos triangulares con bordes rayados. Haz clic en uno para seleccionarlo.[/ULI]
+[ULI]En el nivel de ubicación, haz doble clic en cualquier nave para seleccionar toda su flota.[/ULI]
+[ULI]Abre la lista Flotas del Centro de control (Mayús+F11) y haz clic en la flota deseada.[/ULI]
+[ULI]Recorre todas tus flotas pulsando repetidamente la tecla F.[/ULI]
+
+Cuando selecciones una flota podrás asignarle misiones del mismo modo que a una nave individual.
+
+[H3]Establecer una base de operaciones[/H3]
+La base de una flota es su centro de operaciones, al que regresa cuando no está cumpliendo ninguna misión.
+
+Debe disponer de combustible suficiente para toda la flota. Los puertos espaciales, las colonias grandes y las estaciones de extracción de combustible son buenas opciones. Al elegir una base nueva, sus niveles de existencias solicitarán automáticamente más combustible.
+
+Para establecer la base de una flota:
+[OLI]Selecciona la flota.[/OLI]
+[OLI]Mantén pulsado el botón derecho sobre la nueva base para abrir un menú.[/OLI]
+[OLI]Elige 'Establecer base de operaciones para (Nombre de la flota) a (Ubicación)'.[/OLI]
+
+[H3]Establecer un punto de ataque[/H3]
+Los puntos de ataque de una flota son sus objetivos iniciales cuando comienza una guerra contra otro imperio.
+
+Así puedes preparar el plan de guerra y posicionar las flotas antes de que comiencen las hostilidades. Al declararse la guerra, se dirigirán automáticamente a sus puntos de ataque.
+
+Para establecer el punto de ataque de una flota:
+[OLI]Selecciona la flota.[/OLI]
+[OLI]Mantén pulsado el botón derecho sobre la ubicación del punto de ataque, que debe ser una base o colonia extranjera, para abrir un menú.[/OLI]
+[OLI]Elige 'Establecer punto de ataque para (Nombre de la flota) en (Ubicación)'.[/OLI]

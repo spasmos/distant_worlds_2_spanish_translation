@@ -1,0 +1,27 @@
+La lista Bahías de diseño muestra todas las Bahías para Componentes del Casco.
+
+Los Componentes colocados en ellas constituyen el núcleo del diseño y determinan sus capacidades y comportamiento.
+
+Cada Bahía tiene un tipo y un tamaño. Solo admite Componentes del tipo correspondiente que sean lo bastante pequeños para caber.
+
+Existen seis tipos de Bahía, cada uno destinado a determinados Componentes:
+[ULI]General: Centros de Mando, dependencias de la tripulación, Pilas de combustible, Reactores, Hipermotores, Bodegas de carga, Compartimentos de pasajeros y Tropas, Motores mineros, Colectores de energía y todos los demás[/ULI]
+[ULI]Armas: Armas y Rayos tractores[/ULI]
+[ULI]Motores: Motores y Motores vectoriales[/ULI]
+[ULI]Defensa: Blindaje, Escudos y Control de daños[/ULI]
+[ULI]Hangares: Bahías de atraque, Astilleros y Bahías de cazas[/ULI]
+[ULI]Sensores: Escáneres, Contramedidas, Sistemas de apuntado, Módulos de prospección e Inhibidores de escáneres[/ULI]
+
+Para añadir un Componente a una Bahía:
+[OLI]selecciónalo en la lista Componentes disponibles[/OLI]
+[OLI]busca en Bahías de diseño una del tipo y tamaño adecuados[/OLI]
+[OLI]haz clic con el botón izquierdo en ella para colocar el Componente[/OLI]
+
+También puedes:
+[ULI]pasar el cursor sobre una Bahía ocupada para mostrar una ventana que compara el Componente colocado con el seleccionado[/ULI]
+[ULI]hacer clic con el botón derecho en una Bahía para retirar su Componente[/ULI]
+
+[H3]Bahías externas[/H3]
+Algunas Bahías son externas en el modelo de vista previa, por lo que resultan visibles en el exterior de la Nave o Base.
+
+En la lista Bahías de diseño aparecen con un icono de vista a la izquierda. Haz clic en él para girar la vista previa y mostrar la Bahía externa.

@@ -1,0 +1,36 @@
+Las políticas de población permiten controlar qué razas alienígenas aceptas en tus colonias.
+
+Puedes configurarlas en la pantalla Política de población, que aparece desde el panel de selección al elegir una colonia. Sitúa el cursor sobre el icono del extremo derecho de la fila de población y haz clic en él o en la pantalla para mantenerla abierta.
+
+La lista incluye todas las razas que has conocido y permite definir una política específica para cada una en cada colonia.
+
+Pulsa «Aplicar esta política a todas las colonias» para copiar la configuración actual al resto de colonias del imperio.
+
+A continuación se describen las cinco políticas de población disponibles.
+
+[H3]Asimilar[/H3]
+Permite aceptar a esta raza en tu imperio. Es la opción predeterminada.
+
+[H3]No aceptar[/H3]
+Impide que esta raza emigre a la colonia. Las naves de pasajeros no podrán desembarcar allí migrantes de esa raza.
+
+[H3]Reubicar[/H3]
+Traslada activamente a esta raza hacia otras colonias que la acepten. Las naves de pasajeros recogerán a sus habitantes para reubicarlos.
+
+[H3]Esclavizar[/H3]
+Esclaviza a esta raza y la somete a trabajos forzados. Su tasa de crecimiento en la colonia será cero.
+
+Los imperios de cada raza esclavizada se sentirán ofendidos. La magnitud de su rechazo dependerá directamente de la población sometida.
+
+La esclavitud también concede una bonificación a la economía colonial. Su valor depende de la proporción esclavizada y alcanza un máximo del 50 % si toda la población lo está.
+
+Una raza esclavizada nunca se utilizará para fundar una colonia, aunque sea la más adecuada de tu imperio para ese planeta.
+
+[H3]Exterminar[/H3]
+Elimina gradualmente a esta raza de la colonia hasta reducir su población a cero. Mientras sea exterminada, su tasa de crecimiento será cero.
+
+Los imperios de cada raza exterminada se sentirán profundamente ofendidos. La magnitud de su rechazo dependerá directamente de la población eliminada.
+
+Exterminar razas también perjudica la reputación de tu imperio: todos los demás condenarán estas acciones.
+
+Una raza sometida a exterminio nunca se utilizará para fundar una colonia, aunque sea la más adecuada de tu imperio para ese planeta.

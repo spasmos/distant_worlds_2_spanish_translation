@@ -1,0 +1,19 @@
+Uno de los objetivos principales de cualquier guerra es conquistar y conservar territorio enemigo, compuesto sobre todo por sus colonias.
+
+Invadir una colonia enemiga exige desembarcar tropas desde tus naves. Una vez en tierra, combatirán contra las fuerzas defensoras del otro imperio.
+
+Puedes abrir una vista animada detallada en la pantalla Informe terrestre. Selecciona la colonia y haz clic en el área Tropas del Panel de selección.
+
+[H3]Iniciar una invasión[/H3]
+Para iniciar una invasión, selecciona una nave que transporte tropas o una flota completa y haz clic derecho sobre la colonia enemiga.
+
+Al ordenar una invasión, la flota comprobará si hay suficientes tropas atacantes en la ubicación. Comenzará cuando hayan llegado suficientes unidades a bordo de los transportes.
+
+Todas las naves con tropas intentarán desplegarlas durante la invasión.
+
+[H3]Proceso de desembarco[/H3]
+Para desembarcar, las naves deben acercarse a la colonia. Cuando estén dentro del alcance lanzarán las tropas en cápsulas de asalto hacia la superficie.
+
+Durante el descenso, las cápsulas son vulnerables al fuego de intercepción enemigo y a las tropas de Defensa planetaria. Cualquier Escudo planetario de la colonia también dañará a los invasores.
+
+La batalla terrestre comenzará cuando tus tropas alcancen la superficie.

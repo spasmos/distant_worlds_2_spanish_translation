@@ -1,0 +1,15 @@
+Las Plantillas de ejército definen la proporción de cada tipo de Tropa. Las Flotas y Colonias las utilizan para determinar cuántas unidades de cada clase deben mantener.
+
+[H3]Tipos de Plantilla de ejército[/H3]
+Existen cuatro tipos básicos:
+[ULI]Invasión: se asigna a Flotas y define las Tropas destinadas a invadir Colonias enemigas. Suele incluir numerosas unidades Blindadas, algunas Fuerzas especiales, algo de Infantería y Titanes, si están disponibles.[/ULI]
+[ULI]Defensa mayor de la colonia: se asigna a Colonias importantes, como la capital, y define las Tropas que las defenderán de una invasión. Suele incluir unidades de todos los tipos, en especial mucha Infantería y Defensa planetaria.[/ULI]
+[ULI]Defensa fronteriza de colonias: se asigna a Colonias fronterizas vulnerables. Suele incluir mucha Infantería y algunas unidades de Defensa planetaria.[/ULI]
+[ULI]Defensa de colonia estándar: se asigna a las demás Colonias y suele incluir mucha Infantería.[/ULI]
+
+Cada tipo dispone de una plantilla predeterminada, pero puedes modificarla o crear otras que se adapten a tus necesidades.
+
+[H3]Asignar Plantillas de ejército[/H3]
+Para elegir una plantilla para una Colonia, selecciónala y usa «Establecer automatización de la colonia» > «Plantilla de ejército» bajo el panel de selección. Elige una de la lista y la Colonia intentará reclutar Tropas defensivas en la proporción indicada.
+
+Para elegir una plantilla para una Flota, selecciónala y usa «Plantilla de ejército» bajo el panel de selección. Elige una de la lista y la Flota intentará embarcar Tropas en la proporción indicada.

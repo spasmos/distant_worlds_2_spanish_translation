@@ -1,0 +1,24 @@
+Las naves y bases generan dos tipos de costes para tu imperio:
+[ULI]Coste inicial de compra, que se paga una sola vez.[/ULI]
+[ULI]Costes anuales de mantenimiento continuos.[/ULI]
+
+Planifica con cuidado tus necesidades antes de comprar naves nuevas.
+
+Los costes de compra y mantenimiento de naves y bases dependen en gran medida del precio actual de los recursos necesarios para construirlas. En términos sencillos:
+
+Coste de compra de la nave = Recursos necesarios x Precios actuales de los recursos
+
+[H3]Precios de los recursos[/H3]
+Los precios de los recursos se determinan en el mercado abierto según la oferta y la demanda.
+
+Cuando un recurso tiene mucha demanda y poca oferta en la galaxia, su precio aumenta drásticamente. En cambio, un recurso abundante y con una demanda relativamente baja resulta barato.
+
+Al abastecer el mercado mediante tus puertos espaciales y estaciones mineras contribuyes a reducir los precios en toda la galaxia. Esto disminuye los costes de compra y mantenimiento de naves tanto para tu imperio como para los demás.
+
+[H3]Reducir los costes de mantenimiento naval[/H3]
+El mantenimiento de las naves supone un gasto importante, por lo que conviene reducirlo siempre que sea posible. Algunas medidas eficaces son:
+[ULI]Garantizar un suministro abundante de recursos de construcción procedentes de tus colonias y estaciones mineras.[/ULI]
+[ULI]Investigar por completo la tecnología de Centro de mando. Sus componentes de nivel superior reducen el mantenimiento de naves y bases.[/ULI]
+[ULI]Utilizar un gobierno con costes de mantenimiento naval reducidos: Feudalismo, Monarquía, Dictadura Militar, Mente Colmena o Gremio Mercantil.[/ULI]
+[ULI]Elegir una especie alienígena con costes naturales de mantenimiento naval reducidos, como la ackdariana o la haakonish.[/ULI]
+[ULI]Integrar en tu imperio una población numerosa de una de esas especies mediante colonización o conquista.[/ULI]

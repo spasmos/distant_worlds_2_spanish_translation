@@ -1,0 +1,99 @@
+La población de cada colonia tiene una opinión sobre ti como gobernante. Debes conservar la aprobación de la mayoría o podría rebelarse e incluso abandonar tu imperio.
+
+Procura mantener la aprobación de cada colonia en 5 o más. Por debajo de ese nivel, una caída repentina de la felicidad causada por un desastre natural o una misión de inteligencia enemiga podría provocar una rebelión.
+ 
+[H3]Factores que influyen en la aprobación[/H3]
+Numerosos factores afectan a la aprobación de cada colonia:
+[ULI]Tipo impositivo: cuanto más bajo, mejor.[/ULI]
+[ULI]Nivel de desarrollo: cuanto más alto, mejor.[/ULI]
+[ULI]Idoneidad planetaria: cuanto más alta, mejor.[/ULI]
+[ULI]Una corrupción elevada aumenta el descontento.[/ULI]
+
+Algunas circunstancias especiales reducen la aprobación de colonias concretas:
+[ULI]Los planetas conquistados recientemente están descontentos.[/ULI]
+[ULI]Las colonias con poblaciones poco asimiladas son menos felices.[/ULI]
+[ULI]Los ataques piratas recientes contra una colonia aumentan el descontento.[/ULI]
+[ULI]Guerra contra un imperio de la misma raza: si algunas colonias comparten su raza dominante con un imperio enemigo, su aprobación disminuirá.[/ULI]
+[ULI]Baja calidad planetaria: si el planeta o la luna tiene poca calidad, ya sea de forma natural o por un bombardeo enemigo, sus habitantes estarán descontentos.[/ULI]
+
+Otros factores afectan a todas las colonias del imperio:
+[ULI]Desgaste bélico: participar en guerras contra otros imperios, especialmente si se prolongan, reduce la aprobación de toda tu población.[/ULI]
+[ULI]Mala reputación: algunas razas alienígenas se inquietan si tu imperio tiene mala reputación, lo que reduce su aprobación.[/ULI]
+
+Mantén una aprobación elevada procurando que tus colonias alcancen buenos niveles de desarrollo. Para ello, protege las rutas comerciales de modo que los recursos de lujo lleguen a ellas sin peligro.
+
+Evita también subir demasiado los impuestos. Por lo general conviene dejar que se controlen automáticamente, como establece la opción predeterminada del juego.
+
+[H3]Población máxima[/H3]
+La población de una colonia acaba alcanzando un límite natural y deja de crecer. Este límite depende de dos factores:
+[ULI]Idoneidad del planeta para sus habitantes: una mayor idoneidad aumenta la población máxima.[/ULI]
+[ULI]Tamaño del mundo: los mundos mayores admiten más población.[/ULI]
+
+[H3]Crecimiento de la población[/H3]
+La tasa de crecimiento depende en gran medida de la idoneidad del planeta para sus habitantes. Las colonias más adecuadas crecen mucho más deprisa.
+
+El tamaño de la población también influye. Las colonias pequeñas crecen más rápido: por debajo del 25 % de su población máxima, el crecimiento se duplica.
+
+Entre el 25 % y el 75 % de la población máxima, la colonia crece al ritmo normal.
+
+A partir del 75 % de la población máxima, el crecimiento se reduce a la mitad.
+
+[H3]Migración[/H3]
+La migración desde colonias grandes hacia otras menores es fundamental para acelerar el crecimiento de los mundos nuevos. Los ciudadanos se sienten atraídos por colonias cercanas con pocos impuestos y buen desarrollo; embarcan en naves de pasajeros y aumentan la población de su destino.
+
+[H3]Financiación del crecimiento colonial[/H3]
+Puedes acelerar aún más el crecimiento destinando los ingresos excedentes del imperio a financiarlo.
+
+Ajusta la financiación del crecimiento colonial en la pantalla Niveles de financiación imperial (Mayús+F2). Es una buena forma de emplear los excedentes para expandir el imperio con mayor rapidez.
+
+También debes equilibrar el uso de los ingresos en otras áreas. Necesitas dinero para comprar naves y bases, reclutar tropas, construir instalaciones, investigar y pagar todos sus costes de mantenimiento.
+
+[H3]Ventajas de investigar colonización[/H3]
+Como se ha explicado, la idoneidad colonial es muy importante porque:
+[ULI]Aumenta la población máxima.[/ULI]
+[ULI]Aumenta la tasa de crecimiento demográfico.[/ULI]
+[ULI]Aumenta la felicidad y, por tanto, los ingresos efectivos.[/ULI]
+
+Mejorar la idoneidad resulta, por tanto, muy beneficioso para tus colonias.
+
+Una forma sencilla de aumentarla es investigar proyectos de colonización en la pantalla Investigación.
+
+Las tecnologías de colonización reducen el umbral necesario para colonizar determinados tipos de planeta. Esto mejora la fórmula de idoneidad incluso en mundos ya colonizados.
+
+Investiga estos proyectos, sobre todo los correspondientes al tipo de tu mundo natal y de tus demás colonias grandes.
+
+[H3]Ingresos coloniales[/H3]
+Para obtener los máximos ingresos debes ayudar a las colonias a desarrollar todo su potencial.
+
+Los ingresos coloniales se calculan así:
+
+Ingresos coloniales = Población total x Nivel de desarrollo
+
+Para maximizar los ingresos debes aumentar tanto la población como el desarrollo de cada colonia.
+
+El crecimiento rápido y un desarrollo elevado se consiguen mediante los mismos métodos:
+[ULI]Mantén los impuestos en un nivel razonable.[/ULI]
+[ULI]Garantiza un buen suministro de recursos de lujo.[/ULI]
+
+[H3]Desarrollo colonial: población y recursos de lujo[/H3]
+El nivel de desarrollo colonial consta de dos partes: la población aporta hasta un 50 % y los recursos de lujo proporcionan el resto.
+
+[H3]Desarrollo por población[/H3]
+Con 5.000 millones de habitantes, el desarrollo por población alcanza su máximo del 50 %. Las poblaciones menores aportan proporcionalmente menos; por ejemplo, una colonia nueva de 30 millones alcanza aproximadamente un 14 %.
+
+[H3]Desarrollo por recursos de lujo[/H3]
+Los recursos de lujo son bienes de alta gama consumidos por la población: alimentos, bebidas, tejidos, minerales exóticos, maderas y muchos otros. Cada uno concede una bonificación concreta al desarrollo colonial.
+
+Las colonias consumen recursos de lujo. Acceder a una gran variedad eleva el desarrollo por lujos y genera más ingresos. Cada recurso aumenta el nivel en una cantidad concreta, normalmente entre el 3 % y el 6 %, por lo que un suministro estable permite que el desarrollo crezca poco a poco.
+
+Para hacer crecer tus colonias es esencial mantener y ampliar un suministro estable de recursos de lujo.
+
+[H3]Nivel de desarrollo total[/H3]
+La suma del desarrollo por población y por recursos de lujo determina el desarrollo colonial total.
+
+Al alcanzar un 120 % de desarrollo total, los aumentos posteriores pierden eficacia. Los recursos de lujo adicionales solo aportan una parte de su bonificación, aunque un suministro muy variado todavía permite superar ampliamente el 100 %.
+
+[H3]Desaceleración de los ingresos[/H3]
+Cuando una colonia alcanza el 50 % de su población máxima, disminuyen los ingresos adicionales. Los habitantes que superan ese umbral producen ingresos a la mitad del ritmo de los anteriores.
+
+Por ello, aunque las colonias muy grandes pueden generar mucho dinero, el aumento no es estrictamente lineal.

@@ -1,0 +1,15 @@
+Las Instalaciones planetarias se construyen en las Colonias de tu imperio y les proporcionan distintas bonificaciones o capacidades nuevas.
+
+Algunas instalaciones permiten reclutar nuevos tipos de tropas; otras proporcionan armas terrestres para defender la Colonia. Las instalaciones administrativas reducen la corrupción, mejoran la felicidad y, con ello, aumentan los ingresos coloniales.
+
+Las nuevas instalaciones se habilitan mediante la investigación. Examina los proyectos de la pantalla Investigación para consultar cuáles puedes desbloquear.
+
+[H3]Construcción de nuevas instalaciones[/H3]
+Para construir una instalación, selecciona la Colonia y utiliza el botón de acción 'Construir instalaciones' bajo el Panel de selección. Aparecerá un botón para cada instalación disponible. Sitúa el cursor sobre ellos para consultar un resumen y haz clic en uno para pagar el coste e iniciar la construcción.
+
+[H3]Entradas de la lista de instalaciones[/H3]
+Esta pantalla enumera todas las Instalaciones planetarias, Maravillas y ruinas de las Colonias de tu imperio. Consulta las opciones de ordenación y filtrado en la parte superior. Los filtros permiten mostrar categorías concretas, como armas, reclutamiento de tropas o edificios administrativos.
+
+Al alejar la vista hasta el nivel de galaxia o sistema, las ubicaciones de las instalaciones se resaltan en el mapa. Sitúa el cursor sobre una entrada para señalar su ubicación, haz clic para seleccionarla o doble clic para desplazar allí la vista.
+
+Al situar el cursor sobre una entrada se abre a la derecha un panel con el resumen detallado de la instalación.

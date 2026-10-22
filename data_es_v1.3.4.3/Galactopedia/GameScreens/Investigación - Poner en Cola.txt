@@ -1,0 +1,26 @@
+Pasa el cursor sobre un proyecto para mostrar un resumen y los beneficios que desbloquea. Si lo mantienes unos instantes, aparecerá otro más detallado con todos los datos sobre esos beneficios.
+
+También puedes pasar el cursor sobre los proyectos de la cola de investigación y sobre el botón «Poner en cola proyecto sugerido».
+
+[H3]Poner en cola un proyecto de investigación[/H3]
+Haz clic con el botón izquierdo en un proyecto para ponerlo en cola.
+
+Haz clic con el botón derecho para retirarlo de la cola de investigación.
+
+[H3]Costes de iniciación[/H3]
+Algunos proyectos exigen pagar un coste de iniciación, que puede incluir dinero y recursos, antes de comenzar la investigación.
+
+Al poner en cola uno de estos proyectos, una ventana emergente te pedirá que apruebes el pago.
+
+[H3]Requisitos adicionales[/H3]
+Algunos proyectos exigen bonificaciones de investigación adicionales antes de poder investigarlos. Solo pueden iniciarse si dispones de suficientes bonificaciones de un tipo concreto. Por ejemplo, ciertos proyectos avanzados de Escudos requieren alcanzar un valor mínimo de bonificación de Escudos.
+
+Puedes conseguir bonificaciones en áreas concretas explorando la galaxia. Cuando encuentres un lugar con bonificaciones especiales, construye allí una Estación de investigación para incorporarlas a tu imperio.
+
+[H3]Investigación intensiva[/H3]
+Puedes acelerar un proyecto importante mediante investigación intensiva: gastar dinero para duplicar su velocidad de investigación.
+
+Para iniciar la investigación intensiva de un proyecto:
+[ULI]asegúrate de que se esté investigando, es decir, de que sea el primer proyecto de la cola[/ULI]
+[ULI]haz clic en el proyecto dentro de la vista[/ULI]
+[ULI]aprueba el pago en la ventana emergente que aparecerá[/ULI]

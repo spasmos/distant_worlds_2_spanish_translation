@@ -1,0 +1,8 @@
+En ocasiones, la Exploración descubre naves o bases abandonadas. Pueden contener información importante que obtendrás al abordarlas e investigarlas. Por lo general también es posible recuperarlas enviando una Nave de construcción para repararlas.
+
+[H3]Lista de naves y bases abandonadas[/H3]
+Esta pantalla enumera todas las naves y bases abandonadas que conoces gracias a la Exploración.
+
+En los niveles de la galaxia y del sistema, sus ubicaciones aparecen resaltadas en el mapa. Pasa el cursor sobre un elemento de la lista para señalar su ubicación, haz clic para seleccionar la nave o base, o haz doble clic para desplazar la vista hasta allí.
+
+El botón de la derecha permite poner en cola la reparación e investigación del elemento. Una Nave de construcción acudirá para repararlo.

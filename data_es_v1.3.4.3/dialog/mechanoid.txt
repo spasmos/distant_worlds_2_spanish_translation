@@ -1,0 +1,77 @@
+﻿GREETING_INTRODUCTION		;Somos los {0}. No buscamos nada de los demás, salvo que nos dejen en paz.\n\n¿Cuál es el propósito de esta comunicación?
+GREETING_FRIENDLY			;¿Qué deseas discutir?
+GREETING_NEUTRAL			;Transmite tu mensaje.
+GREETING_ANGRY				;Habla.
+
+MUTUALDEFENSE_ACCEPT			;Sí, un pacto de defensa mutua es una idea excelente.\n\nAceptamos.
+MUTUALDEFENSE_REJECT			;No, no tenemos interés en un pacto de defensa mutua
+MUTUALDEFENSE_REQUESTHELP		;Nos están atacando los {0}. Solicitamos que cumplas tu tratado con nosotros y les declares la guerra.\n\n¿Contamos con tu ayuda?
+MUTUALDEFENSE_HONORREQUESTHELP		;Por supuesto, cumpliremos las directrices de nuestra alianza.\n\nDeclaramos la guerra a los {0}.
+MUTUALDEFENSE_HONORREQUESTHELP_RESPONSE	;Eso resulta sumamente útil.
+MUTUALDEFENSE_DECLINEREQUESTHELP	;No podemos cumplir esta solicitud.
+MUTUALDEFENSE_DECLINEREQUESTHELP_RESPONSE	;Esto resulta sumamente desconcertante. Tu negativa a prestar ayuda tendrá graves consecuencias.
+
+FREETRADE_ACCEPT			;Tu oferta de un acuerdo de libre comercio es sumamente sensata. Aceptamos.
+FREETRADE_REJECT			;No tenemos interés en un acuerdo de libre comercio
+
+CANCELTREATY						;Nuestro {0} contigo debe terminar ahora.
+CANCELTREATY_RESPONSE_FRIENDLY		;No lo entendemos. Esto resulta sumamente ilógico.
+CANCELTREATY_RESPONSE_NEUTRAL		;Actualizaremos nuestros registros diplomáticos con este cambio
+CANCELTREATY_RESPONSE_ANGRY			;Esto resulta sumamente poco útil.
+
+TREATY_PROPOSAL					;¿Qué propones?
+TREATY_ACCEPTRESPONSE			;Este es un resultado sumamente satisfactorio. Prevemos muchos beneficios de este acuerdo.
+TREATY_REJECTRESPONSE			;Sumamente desafortunado
+
+TRADESANCTIONS_IMPOSE						;Es necesario imponerte sanciones comerciales.\n\nTodo comercio entre nuestros dos imperios queda interrumpido.
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY		;Te estás convirtiendo en un problema considerable.
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL		;Eso resulta sumamente poco útil.
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED	;No entendemos tus acciones. Esto resulta sumamente ilógico.
+TRADESANCTIONS_LIFT					;Nuestras sanciones comerciales contra ti han terminado. Reanudaremos ahora el comercio normal.
+TRADESANCTIONS_LIFT_RESPONSE		;Este es un cambio sensato
+TRADESANCTIONS_REQUESTLIFTOTHER		;Solicitamos que restablezcas el comercio con los {0}
+TRADESANCTIONS_REQUESTLIFTOTHER_ACCEPT	;Como has solicitado, reanudaremos el comercio con los {0}
+TRADESANCTIONS_REQUESTLIFTOTHER_REJECT	;No vemos ninguna razón para reanudar el comercio con los {0}
+TRADESANCTIONS_REQUESTIMPOSEJOINT	;Solicitamos que pongas fin al comercio con los {0}
+TRADESANCTIONS_REQUESTIMPOSEJOINT_ACCEPT	;A petición tuya, hemos puesto fin a todo comercio con los {0}
+TRADESANCTIONS_REQUESTIMPOSEJOINT_REJECT	;No vemos la necesidad de poner fin al comercio con los {0}
+
+WAR_DECLARE						;Declaramos formalmente la guerra a tu imperio. No podemos permitir que continúes existiendo.
+WAR_DECLARE_RESPONSE_EAGER		;Estamos preparados y listos.
+WAR_DECLARE_RESPONSE_NEUTRAL	;Preservaremos nuestra integridad territorial. Prepárate para la batalla.
+WAR_DECLARE_RESPONSE_SURPRISED	;Esta situación resulta sumamente indeseable. E ilógica.\n\nSeguro que has cometido un error, ¿no?
+
+WAR_DECLARE_REQUESTJOINT			;Solicitamos formalmente que declares la guerra a los {0}
+WAR_DECLARE_REQUESTJOINT_ACCEPT		;A petición tuya, declaramos la guerra a los {0}
+WAR_DECLARE_REQUESTJOINT_REJECT		;No podemos declarar la guerra a los {0}. Esto sería ilógico para nosotros.
+
+WAR_END							;Tras evaluar la situación, hemos determinado que esta guerra debe terminar.\n\n¿Estás de acuerdo?
+WAR_END_SUBJUGATIONDEMAND		;Terminaremos esta guerra solo si aceptas someterte a la esclavitud y convertirte en nuestro dominio subyugado.\n\n¿Tenemos tu consentimiento?
+WAR_END_SUBJUGATIONOFFER		;La opción más lógica para nosotros ahora es ofrecernos como esclavos subyugados de tu imperio para poner fin a esta guerra.\n\n¿Qué dices?
+WAR_END_ACCEPT					;Estamos de acuerdo en que esta guerra debe terminar. Nuestras fuerzas cesarán las hostilidades.
+WAR_END_REJECT					;No, no podemos permitir que continúes existiendo. Debemos librar esta guerra hasta el final.
+
+WAR_END_REQUESTOTHER			;Por favor, pon fin a tu guerra con los {0}
+WAR_END_REQUESTOTHER_ACCEPT		;A petición tuya, pondremos fin a nuestra guerra con los {0}
+WAR_END_REQUESTOTHER_REJECT		;Lo sentimos, no podemos detener nuestra guerra contra los {0}
+
+GIFT_GIVE					;Hemos transferido un regalo de {0} créditos a tu imperio.
+GIFT_THANKS					;Gracias por tu regalo
+GIFT_PROPOSE				;¿Qué clase de regalo tienes en mente?
+
+WARNING									;¿Qué deseas decir?
+WARNING_INTELLIGENCEMISSIONS			;Hemos detectado tus misiones encubiertas contra nosotros.\n\nTe advertimos que no continúes con estos actos hostiles.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY	;No tenemos constancia de ninguna misión encubierta contra ti. ¿Estás seguro de que tus datos son correctos?
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL	;Gracias por compartir tus preocupaciones con nosotros.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY		;Lo sentimos, no podemos acceder a tu petición. Debemos conocer tus planes.
+WARNING_ATTACKS							;No podemos permitir que continúen tus ataques contra nosotros. Deben cesar de inmediato.
+WARNING_ATTACKS_RESPONSE_FRIENDLY		;Lo sentimos, se trata de un error. No entendemos cómo ha ocurrido.
+WARNING_ATTACKS_RESPONSE_NEUTRAL		;Gracias por notificarnos este incidente. Debemos investigar y determinar qué ha ocurrido.
+WARNING_ATTACKS_RESPONSE_ANGRY			;Nos vimos obligados a actuar debido a tu agresión.\n\nTe resultaría útil revisar y modificar tu comportamiento para que no nos veamos obligados a repetir estos ataques.
+
+WARNING_REMOVEFORCESSYSTEM					;No podemos permitir la presencia de tus fuerzas en nuestro territorio.\n\nDebes retirar tus naves militares del sistema {0} de inmediato.
+WARNING_REMOVEFORCESSYSTEM_RESPONSE_COMPLY	;No vemos la necesidad de retirar nuestras naves de tus sistemas.
+WARNING_REMOVEFORCESSYSTEM_RESPONSE_REFUSE	;Cumpliremos tu solicitud. Nuestras naves están abandonando tus sistemas.
+WARNING_REMOVEFORCESSYSTEM_RESPONSE_NOFORCESPRESENT	;Te equivocas. No tenemos fuerzas militares en tu territorio.
+
+HISTORY_OFFER_STORYMESSAGE		;Tenemos una advertencia importante que debes escuchar.\n\n¿Contamos con toda tu atención?

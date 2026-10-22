@@ -1,0 +1,13 @@
+Esta pantalla enumera los Objetivos enemigos conocidos que puedes atacar con tus Flotas. Incluye objetivos fijos, como bases enemigas, bases Piratas y Colonias, además de Flotas enemigas cuya ubicación actual conoces.
+
+En los niveles de la galaxia y del sistema, los Objetivos enemigos aparecen resaltados en el mapa. Pasa el cursor sobre un elemento para señalar su posición, haz clic para seleccionarla o haz doble clic para desplazar la vista hasta allí.
+
+Cada elemento muestra la fuerza enemiga conocida en el lugar. En el caso de las bases, también indica su estado actual.
+
+[H3]Fuerza defensiva[/H3]
+En las Colonias enemigas se muestra la fuerza conocida de las Tropas defensoras. Si la Colonia no está directamente visible, el valor puede ser una estimación; tenlo en cuenta antes de invadirla.
+
+[H3]Poner ataques en cola[/H3]
+El botón de la derecha permite poner en cola un ataque contra el objetivo. La siguiente Flota adecuada que quede disponible recibirá una misión de ataque. Vuelve a hacer clic para cancelar la orden.
+
+Si no puedes atacar, el botón Cola estará desactivado. Su información emergente explicará el motivo.

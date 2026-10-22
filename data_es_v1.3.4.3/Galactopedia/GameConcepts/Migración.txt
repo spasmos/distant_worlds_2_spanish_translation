@@ -1,0 +1,30 @@
+La migración suele desplazar población desde colonias grandes hacia otras nuevas y más pequeñas. Así aumenta rápidamente la población de las nuevas colonias y estas se vuelven productivas antes.
+
+Los migrantes viajan hasta su destino en naves de pasajeros privadas. La migración se desarrolla por completo en el sector privado de tu imperio, por lo que no controlas directamente el movimiento de ciudadanos entre colonias.
+
+[H3]Factores de migración[/H3]
+Entre los factores que atraen inmigrantes a una colonia se encuentran:
+[ULI]tipos impositivos bajos[/ULI]
+[ULI]atractivo general: gran calidad planetaria y altos niveles de desarrollo[/ULI]
+[ULI]proximidad de la nueva colonia a la colonia de origen del migrante[/ULI]
+
+Entre los factores que favorecen la emigración desde una colonia se encuentran:
+[ULI]nivel de felicidad: el descontento fomenta la emigración[/ULI]
+[ULI]población elevada: las colonias muy pobladas fomentan la emigración[/ULI]
+[ULI]colonias cercanas que resulten destinos atractivos[/ULI]
+
+[H3]Migración entre imperios[/H3]
+La población tiende a migrar dentro de su propio imperio porque resulta más sencillo y exige superar menos trámites burocráticos.
+
+Sin embargo, un Tratado de migración con otro imperio también permite los movimientos de población entre ambos.
+
+Cuando tu imperio alcance mil millones de ciudadanos de una especie alienígena concreta, también recibirá sus bonificaciones raciales. Estas pueden incluir científicos e ingenieros más capaces, mejores espías o mineros más rápidos.
+
+[H3]Políticas de población colonial[/H3]
+Las Políticas de población te permiten controlar qué especies alienígenas aceptas en tus colonias.
+
+Puedes configurarlas en la pantalla Política de población, que se despliega desde el Panel de selección al elegir una colonia. Sitúa el cursor sobre el icono de política de población, en el extremo derecho de la fila de población de la colonia seleccionada. Haz clic en el icono o la pantalla para mantenerla abierta.
+
+La lista incluye todas las especies que has conocido y permite establecer una política específica para cada una en cada colonia.
+
+Estos ajustes te permiten controlar con precisión la migración hacia tus colonias.

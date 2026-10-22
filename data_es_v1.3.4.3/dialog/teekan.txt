@@ -1,0 +1,67 @@
+GREETING_INTRODUCTION   ;¡Bienvenidos! Somos los {0}.\n\nNos encanta arreglar máquinas y cazar Bakdurs.\n\nNo gustarnos los baños ni los dictadores genocidas
+GREETING_FRIENDLY   ;¡Bienvenidos a nuestro humilde campamento, amigos!\n\n¿De qué hablar?
+GREETING_NEUTRAL   ;¿Qué hacer nosotros por vosotros?
+GREETING_ANGRY    ;No alegrarnos de veros, ¿vale?\n\nAsí que rápido
+
+OFFER_DEAL    ;¿Vosotros aceptar trato?
+OFFER_DEAL_RESPONSE  ;¡Ah! ¡Un trato! ¿Qué clase de trato pedir vosotros?
+
+PIRATEPROTECTION_DEAL    ;Muchas cosas aterradoras y alienígenas locos en espacio... No querer que ninguna de vuestras naves o bases se convierta en bonita chatarra rota...\n\nPor pequeño coste mensual de {0} créditos podemos asegurar que capitanes locos no hacer daño a vuestras cosas.\n\nBuen trato, ¿sí? Evitar accidentes...
+
+DEAL_BEGIN    ;¿Qué venir a pedir?
+DEAL_ACCEPT    ;Nosotros aceptar vuestra propuesta
+DEAL_ACCEPT_RESPONSE  ;¡Ah! ¡Genial!
+DEAL_REJECT_RESPONSE  ;Nosotros decepcionados...
+DEAL_REJECT    ;Propuesta no ser buena para nosotros: no hay trato
+
+SWAP_MAPS  ;¿Qué clase de mapa querer intercambiar?
+
+WAR_END_ACCEPT    ;Vale, guerra terminada.\n\nAdemás, casi ser temporada de caza de Bakdur
+WAR_END_REJECT    ;¿Ya cansados de luchar, alientos de Bakdur?\n\n¡Nosotros no! ¡Cazaros un poco más!
+
+TREATY_ACCEPT   ;Nosotros aceptar vuestra oferta de {0}
+TREATY_REJECT   ;No, ahora no interesarnos {0}
+TREATY_REJECT_TOOSOON_NEUTRAL   ;No, no interesarnos {0}. Demasiado pronto después de último cambio en nuestras relaciones
+TREATY_REJECT_TOOSOON_ANGRY   ;¡No tener interés en {0} con vosotros! Además, demasiado pronto después de último cambio en nuestras relaciones
+TREATY_REJECT_TOOSOON_FRIENDLY   ;Sentirlo, pero no interesarnos {0}. Demasiado pronto después de último cambio en nuestras relaciones
+TREATY_ACCEPT_NEUTRAL   ;Nosotros aceptar vuestra oferta de {0}
+TREATY_REJECT_NEUTRAL   ;No, ahora no interesarnos {0}
+TREATY_ACCEPT_ANGRY   ;Nosotros aceptar vuestra oferta de {0}
+TREATY_REJECT_ANGRY   ;¡No tener interés en {0} con vosotros!
+TREATY_ACCEPT_FRIENDLY   ;¡Nosotros aceptar felices vuestra oferta de {0}!
+TREATY_REJECT_FRIENDLY   ;Sentirlo, pero ahora no interesarnos {0}
+
+PROTECTION_ACCEPT  ;Nosotros aceptar vuestra petición de protección. Coste mensual ser {0} créditos
+PROTECTION_ACCEPT_NEUTRAL  ;Nosotros aceptar vuestra petición de protección. Coste mensual ser {0} créditos
+PROTECTION_ACCEPT_ANGRY  ;Vaya, vuestra debilidad debe ser grande para pedirlo. Nuestra «protección» costar {0} créditos al mes.
+PROTECTION_ACCEPT_FRIENDLY  ;Nosotros aceptar vuestra petición de protección. Coste mensual ser {0} créditos
+PROTECTION_REJECT   ;No, ahora no interesarnos protección
+PROTECTION_REJECT_NEUTRAL  ;No, no querer acuerdo de protección con vosotros
+PROTECTION_REJECT_ANGRY  ;¡No, no querer tener que proteger vuestras cosas inútiles!
+PROTECTION_REJECT_FRIENDLY  ;No, no querer acuerdo de protección con vosotros
+
+CANCELTREATY    ;{0} con vosotros no ser bueno ahora. Todo terminado
+CANCELTREATY_RESPONSE_FRIENDLY  ;¿Dejasteis de querernos? ¿Cómo arreglarlo?\n\nNosotros incluso bañarnos si queréis
+CANCELTREATY_RESPONSE_NEUTRAL  ;¿Eh? ¿Ya no gustaros nosotros?\n\nVale
+CANCELTREATY_RESPONSE_ANGRY  ;¿Ya no hay tratado?\n\nBueno, de todos modos pensábamos que teníais pinta rara. ¡No tener olor! Y demasiado limpios
+
+CANCELPROTECTION_RESPONSE_FRIENDLY  ;Extraño. Bueno.
+CANCELPROTECTION_RESPONSE_NEUTRAL  ;Decisión tonta. Quizá encontrar otras formas de conseguir esos pagos...
+CANCELPROTECTION_RESPONSE_ANGRY  ;¡Estúpidos! ¡¿Pensar que podéis sobrevivir sin «protección»?!
+
+TREATY_PROPOSAL    ;¡Ohhh, tratado, tratado! ¡Qué emocionante!\n\nVale, ahora escuchar. Contadnos plan
+TREATY_ACCEPTRESPONSE   ;¡Yeehaa! ¡Nuevo amigo!\n\n¿Tenéis chatarra rota que no queréis? Nosotros recogerla, ¿sí?
+TREATY_REJECTRESPONSE   ;Qué pena. Teníamos celebración preparada.\n\nPero ahora no
+
+PROTECTION_ACCEPTRESPONSE  ;¡Emocionante! Esperar con ganas vuestras cuotas mensuales
+PROTECTION_REJECTRESPONSE  ;¡Estúpidos! Acabaréis como chatarra rota que recogemos...
+
+GIFT_GIVE    ;Algo para vosotros: {0} créditos.\n\nPasadlo bien, ¿vale?
+GIFT_THANKS_ANGRY    ;Recibimos vuestro pequeño regalo. ¿Se cayó parte por el camino?
+GIFT_THANKS_NEUTRAL    ;Nosotros felices por vuestro amable regalo. ¡Gracias!
+GIFT_THANKS_FRIENDLY    ;¡Yeehaa! ¡Muy felices de recibir vuestro gran regalo!
+GIFT_PROPOSE    ;¿Qué clase de regalo estar pensando?
+
+WAR_DECLARE_RESPONSE_ANGRY  ;¡Felices de luchar contra vosotros! ¡Demasiado limpios, no tener olor!\n\nCuidado: ¡grandes naves de caza venir a por vosotros!
+WAR_DECLARE_RESPONSE_NEUTRAL  ;Vale. ¡Ahora gran paliza para vosotros!
+WAR_DECLARE_RESPONSE_FRIENDLY  ;¿Guerra, decís? ¡No ser bueno!\n\nNo tener sentido

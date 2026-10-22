@@ -1,0 +1,9 @@
+Esta pantalla muestra los detalles de tu Gobierno actual y un resumen de todas las bonificaciones que se aplican a todo el Imperio.
+
+[H3]Cambiar de Gobierno[/H3]
+Puedes cambiar de Gobierno seleccionando otro tipo en la lista desplegable de la parte superior de la sección.
+
+Después de comparar las estadísticas del Gobierno actual con las del seleccionado, haz clic en el botón «Hacer revolución y cambiar de gobierno» de la parte inferior para adoptar el nuevo.
+
+[H3]Bonificaciones imperiales[/H3]
+La sección «Bonus imperial de todas las fuentes» enumera todas tus bonificaciones. Pasa el cursor sobre cada línea para ver un desglose completo de los factores que contribuyen a cada tipo.

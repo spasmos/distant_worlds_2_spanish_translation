@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfColonyEventDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>74</ColonyEventDefinitionId> <!-- Internal Debates -->
+		<Type>Undefined</Type>
+		<DurationMinimum>2</DurationMinimum>
+		<DurationMaximum>2</DurationMaximum>
+		<EmpireHappiness>-10</EmpireHappiness>
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>Debates internos</Name>
+		<Description>Nuestra reciente firma de un tratado de defensa ha suscitado inquietud entre la población y generado opiniones a favor y en contra. Esto ha reducido la felicidad en todo nuestro imperio.</Description>
+		<ImageFilename>Environment/Events/Internal Debates</ImageFilename>
+	</ColonyEventDefinition>
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>75</ColonyEventDefinitionId> <!-- Heightened Security -->
+		<Type>Undefined</Type>
+		<DurationMinimum>2</DurationMinimum>
+		<DurationMaximum>2</DurationMaximum>
+		<EmpireHappiness>-5</EmpireHappiness>
+		<Bonuses>
+			<Bonus>
+				<Type>CounterEspionage</Type>
+				<Amount>0.2</Amount>
+				<AppliesTo>Empire</AppliesTo>
+				<FilterId>11</FilterId>
+			</Bonus>
+		</Bonuses>
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>Seguridad reforzada</Name>
+		<Description>El contraespionaje ha mejorado, pero la felicidad se ha reducido debido a las recientes medidas para reforzar la seguridad interna, adoptadas tras el éxito de una misión de inteligencia extranjera contra nosotros.</Description>
+		<ImageFilename>Environment/Events/Heightened Security</ImageFilename>
+	</ColonyEventDefinition>
+</ArrayOfColonyEventDefinition>

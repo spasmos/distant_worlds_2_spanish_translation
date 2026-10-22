@@ -1,0 +1,8 @@
+Esta pantalla enumera los lugares idóneos para construir Estaciones de vigilancia nuevas.
+
+En los niveles de la galaxia y del sistema, estas ubicaciones aparecen resaltadas en el mapa. Pasa el cursor sobre un elemento para señalar su posición, haz clic para seleccionarlo o haz doble clic para desplazar la vista hasta allí.
+
+[H3]Poner en cola Estaciones de vigilancia nuevas[/H3]
+El botón de la derecha permite poner en cola una Estación de vigilancia en esa ubicación. Vuelve a hacer clic para cancelar la construcción.
+
+Si no puedes construir allí, el botón Cola estará desactivado. Su descripción emergente explicará el motivo.

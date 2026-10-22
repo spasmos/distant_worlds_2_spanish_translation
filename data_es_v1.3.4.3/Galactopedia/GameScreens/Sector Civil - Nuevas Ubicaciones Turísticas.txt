@@ -1,0 +1,17 @@
+Esta pantalla enumera posibles destinos turísticos nuevos donde conviene construir Bases turísticas. Las Naves de pasajeros llevan turistas hasta estas bases y generan así ingresos para tu Imperio.
+
+Las Bases turísticas se construyen en lugares pintorescos que suelen poseer algún atractivo natural. Las Ruinas antiguas también pueden proporcionar bonificaciones de Paisaje aprovechables mediante una Base turística.
+
+En los niveles de la galaxia y del sistema, las nuevas ubicaciones turísticas aparecen resaltadas en el mapa. Pasa el cursor sobre un elemento para señalar su posición, haz clic para seleccionarlo o haz doble clic para desplazar la vista hasta allí.
+
+Cada elemento muestra las bonificaciones de Paisaje conocidas. Pasa el cursor sobre su descripción para consultar un resumen completo, incluido el elemento natural que proporciona la bonificación.
+
+[H3]Poner en cola Bases turísticas nuevas[/H3]
+El botón de la derecha permite poner en cola una Base turística en esa ubicación. La siguiente Nave de construcción disponible acudirá para construirla. Vuelve a hacer clic para cancelar la orden.
+
+Si no puedes construir en la ubicación, el botón Cola estará desactivado. Su información emergente explicará el motivo.
+
+[H3]Ubicaciones peligrosas[/H3]
+Un icono de rayo rojo junto al nombre indica que la ubicación se considera peligrosa porque contiene amenazas sin eliminar, como Piratas o criaturas espaciales letales.
+
+Las naves no militares no viajarán a una ubicación peligrosa. Primero deben eliminar las amenazas las Naves militares o una Flota. Puedes poner en cola la Base turística, pero la Nave de construcción no acudirá hasta que se eliminen las amenazas.

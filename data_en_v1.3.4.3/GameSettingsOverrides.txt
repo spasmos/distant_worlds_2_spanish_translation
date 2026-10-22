@@ -1,0 +1,21 @@
+'Distant Worlds 2 - Game Settings Overrides
+
+'These settings override the values in GameSettings
+'Put values after the semicolon (;) for each line
+'Only set the values that you want to override
+
+'GraphicsAdapterIndex: set this to a numeric value between 0 and one less than the number of graphics adapters in your system. Set to -1 to disable
+'GraphicsResolutionWidth: set to a whole number positive value matching a valid resolution for the adapter. Set to 0 to disable
+'GraphicsResolutionHeight: set to a whole number positive value matching a valid resolution for the adapter. Set to 0 to disable
+'GraphicsResolutionFullScreen: set to either true or false. Leave blank to disable
+'GraphicsForceDedicatedFullScreen: set to either true or false
+'GraphicsStreamingMemoryBudget: set to a whole number positive value specifying the amount of video memory in Mb to be reserved for asset streaming. Set to 0 to disable
+'DisableFixedTimeStep: set to true to disable fixed time step (fixed time step is enabled by default)
+
+GraphicsAdapterIndex      ;-1
+GraphicsResolutionWidth      ;0
+GraphicsResolutionHeight      ;0
+GraphicsResolutionFullScreen      ;
+GraphicsForceDedicatedFullScreen      ;false
+GraphicsStreamingMemoryBudget        ;0
+DisableFixedTimeStep        ;false

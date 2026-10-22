@@ -1,0 +1,45 @@
+La diplomacia exige vigilar las relaciones entre numerosos imperios y, sobre todo, su opinión sobre ti. Ganarse a los aliados adecuados sin provocar a los rivales equivocados puede resultar complicado.
+
+Los imperios evalúan constantemente sus relaciones, que reciben modificadores positivos o negativos de los siguientes factores.
+
+[H3]Volumen comercial[/H3]
+Un gran volumen comercial mejora la relación entre dos imperios. No controlas directamente ese comercio, que realizan los ciudadanos del sector privado.
+
+[H3]Afinidad racial[/H3]
+Cada especie alienígena posee afinidades que convierten a otras en amigas o rivales naturales.
+
+[H3]Afinidad gubernamental[/H3]
+Cada forma de gobierno siente afinidad o rechazo por otras. La mayoría de los imperios tienden a acercarse a aquellos con gobiernos similares al suyo.
+
+[H3]Tratados[/H3]
+Firmar un tratado expresa confianza y mejora las relaciones entre ambos imperios.
+
+[H3]Obsequios[/H3]
+Enviar obsequios mejora la opinión de otros imperios; cuanto mayor sea su valor, mayor será el efecto.
+
+No los envíes con demasiada frecuencia. Deja al menos un año entre obsequios para maximizar su impacto.
+
+[H3]Relación con los amigos[/H3]
+Tus amigos son los imperios con los que mantienes tratados. Si un tercero está en guerra con uno de ellos, vuestra relación empeorará; si también tiene un tratado con ese amigo, mejorará.
+
+[H3]Relación con los enemigos[/H3]
+Tus enemigos son los imperios con los que estás en guerra o mantienes malas relaciones. Los tratados de un tercero con uno de esos enemigos perjudicarán vuestra relación.
+
+[H3]Competencia por sistemas o recursos[/H3]
+Normalmente no puedes colonizar un sistema de otro imperio, aunque sí integrar colonias independientes situadas en sus sistemas.
+
+Establecer una colonia en un sistema ya ocupado por otro imperio se considera una grave provocación y lo ofenderá profundamente.
+
+Construir estaciones mineras u otras bases en un sistema colonizado también causará malestar, aunque mucho menos que colonizar un planeta.
+
+[H3]Ataques de otros imperios[/H3]
+Un imperio que codicie tus recursos o colonias puede poner a prueba tus defensas mediante incursiones. Como es natural, los ataques no provocados dañan gravemente las relaciones.
+
+[H3]Misiones de inteligencia descubiertas[/H3]
+Si se detecta o intercepta una misión de inteligencia contra otro imperio, las consecuencias diplomáticas pueden ser graves. A ningún imperio le agrada ser objetivo de estas operaciones.
+
+[H3]Reputación del imperio[/H3]
+La reputación de tu imperio influye en cómo lo valoran los demás. Consulta 'Reputación del imperio' para obtener más información.
+
+[H3]Bloqueos[/H3]
+Bloquear una colonia o base extranjera constituye una grave provocación, y cada bloqueo adicional empeora la ofensa. Si persistes, la guerra no tardará en comenzar.

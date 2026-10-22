@@ -1,0 +1,22 @@
+La construcción de naves y bases es un aspecto fundamental de Distant Worlds. Comprender su funcionamiento te ayudará a expandir el imperio con mayor eficacia.
+
+Toda construcción cuesta dinero: necesitas fondos suficientes para comprar naves y bases nuevas.
+
+Tus capacidades de construcción aumentan con el nivel tecnológico. La investigación desbloquea cascos nuevos y mayores con los que diseñar y construir otras naves y bases.
+
+La construcción de naves para la economía privada es automática: el sector privado compra y construye cargueros y naves mineras según sus necesidades.
+
+[H3]Dónde se construye[/H3]
+Las naves y bases se construyen en tres tipos de lugares:
+[ULI]Colonias: pueden construir cualquier clase de nave, aunque con relativa lentitud frente a los puertos espaciales.[/ULI]
+[ULI]Puertos espaciales: son el lugar principal donde construir la mayoría de las naves, ya sean militares, exploradoras, cargueros o mineras.[/ULI]
+[ULI]Naves de construcción: levantan estaciones mineras, estaciones de investigación y otras bases en lugares sin colonia.[/ULI]
+
+[H3]Cómo iniciar una construcción[/H3]
+Dispones de cuatro formas de iniciar una construcción estatal:
+[ULI]Selecciona una colonia o un puerto espacial y pulsa el botón amarillo «Construir nueva nave o base», situado bajo el panel de selección. Los botones mostrarán todos los elementos disponibles en ese astillero. Sitúa el cursor sobre cada uno para ver el tipo y el coste de la nave, y púlsalo para construirla.[/ULI]
+[ULI]Selecciona una nave de construcción, busca un lugar para la base y haz clic derecho para abrir un menú con las opciones disponibles en «Construir». Elige la opción «Construir base» que desees.[/ULI]
+[ULI]Abre la pantalla Orden de construcción, en la sección Construcción del centro de control; selecciona el diseño y la cantidad para cada cometido de nave y pulsa «Comprar».[/ULI]
+[ULI]Usa los botones «Poner nueva base en cola» de las listas de ubicaciones nuevas, como Nuevas ubicaciones de minado (Mayús+F7) o Nuevas ubicaciones de investigación (Mayús+F9).[/ULI]
+
+Tras su construcción, las naves comienzan totalmente automatizadas. Para tomar el control de una nave estatal, basta con asignarle una misión.

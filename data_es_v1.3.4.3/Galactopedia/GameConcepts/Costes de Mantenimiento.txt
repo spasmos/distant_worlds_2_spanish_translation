@@ -1,0 +1,20 @@
+﻿Todas las colonias cuestan dinero. Cuando son pequeñas y están poco desarrolladas suponen una carga neta para la economía, pues sus costes de mantenimiento suelen superar los ingresos.
+
+[H3]Reducción durante el crecimiento[/H3]
+Los costes de mantenimiento disminuyen conforme crece la población de la colonia.
+
+Con el tiempo, los ingresos fiscales superan los costes de mantenimiento. En ese momento la colonia pasa a ser rentable: ingresa más de lo que cuesta.
+
+Estas colonias desarrolladas pueden financiar al resto del imperio.
+
+[H3]Colonias muy grandes[/H3]
+Cuando una colonia supera el 50 % de su población máxima, sus costes de mantenimiento vuelven a aumentar.
+
+Sin embargo, a esas alturas sus ingresos suelen ser muy elevados y compensan el aumento de los costes.
+
+[H3]Factores de los costes de mantenimiento[/H3]
+En resumen, los siguientes factores aumentan los costes de mantenimiento colonial:
+[ULI]Población inferior a 100 millones.[/ULI]
+[ULI]Idoneidad para la población inferior a 20.[/ULI]
+[ULI]Población sin asimilar.[/ULI]
+[ULI]Población superior al 50 % del máximo.[/ULI]

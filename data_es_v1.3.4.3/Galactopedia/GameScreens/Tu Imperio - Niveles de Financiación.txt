@@ -1,0 +1,15 @@
+Puedes ajustar con precisión cómo se gastan tus ingresos en la pantalla Niveles de financiación. Pasa el cursor sobre cada valor para obtener una explicación detallada.
+
+[H3]Asignar fondos de mantenimiento[/H3]
+En esta pantalla puedes asignar porcentajes a las principales áreas de gasto ordinario: mantenimiento de Naves y Bases, mantenimiento de Tropas y mantenimiento de Instalaciones. Estos porcentajes limitan cuánto estarán dispuestos a gastar tus asesores en cada área.
+
+Por ejemplo, si asignas el 50 % de tus ingresos al mantenimiento de Naves, tus asesores construirán Naves y Bases hasta alcanzar un coste de mantenimiento equivalente al 50 % de tu economía. Una vez alcanzado el límite, dejarán de recomendar Naves nuevas.
+
+Limitar el gasto de cada área permite repartir los ingresos de forma más equilibrada por toda la economía y evita gastar en exceso en una sola partida.
+
+También puedes reservar sin gastar un porcentaje de tus ingresos para acumular efectivo destinado a compras y otros gastos.
+
+[H3]Financiación excedente para el crecimiento de Colonias y la Investigación[/H3]
+Los ingresos excedentes pueden destinarse al crecimiento de las Colonias o a la Investigación. Financiar estas dos áreas aumenta, respectivamente, la tasa de crecimiento de las Colonias o la velocidad de Investigación de tu Imperio.
+
+Si automatizas los Niveles de financiación, tus asesores económicos usarán los ingresos excedentes para mantener la Investigación a máxima velocidad y destinarán el resto al crecimiento de las Colonias.

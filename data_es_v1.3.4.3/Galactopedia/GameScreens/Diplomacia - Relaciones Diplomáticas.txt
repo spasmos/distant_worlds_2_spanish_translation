@@ -1,0 +1,56 @@
+A medida que encuentres otras facciones podrás relacionarte con ellas mediante la diplomacia. Esto incluye establecer tratados, ofrecer regalos y cerrar acuerdos comerciales. Si las relaciones empeoran, también puede implicar la guerra y la conquista.
+
+[H3]Lista de relaciones[/H3]
+Esta pantalla enumera tus relaciones con otros Imperios. De forma predeterminada no incluye Facciones piratas ni Colonias independientes. Consulta las opciones de ordenación y filtrado de la parte superior.
+
+Cada elemento muestra qué opinión tiene de ti el otro Imperio y la tendencia de la relación.
+
+Haz clic en una relación de la lista para seleccionar la Capital de esa Facción, si la conoces.
+
+[H3]Panel de detalles de la relación[/H3]
+Pasa el cursor sobre un elemento de la lista para mostrar a la derecha el panel de detalles de la relación. Haz clic en el elemento o en el panel para mantenerlo abierto.
+
+El panel ofrece un resumen completo de tu relación con el Imperio seleccionado. En la parte superior aparecen su bandera y todas las Especies que lo componen. Pasa el cursor sobre cada Especie para consultar su población total en el Imperio y un resumen de sus características.
+
+El tipo de Gobierno aparece bajo el nombre del Imperio.
+
+Debajo se encuentra el botón «Hablar», que permite iniciar una conversación con la otra Facción.
+
+[H3]Hablar con otra Facción[/H3]
+Durante la conversación puedes proponer tratados y regalos o negociar acuerdos comerciales detallados. Haz clic en «Adiós» o en el botón de cierre de la esquina superior derecha para terminarla.
+
+[H3]Reputación[/H3]
+La Reputación actual indica cómo ven generalmente los demás a ese Imperio y depende de sus acciones. Pasa el cursor sobre el valor para consultar los factores que contribuyen a ella.
+
+
+[H3]Desgaste bélico[/H3]
+El Desgaste bélico aumenta con el tiempo mientras un Imperio está en guerra y crece mucho cuando sufre pérdidas importantes en combate. Un Desgaste bélico elevado provoca infelicidad y malestar en las Colonias. Por ello, los Imperios suelen buscar la paz cuando su Desgaste bélico es alto.
+
+No obstante, el valor puede llegar a ser positivo si el Imperio ha sufrido una declaración de guerra injustificada. En ese caso, su población tiene una motivación adicional para combatir a los agresores.
+
+
+[H3]Estrategia[/H3]
+La sección Estrategia muestra cómo planea tu Imperio tratar a la otra Facción. Puedes automatizar este ajuste para que los asesores elijan una estrategia apropiada.
+
+También puedes desactivar la automatización con el botón de la izquierda y elegir manualmente una estrategia en la lista desplegable de la derecha. Pasa el cursor sobre la estrategia actual para conocer sus consecuencias al tratar con esa Facción.
+
+[H3]Estado y tratados[/H3]
+Los tratados vigentes aparecen en la parte superior de la sección Estado.
+
+A continuación se muestra la opinión que la otra Facción tiene de ti. El valor de la izquierda representa su opinión general: un valor positivo indica que le agradas y uno negativo, que le desagradas.
+
+El texto central describe esa opinión. Pasa el cursor sobre él para ver qué opinan tus asesores de la otra Facción. La tendencia actual de la relación aparece a la derecha.
+
+Bajo el valor total se enumeran todos los factores que influyen en la evaluación que la otra Facción hace de ti. Algunos son estáticos y otros cambian con el tiempo, aumentando o reduciendo su valor. La tendencia de cada factor aparece a la derecha.
+
+[H3]Otra información[/H3]
+La sección Información del Imperio muestra datos importantes que conoces sobre la otra Facción. Parte de ellos puede estar incompleta: por ejemplo, Fuerza militar conocida solo incluye la fuerza de las Naves militares que has visto.
+
+La sección Suministro de recursos muestra los ingresos comerciales obtenidos con esa Facción, es decir, los Recursos que le has comprado y vendido.
+
+También muestra los Recursos exclusivos que puede suministrarte cuando dispongáis de un acuerdo comercial. Son Recursos que te faltan y que el otro Imperio puede venderte.
+
+[H3]Sus relaciones con otras Facciones[/H3]
+La sección Relación con otros muestra las relaciones de la Facción seleccionada con todos los demás Imperios que conoces, incluidos sus tratados y opiniones mutuas.
+
+Pasa el cursor sobre la descripción de la opinión para consultar qué piensa cada parte de la otra.

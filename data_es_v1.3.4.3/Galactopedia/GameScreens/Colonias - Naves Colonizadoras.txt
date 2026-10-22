@@ -1,0 +1,13 @@
+Las Naves Colonizadoras son transportes especiales capaces de embarcar enormes cantidades de colonos para fundar nuevos mundos de tu imperio.
+
+Cuando llegan a su destino, las Naves Colonizadoras se desmontan y sus materias primas se emplean para establecer la nueva Colonia. Por ello cada nave solo puede colonizar un mundo y tendrás que construir otra para el siguiente.
+
+[H3]Lista de Naves Colonizadoras[/H3]
+Esta pantalla enumera todas las Naves Colonizadoras de tu imperio. Consulta las opciones de ordenación y filtrado en la parte superior del panel.
+
+Al alejar la vista hasta el nivel de galaxia o sistema, las ubicaciones de las Naves Colonizadoras se resaltan en el mapa. Sitúa el cursor sobre una entrada para señalar su ubicación, haz clic para seleccionarla o doble clic para desplazar allí la vista.
+
+Cada entrada muestra el progreso de construcción, la misión actual y los colonos embarcados.
+
+[H3]Estado de automatización[/H3]
+Puedes cambiar el estado de automatización de la Nave Colonizadora mediante el botón del extremo derecho de la entrada.

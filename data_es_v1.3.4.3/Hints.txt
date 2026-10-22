@@ -1,0 +1,17 @@
+Asigna cualquier elemento seleccionado a las teclas de acceso rápido 0-9. Usa Ctrl-(número) para asignar el elemento actual a una tecla. Pulsa esa tecla una vez para seleccionar el elemento y otra vez para desplazar la vista hasta él
+Recorre todas tus colonias en el panel de selección con la tecla C. Retrocede con Mayús-C
+Recorre todas tus flotas en el panel de selección con la tecla F. Retrocede con Mayús-F
+Recorre todos tus astilleros en el panel de selección con la tecla Y. Retrocede con Mayús-Y
+Recorre todas tus naves de construcción en el panel de selección con la tecla U. Retrocede con Mayús-U
+Recorre todas tus naves exploradoras en el panel de selección con la tecla X. Retrocede con Mayús-X
+Recorre todas tus naves militares en el panel de selección con la tecla M. Retrocede con Mayús-M
+Puedes cambiar el funcionamiento de hacer clic y arrastrar con el ratón en la pantalla Configuración del juego (tecla /). Elige entre desplazar la vista (opción predeterminada) o seleccionar naves
+Puedes cambiar el botón usado para girar la cámara con el ratón en la pantalla Configuración del juego (tecla /). Elige entre el botón central (opción predeterminada) o el botón derecho
+Puedes activar o desactivar el desplazamiento de la vista al acercar el cursor a los bordes de la pantalla en Configuración del juego (tecla /)
+Para seleccionar varias naves, mantén pulsada la tecla Ctrl mientras haces clic en ellas o las seleccionas arrastrando un recuadro. También puedes seleccionar varias entradas de cualquier lista mediante Ctrl y Mayús (por ejemplo, en la lista Naves militares)
+Acércate rápidamente a cualquier sistema estelar explorado desde la vista de la galaxia haciendo doble clic en la estrella
+Con una nave o flota seleccionada, mantén pulsado el botón derecho del ratón para ver una lista completa de las misiones disponibles en la ubicación del cursor
+Para acercarte rápidamente al elemento seleccionado, haz doble clic en la cabecera del panel de selección o pulsa la tecla Retroceso
+Puedes recorrer las opciones de automatización de la nave seleccionada con la tecla =
+Navega hacia atrás y hacia delante por el historial del panel de selección con las teclas de flecha izquierda y derecha
+Para que las cisternas de combustible reposten automáticamente tu flota, debes automatizarlas aunque la flota esté controlada manualmente

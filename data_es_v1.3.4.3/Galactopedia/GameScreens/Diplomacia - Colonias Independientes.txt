@@ -1,0 +1,29 @@
+Las Colonias independientes son mundos poblados que no pertenecen a ninguna Facción. Son neutrales y están poco desarrollados.
+
+Puedes ganarte su amistad mediante tratados comerciales y regalos. Si su opinión de ti es lo bastante buena, quizá te pidan que las colonices para incorporarse a tu Imperio. Sus grandes poblaciones ya establecidas pueden impulsar mucho a un Imperio que aún está creciendo.
+
+Otra opción consiste en reunir Tropas e invadirlas, aunque hacerlo perjudicará tu Reputación ante otras Facciones.
+
+[H3]Lista de Colonias independientes[/H3]
+Esta pantalla enumera tus relaciones con las Colonias independientes. Consulta las opciones de ordenación y filtrado de la parte superior.
+
+Aunque no pertenecen a ninguna Facción, puedes comerciar con ellas para obtener Recursos e integrarlas en tu Imperio por la fuerza o mediante la diplomacia.
+
+Cada elemento muestra qué opinión tiene de ti la Colonia independiente y la tendencia de la relación.
+
+Haz clic en una relación de la lista para seleccionar la Colonia independiente, si la conoces.
+
+[H3]Panel de detalles de la relación[/H3]
+Pasa el cursor sobre un elemento de la lista para mostrar a la derecha el panel de detalles de la relación. Haz clic en el elemento o en el panel para mantenerlo abierto.
+
+El panel ofrece un resumen completo de tu relación con la Colonia independiente seleccionada y contiene información similar a la mostrada para otros Imperios.
+
+[H3]Estrategia[/H3]
+La sección Estrategia permite decidir cómo tratarás a la Colonia. Puedes intentar integrarla mediante regalos y diplomacia hasta que te invite a colonizarla, o invadirla y tomarla por la fuerza.
+
+[H3]Hablar con una Colonia independiente[/H3]
+Haz clic en el botón «Hablar», situado bajo su nombre en el panel de detalles, para conversar con ella. Podrás proponer tratados y regalos o negociar acuerdos comerciales detallados.
+
+Las Colonias independientes pueden conocer ubicaciones secretas de la galaxia y quizá estén dispuestas a venderte esa información si la relación es lo bastante amistosa.
+
+Haz clic en «Adiós» o en el botón de cierre de la esquina superior derecha para terminar la conversación.

@@ -1,0 +1,8 @@
+La pantalla Orden de construcción permite encargar rápidamente un gran número de naves. Cada fila muestra un cometido y un campo numérico donde indicar la cantidad. También puedes elegir el diseño concreto para cada cometido en la lista desplegable del centro de la fila.
+
+Cuando hayas establecido la cantidad y el diseño de cada cometido, pulsa el botón Comprar en la parte superior para adquirir las naves e iniciar su construcción. Se utilizarán los mejores astilleros disponibles, a menudo varios repartidos por todo el imperio.
+
+[H3]Superposición del mapa por cometido[/H3]
+Haz clic en la fila de un cometido para especificar la cantidad y el lugar de construcción de cada nave mediante los distintivos amarillos de astillero que aparecen en la vista de galaxia.
+
+Cada clic izquierdo sobre un distintivo de astillero pone en cola una nave de ese cometido en la ubicación. Un clic derecho retira una nave de la cola correspondiente.

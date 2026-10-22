@@ -1,0 +1,52 @@
+Al comenzar la partida, la galaxia es desconocida. Solo dispones de información fiable sobre tu mundo natal.
+
+[H3]Naves y misiones de exploración[/H3]
+Explorar consiste en enviar naves a visitar mundos desconocidos para revelar sus recursos, su idoneidad para la colonización y cualquier bonificación especial. También pueden encontrar ruinas antiguas o naves y bases abandonadas que investigar.
+
+En cada lugar, la nave exploradora envía equipos de inspección para examinar el planeta, luna, asteroide o estrella. Este proceso es lento y requiere tiempo.
+
+Los niveles tecnológicos superiores desbloquean escáneres de exploración que trabajan con mayor rapidez. No obstante, los equipos de inspección más lentos siguen siendo útiles para examinar un lugar a fondo y descubrir elementos muy ocultos.
+
+Puedes asignar manualmente misiones a las naves exploradoras o automatizarlas para que busquen por sí solas zonas desconocidas.
+
+Si tu imperio dispone de varias naves exploradoras, se dispersarán para investigar distintas zonas de la galaxia o del sistema estelar.
+
+[H3]Exploración continua[/H3]
+Una inspección o un escaneo rápido basta para descubrir algunos elementos, mientras que otros están mucho más ocultos y exigen una exploración exhaustiva.
+
+Una nave exploradora puede detectar algo oculto sin llegar a identificarlo. Una inspección adicional podría revelarlo, aunque los elementos mejor escondidos requieren componentes de inspección o escaneo más avanzados.
+
+Las colonias y bases exploran automáticamente su entorno y revelan poco a poco los elementos ocultos.
+
+[H3]Visibilidad del sistema[/H3]
+Antes de que tu imperio visite un sistema estelar por primera vez, este permanece inexplorado y no puedes ver sus planetas ni sus lunas.
+
+Tras la primera visita, el sistema pasa a estar explorado. Desde entonces conocerás sus planetas y lunas y podrás verlos siempre junto con su información básica.
+
+Cuando una nave, base o colonia de tu imperio está presente en un sistema, puedes ver más elementos, incluidas naves y bases de otros imperios y criaturas espaciales.
+
+Si no tienes presencia en el sistema, no podrás ver allí las naves ni las bases de otros imperios.
+
+[H3]Visibilidad parcial[/H3]
+Algunos elementos solo son visibles parcialmente: sabes que hay algo, pero no puedes identificarlo.
+
+La visibilidad de un elemento depende de que se encuentre al alcance de tus escáneres de corto o largo alcance.
+
+Por tanto, tener presencia directa en un sistema mediante una nave, base o colonia no garantiza una visibilidad perfecta de todos sus lugares.
+
+Los siguientes factores pueden reducir aún más la visibilidad de una nave o base:
+
+[H3]Tamaño[/H3]
+Las naves y bases pequeñas son más difíciles de detectar e identificar; las grandes resultan más fáciles.
+
+[H3]Interferencia de las nebulosas[/H3]
+Las nubes de nebulosa interfieren considerablemente con los escáneres y reducen mucho su alcance efectivo. Por ello, las naves y bases situadas dentro de una nebulosa son mucho más difíciles de ver o identificar.
+
+[H3]Enmascaramiento de imperio[/H3]
+Dificulta identificar el imperio al que pertenece una nave o base. La nave puede ser visible aunque se desconozca su propietario.
+
+[H3]Enmascaramiento de cometido[/H3]
+Dificulta identificar el tipo de nave o base. La nave puede ser visible, pero su cometido aparecerá como el de un carguero genérico.
+
+[H3]Sigilo[/H3]
+El sigilo reduce la visibilidad general y dificulta incluso detectar una nave o base. Si llega a verse, puede aparecer simplemente como un carguero independiente genérico.

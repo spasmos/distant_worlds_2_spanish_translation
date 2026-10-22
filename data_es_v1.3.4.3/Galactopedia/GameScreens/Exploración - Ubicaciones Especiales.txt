@@ -1,0 +1,8 @@
+A veces, la Exploración revela lugares inusuales, como campos de restos de naves procedentes de antiguas batallas u otros fenómenos aún más extraños.
+
+[H3]Lista de Ubicaciones especiales[/H3]
+Esta pantalla enumera todas las Ubicaciones especiales conocidas que has encontrado al explorar la galaxia.
+
+En los niveles de la galaxia y del sistema, estas ubicaciones aparecen resaltadas en el mapa. Pasa el cursor sobre un elemento de la lista para señalar su posición y haz clic para seleccionarla.
+
+Pasa el cursor sobre una Ubicación especial de la lista para mostrar a la derecha un panel con información detallada.

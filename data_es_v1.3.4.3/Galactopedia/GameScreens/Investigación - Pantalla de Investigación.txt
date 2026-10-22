@@ -1,0 +1,22 @@
+La pantalla Investigación muestra todos los proyectos de investigación.
+
+Debes investigar los proyectos para desbloquear sus beneficios. Este proceso lleva tiempo, y su velocidad depende de la producción de investigación de tus Colonias y Estaciones de investigación.
+
+Los proyectos de Investigación proporcionan los siguientes tipos de tecnologías nuevas para mejorar tu imperio:
+[ULI]nuevos cascos y componentes para construir naves y bases más grandes y eficaces[/ULI]
+[ULI]nuevas Instalaciones planetarias para mejorar tus Colonias[/ULI]
+[ULI]mejoras en tu capacidad para colonizar mundos nuevos[/ULI]
+[ULI]mejoras para tus tropas terrestres[/ULI]
+[ULI]diversas bonificaciones, incluida una mejora de tus relaciones diplomáticas con otras facciones[/ULI]
+
+El lado izquierdo de la pantalla corresponde al nivel tecnológico más bajo y contiene las tecnologías disponibles al comenzar una partida.
+
+El nivel tecnológico aumenta a medida que avanzas hacia la derecha de la pantalla.
+
+[H3]Orden de investigación[/H3]
+Los proyectos están conectados mediante rutas. Debes completar los proyectos previos antes de investigar los que dependen de ellos. Al terminar uno se habilitan sus proyectos derivados, normalmente situados a la derecha.
+
+[H3]Investigación ciega o visible[/H3]
+Si la partida utiliza investigación ciega, además de las tecnologías ya descubiertas solo podrás ver los siguientes proyectos disponibles.
+
+Si la partida permite ver toda la investigación, todos los proyectos serán visibles desde el principio.

@@ -1,0 +1,89 @@
+Tu relación con otros imperios puede adoptar distintas formas, desde la ausencia de contacto hasta los tratados de defensa y el intercambio de mapas de operaciones.
+
+Puedes mantener varios tratados a la vez. Por ejemplo, puedes tener simultáneamente un Tratado de no agresión, un Acuerdo de libre comercio y un Tratado de migración.
+
+Sin embargo, cuando se declara la guerra se cancelan todos los tratados vigentes.
+
+A continuación se enumeran los distintos tipos de tratado:
+
+[H3]Sin relación[/H3]
+No existe ninguna relación especial entre los dos imperios.
+ 
+[H3]No agresión[/H3]
+Los imperios acuerdan no atacar las naves ni las bases del otro.
+
+[H3]Protección pirata[/H3]
+Las facciones piratas pueden ofrecer tratados de Protección pirata a los imperios. El imperio paga una cuota mensual a los piratas para evitar que lo ataquen.
+
+[H3]Acuerdos comerciales[/H3]
+Los imperios acuerdan comerciar recursos entre sí. Sin un acuerdo comercial no hay ningún intercambio de recursos entre ellos.
+
+Hay 3 niveles de acuerdo comercial:
+[ULI][B]Comercio restringido:[/B] tasas comerciales del 50 %. Los ingresos adicionales de todo el comercio aumentan gradualmente hasta un máximo del 10 %[/ULI]
+[ULI][B]Comercio limitado:[/B] tasas comerciales del 20 %. Los ingresos adicionales de todo el comercio aumentan gradualmente hasta un máximo del 20 %[/ULI]
+[ULI][B]Libre comercio:[/B] sin tasas comerciales. Los ingresos adicionales de todo el comercio aumentan gradualmente hasta un máximo del 30 %[/ULI]
+
+[H3]Intercambio de mapas territoriales[/H3]
+Los dos imperios intercambian periódicamente sus mapas territoriales y revelan la ubicación de sus sistemas colonizados.
+
+[H3]Migración[/H3]
+Los dos imperios acuerdan aceptar migrantes procedentes de las colonias del otro.
+
+Para proponer un tratado de migración, el ofertante debe tener un [WARN]embajador asignado[/WARN] a la capital del destinatario.
+
+[H3]Exploración[/H3]
+Los dos imperios acuerdan permitir que las naves de exploración operen libremente en el territorio del otro.
+
+[H3]Derechos de minado[/H3]
+Los dos imperios acuerdan permitir la construcción de estaciones mineras en cualquier punto del territorio del otro.
+
+Para conceder derechos de minado, el ofertante debe tener un [WARN]embajador asignado[/WARN] a la capital del destinatario.
+
+[H3]Intercambio de mapas galácticos[/H3]
+Los dos imperios intercambian periódicamente sus mapas galácticos y revelan todos sus datos de exploración.
+
+[H3]Repostaje militar[/H3]
+Los dos imperios acuerdan permitir que sus flotas y naves militares reposten en las bases y colonias del otro.
+
+Para proponer un acuerdo de repostaje militar, el ofertante debe tener un [WARN]embajador asignado[/WARN] a la capital del destinatario.
+
+[H3]Investigación[/H3]
+Los dos imperios acuerdan compartir una parte de su producción de investigación.
+
+Al investigar proyectos, cada imperio añade a su propia producción el 10 % de la producción de investigación del otro, lo que le permite acceder antes a nuevas tecnologías.
+
+Para proponer un acuerdo de investigación, el ofertante debe tener un [WARN]embajador asignado[/WARN] a la capital del destinatario.
+
+[H3]Intercambio de datos de inteligencia[/H3]
+Los dos imperios acuerdan compartir datos de inteligencia. Los resultados de las siguientes misiones de espionaje se comunican al otro imperio:
+[ULI]Robar mapa territorial[/ULI]
+[ULI]Robar mapa galáctico[/ULI]
+[ULI]Robar mapa de operaciones[/ULI]
+
+Para proponer el intercambio de datos de inteligencia, el ofertante debe tener un [WARN]embajador asignado[/WARN] a la capital del destinatario.
+
+[H3]Defensa[/H3]
+Los dos imperios acuerdan defenderse mutuamente si un tercer imperio declara la guerra a cualquiera de ellos.
+
+Para proponer un pacto defensivo, el ofertante debe tener un [WARN]embajador asignado[/WARN] a la capital del destinatario.
+
+[H3]Intercambio de mapas de operaciones[/H3]
+Los dos imperios acuerdan compartir la ubicación de todas sus unidades en la galaxia. Esto mejora la visibilidad conjunta de las unidades enemigas y permite una mejor coordinación.
+
+Para proponer el intercambio de mapas de operaciones, el ofertante debe tener un [WARN]embajador asignado[/WARN] a la capital del destinatario.
+
+[H3]Guerra[/H3]
+Guerra abierta entre dos imperios. Cabe esperar ataques oportunistas contra estaciones mineras periféricas, así como ofensivas coordinadas contra tus colonias e invasiones terrestres.
+
+La guerra continúa hasta que ambos bandos acuerdan ponerle fin. Los imperios suelen aceptar la paz cuando las numerosas bajas los ponen contra las cuerdas. También puede ocurrir que la población se canse de una guerra prolongada y fuerce el cese de las hostilidades.
+
+[H3]Vasallo subyugado[/H3]
+Cuando una guerra termina con una victoria decisiva, el vencedor puede exigir que el derrotado se convierta en su vasallo subyugado. El derrotado también puede ofrecerse a ser vasallo del vencedor.
+
+Los vasallos subyugados pagan un tributo mensual a su imperio soberano. Además, tienen prohibido mantener una diplomacia independiente y no pueden firmar tratados con ninguna otra facción.
+
+Cuando un imperio se convierte en vasallo, se establecen automáticamente los siguientes tratados: No agresión, Libre comercio, Intercambio de mapas galácticos, Repostaje militar y Defensa.
+
+Cuando un vasallo realiza acciones arriesgadas que podrían provocar una guerra, como atacar o emprender misiones de inteligencia contra otro imperio, enfurece a su imperio soberano y su tributo puede aumentar.
+
+La única forma de que un vasallo se libere de su imperio soberano es declararle la guerra.

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfColonyEventDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>135</ColonyEventDefinitionId>
+		<Type>Undefined</Type>
+		<DurationMinimum>5</DurationMinimum>
+		<DurationMaximum>5</DurationMaximum>
+		<EmpireHappiness>0</EmpireHappiness>
+		<MigrationFactor>1</MigrationFactor>
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>Era de la Errancia</Name>
+		<Description>¡Nuestra nueva colonia está atrayendo a nuevos colonos de toda la región!</Description>
+		<ImageFilename>Environment/Events/Wander Time</ImageFilename>
+	</ColonyEventDefinition>
+
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>136</ColonyEventDefinitionId> <!-- Great Bakdur Hunt - Mediocre -->
+		<Type>Undefined</Type>
+		<DurationMinimum>5</DurationMinimum>
+		<DurationMaximum>5</DurationMaximum>
+		<EmpireHappiness>5</EmpireHappiness>
+		<DevelopmentChange>0.05</DevelopmentChange>
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>Cacería mediocre de Bakdur</Name>
+		<Description>La gran cacería de Bakdur en nuestra colonia {0} ha resultado decepcionante, con un botín mediocre.
+
+Aun así, durante los próximos 5 años disfrutaremos de una [GOOD]bonificación de +5 % a la felicidad de todo el imperio[/GOOD].
+
+Además, nuestra colonia [LOCATION]{0}[/LOCATION] obtendrá una bonificación de [GOOD]+5 al desarrollo[/GOOD] durante 5 años.</Description>
+		<ImageFilename>Environment/Events/Great Hunt</ImageFilename>
+	</ColonyEventDefinition>
+
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>137</ColonyEventDefinitionId>
+		<!-- Great Bakdur Hunt - Good -->
+		<Type>Undefined</Type>
+		<DurationMinimum>5</DurationMinimum>
+		<DurationMaximum>5</DurationMaximum>
+		<EmpireHappiness>10</EmpireHappiness>
+		<DevelopmentChange>0.1</DevelopmentChange>
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<Name>Buena cacería de Bakdur</Name>
+		<Description>¡La gran cacería de Bakdur en nuestra colonia {0} ha sido buena: hemos cazado numerosos Bakdur!
+
+Por ello, durante los próximos 5 años disfrutaremos de una [GOOD]bonificación de +10 % a la felicidad de todo el imperio[/GOOD].
+
+Además, nuestra colonia [LOCATION]{0}[/LOCATION] obtendrá una bonificación de [GOOD]+10 al desarrollo[/GOOD] durante 5 años.
+		</Description>
+		<ImageFilename>Environment/Events/Great Hunt</ImageFilename>
+	</ColonyEventDefinition>
+
+	<ColonyEventDefinition>
+		<ColonyEventDefinitionId>138</ColonyEventDefinitionId>
+		<!-- Great Bakdur Hunt - Oustanding -->
+		<Type>Undefined</Type>
+		<DurationMinimum>5</DurationMinimum>
+		<DurationMaximum>5</DurationMaximum>
+		<EmpireHappiness>10</EmpireHappiness>
+		<DevelopmentChange>0.1</DevelopmentChange>
+		<ValuesDecayGradually>false</ValuesDecayGradually>
+		<GameEventName>Outstanding Bakdur Hunt Spice (Teekan)</GameEventName>
+		<Name>Cacería sobresaliente de Bakdur</Name>
+		<Description>¡La gran cacería de Bakdur en nuestra colonia {0} ha sido un éxito espectacular, con un botín enorme de Bakdur!
+
+Por ello, durante los próximos 5 años disfrutaremos de una [GOOD]bonificación de +10 % a la felicidad de todo el imperio[/GOOD].
+
+Además, nuestra colonia [LOCATION]{0}[/LOCATION] obtendrá una bonificación de [GOOD]+5 al desarrollo[/GOOD] durante 5 años.
+
+¡Esta cacería sobresaliente también ha descubierto un gran depósito de [RESOURCE]Especia Korabiana[/RESOURCE], que proporcionará un enorme impulso al desarrollo de nuestro imperio!</Description>
+		<ImageFilename>Environment/Events/Great Hunt</ImageFilename>
+	</ColonyEventDefinition>
+
+</ArrayOfColonyEventDefinition>

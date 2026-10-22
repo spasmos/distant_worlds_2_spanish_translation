@@ -1,0 +1,23 @@
+La Investigación desbloquea nuevas tecnologías con las que puedes mejorar tu imperio de distintas formas:
+[ULI]los nuevos cascos y componentes permiten construir naves y bases más grandes y eficaces[/ULI]
+[ULI]las nuevas Instalaciones planetarias mejoran tus Colonias[/ULI]
+[ULI]mejora tu capacidad para colonizar mundos nuevos[/ULI]
+[ULI]mejora tus tropas terrestres[/ULI]
+[ULI]proporciona distintas bonificaciones, incluida la mejora de tus relaciones diplomáticas con otras facciones[/ULI]
+
+[H3]Pantalla Investigación[/H3]
+En la pantalla Investigación puedes consultar todo el árbol tecnológico y seleccionar nuevos proyectos.
+
+También puedes pagar una 'investigación intensiva' para acelerar el progreso de un proyecto.
+
+[H3]Proyectos simultáneos[/H3]
+Si dispones de varias Estaciones de investigación, puedes investigar más de un proyecto a la vez.
+
+Este valor establece el límite máximo de proyectos que se investigarán simultáneamente.
+
+[H3]Fuentes y producción[/H3]
+La producción de Investigación procede tanto de la población de tus Colonias como de las Estaciones de investigación que construyas.
+
+Para aprovechar toda tu producción también debes destinar fondos excedentes a la Investigación. Una financiación completa permite acceder antes a nuevas tecnologías.
+
+Puedes asignar fondos en la pantalla Niveles de financiación (Mayús+F2) de la sección Imperio.

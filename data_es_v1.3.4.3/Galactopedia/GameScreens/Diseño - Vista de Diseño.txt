@@ -1,0 +1,79 @@
+La Vista de diseño muestra todas las estadísticas actuales del diseño. Los valores cambian conforme añades o retiras Componentes del Casco.
+
+Sus distintas secciones reúnen datos sobre numerosos aspectos del diseño. Pasa el cursor sobre la mayoría de los valores para obtener más información.
+
+En la parte superior aparece el nombre del diseño. Haz clic en él para escribir uno nuevo.
+
+[H3]Recomendaciones[/H3]
+El botón Recomendaciones resume las advertencias y errores del diseño actual.
+
+Pasa el cursor sobre él para desplegar un panel más amplio. Haz clic para mantener abierto ese panel.
+
+El diseño no será válido ni podrá guardarse hasta que resuelvas todos los errores.
+
+[H3]Información principal del diseño[/H3]
+Esta sección resume los datos esenciales, incluidos los costes de compra y mantenimiento.
+
+También muestra requisitos importantes:
+[ULI]el diseño no puede superar el tamaño máximo admitido por el Casco[/ULI]
+[ULI]el diseño debe disponer de suficiente tripulación[/ULI]
+
+[H3]Valoración[/H3]
+La sección Valoración resume cuatro áreas principales: Fuerza de ataque, Fuerza defensiva, Velocidad y maniobrabilidad, y Escáneres.
+
+Pasa el cursor sobre cada valor para consultar los factores que contribuyen a la valoración del área.
+
+[H3]Energía[/H3]
+La sección Energía resume la generación, el almacenamiento y la distribución de energía.
+
+También incluye gráficos del consumo durante el combate a velocidad sublumínica y los viajes por el hiperespacio. Las Bases solo muestran un gráfico.
+
+Un valor importante es la energía que genera el Reactor por unidad de Combustible. Indica la eficiencia del Reactor e influye directamente en la frecuencia con la que una Nave debe repostar.
+
+[H3]Movimiento[/H3]
+Esta sección solo se aplica a las Naves y muestra su velocidad y consumo de energía en distintos regímenes.
+
+También indica el alcance de salto del Hipermotor y el alcance total del Combustible.
+
+La precisión de salto del Hipermotor determina la distancia mínima a la que una Nave sale del salto al viajar a un lugar donde no posees una Colonia o Base, por ejemplo al atacar una ubicación enemiga.
+
+La Nave emergerá aproximadamente a esa distancia y deberá recorrer el tramo restante a velocidad sublumínica.
+
+[H3]Armamento[/H3]
+La sección Armamento muestra el alcance y el daño por segundo de las distintas categorías de Armas.
+
+Pasa el cursor sobre los gráficos de daño para obtener más información.
+
+También aparecen la capacidad de Cazas y su velocidad de construcción.
+
+[H3]Defensa[/H3]
+La sección Defensa muestra los valores de Escudos, Blindaje y reparación de daños.
+
+Pasa el cursor sobre los gráficos de Escudos y Blindaje para obtener más información.
+
+También aparece la defensa ante Abordaje.
+
+[H3]Apuntado y contramedidas[/H3]
+Esta sección muestra las bonificaciones de Apuntado y Contramedidas.
+
+Un mejor Apuntado aumenta la precisión de las Armas y la probabilidad de alcanzar el objetivo.
+
+Unas mejores Contramedidas dificultan que las Armas enemigas alcancen el diseño y ayudan a evitar daños.
+
+[H3]Sensores[/H3]
+La sección Sensores muestra la potencia y el alcance de distintos tipos de Escáner:
+[ULI]escáneres generales de corto y largo alcance para detectar Naves lejanas[/ULI]
+[ULI]seguimiento por hipersalto de Naves enemigas que saltan desde tu ubicación[/ULI]
+[ULI]escaneo de rastreo para obtener información interna de Naves enemigas cercanas[/ULI]
+[ULI]inhibición de Escáneres para protegerse del rastreo enemigo[/ULI]
+
+[H3]Industria[/H3]
+La sección Industria muestra valores de distintas capacidades industriales, como almacenamiento de Carga, capacidad de los muelles de atraque, Minería e Investigación.
+
+[H3]Bonificaciones[/H3]
+La sección Bonificaciones resume las proporcionadas por el Casco y los Componentes del diseño.
+
+[H3]Recursos requeridos para construir[/H3]
+Esta sección muestra todos los Recursos necesarios para construir una copia nueva del diseño.
+
+Incluye los correspondientes al Casco y a todos sus Componentes.

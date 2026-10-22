@@ -1,0 +1,21 @@
+Las Maravillas galácticas son grandes proyectos que construyes en tus colonias. Proporcionan bonificaciones únicas a la colonia o incluso a todo el imperio.
+
+[H3]Las Maravillas son únicas[/H3]
+De algunas Maravillas solo puede construirse una en toda la galaxia. El primer imperio que la complete obtendrá sus beneficios y cualquier otra del mismo tipo que siga en construcción será cancelada.
+
+Otras Maravillas solo pueden construirse una vez en cada imperio.
+
+Las Maravillas son un tipo especial de instalación planetaria y funcionan de forma similar a las demás instalaciones.
+
+Antes de construir una Maravilla debes investigarla. Su construcción cuesta dinero y además conlleva costes de mantenimiento continuos.
+
+Algunas Maravillas son exclusivas de una especie alienígena y solo ella puede construirlas. También pueden estar vinculadas a condiciones de victoria específicas de esa especie.
+
+Algunas Maravillas también se consideran lugares de interés paisajístico, por lo que atraen turismo a la colonia donde se encuentran.
+
+[H3]Construcción y consulta de Maravillas[/H3]
+Para construir Maravillas en una colonia, selecciónala en el Panel de selección y haz clic en el botón verde 'Construir instalaciones'. Se mostrarán botones para todas las instalaciones planetarias que puedan construirse allí, incluidas las Maravillas.
+
+Puedes consultar todas las instalaciones de tu imperio, incluidas las Maravillas, en la lista Instalaciones planetarias de la sección Colonias.
+
+Para conocer los detalles de cada Maravilla, consulta su artículo en la sección Instalaciones planetarias.

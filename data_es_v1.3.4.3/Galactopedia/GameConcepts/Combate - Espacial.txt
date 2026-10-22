@@ -1,0 +1,59 @@
+
+Las opciones tácticas determinan cómo y cuándo las naves y flotas se enfrentarán a objetivos enemigos. Consulta el tema 'Opciones tácticas' para obtener más información.
+
+Las batallas espaciales comienzan cuando fuerzas enemigas entran en el alcance de tus armas.
+
+Lo ideal es disponer de armas de mayor alcance y maniobrar para dispararlas desde fuera del alcance enemigo.
+
+En la práctica intervienen muchos otros factores:
+[ULI]El enemigo puede tener armas de mayor alcance, lo que te obliga a acercarte y utilizar todo tu armamento.[/ULI]
+[ULI]Su velocidad y maniobrabilidad pueden impedirte alcanzar la posición de disparo ideal.[/ULI]
+[ULI]Sus escudos y blindaje pesados pueden exigir un ataque a quemarropa.[/ULI]
+
+Por ejemplo, a una nave muy armada puede convenirle acercarse a quemarropa y lanzar andanadas devastadoras, aunque quede expuesta temporalmente a las armas enemigas.
+
+[H3]Iniciar un ataque[/H3]
+Selecciona una nave militar y haz clic derecho sobre la nave enemiga para atacarla. Mantén pulsado el botón para mostrar un menú con las demás misiones válidas para ese atacante y objetivo.
+
+Durante el combate tienes poco control directo: las naves siguen las tácticas elegidas para su diseño y sus capitanes las aplican lo mejor posible.
+
+Puedes instalar distintas armas y componentes para mejorar el rendimiento en combate, entre ellos:
+
+[H3]Tecnologías defensivas[/H3]
+[ULI]Escudos: absorben el fuego recibido y pierden energía con cada impacto. Las armas con alta Penetración del escudo pueden dañar el blindaje u otros componentes a través de ellos. Los escudos se regeneran, pero no lo bastante rápido para compensar los impactos durante el combate.[/ULI]
+[ULI]Recarga de escudos de área: permite restaurar los escudos de naves aliadas cercanas cuando bajan del 50 %.[/ULI]
+[ULI]Blindaje: constituye la última línea defensiva y absorbe el daño que atraviesa los escudos. Puede detener por completo impactos débiles, pero las armas de mayor energía lo destruyen y dejan la nave expuesta.[/ULI]
+[ULI]Contramedidas: desvían el fuego enemigo y reducen la probabilidad de que alcance la nave.[/ULI]
+[ULI]Contramedidas de flota: mejoran las contramedidas de todas las naves cercanas de la flota.[/ULI]
+[ULI]Armas de intercepción: sistemas de corto alcance que disparan contra proyectiles o cazas cercanos para inutilizarlos o destruirlos. Muchas también atacan objetivos enemigos, aunque se especializan en defensa.[/ULI]
+[ULI]Defensa iónica: protege naves y bases de los efectos incapacitantes de las armas iónicas.[/ULI]
+[ULI]Control de daños: reduce el daño causado por las armas enemigas. Algunos componentes también efectúan reparaciones básicas incluso durante el combate.[/ULI]
+[ULI]Rayos tractores: pueden repeler atacantes durante una huida.[/ULI]
+[ULI]Cápsulas de asalto: proporcionan fuerzas defensivas contra los grupos de abordaje que intentan capturar tu nave o base.[/ULI]
+
+[H3]Tecnologías ofensivas[/H3]
+[ULI]Armas de fuego directo: incluyen blásteres láser, cañones de riel y otras armas con poca capacidad para corregir su trayectoria tras el disparo. Suelen tener menor alcance, pero su velocidad y cadencia elevadas pueden causar mucho daño.[/ULI]
+[ULI]Guiado: incluye misiles y torpedos que maniobran para alcanzar el blanco. Su gran alcance permite atacar a distancia objetivos bien defendidos como puertos espaciales, pero su menor velocidad reduce la eficacia contra naves rápidas y ágiles.[/ULI]
+[ULI]Haz continuo: incluye armas que proyectan un rayo de energía ininterrumpido desde el emisor hasta el objetivo. Sus alcances pueden ser cortos o largos.[/ULI]
+[ULI]Armas de bombardeo: exterminan población y tropas y dañan el planeta, reduciendo su calidad. Algunas priorizan población, desarrollo colonial, calidad planetaria, tropas o instalaciones.[/ULI]
+[ULI]Armas iónicas: disparan partículas ionizadas que desactivan temporalmente componentes. Algunas priorizan armas, motores, hipermotores, sensores o escudos.[/ULI]
+[ULI]Armas de área: lanzan una esfera que detona cerca del enemigo y libera una onda destructiva omnidireccional. Son muy potentes, de corto alcance y gran consumo. No pueden apuntarse y dañan todo lo que esté dentro del radio, incluidas tus fuerzas.[/ULI]
+[ULI]Inhibidores de hipersalto: impiden iniciar saltos a todas las naves dentro de su alcance, incluidas las propias, y se activan automáticamente al entrar en combate. Un hipermotor puede vencer la inhibición si su aislamiento de bloqueo supera la fuerza del inhibidor.[/ULI]
+[ULI]Cazas: interceptores y bombarderos monoplaza, rápidos y maniobrables, que atacan mientras su portanaves o base mantiene una distancia segura. Los hangares reconstruyen las pérdidas.[/ULI]
+[ULI]Sensores de adquisición de objetivos: aumentan la probabilidad de que tus armas acierten.[/ULI]
+[ULI]Adquisición de objetivos de flota: aumenta la precisión de todas las naves cercanas de la flota.[/ULI]
+[ULI]Rayos tractores: pueden atraer objetivos enemigos.[/ULI]
+[ULI]Cápsulas de asalto: lanzan grupos de abordaje para capturar naves o bases enemigas. El objetivo debe estar dentro del alcance de abordaje y tener los escudos suficientemente debilitados.[/ULI]
+
+Otros factores que influyen en el combate son:
+[ULI]Maniobrabilidad: permite colocarse para evitar las armas enemigas mientras se dispara. Añade propulsores vectoriales y reduce el tamaño de la nave para mejorarla.[/ULI]
+[ULI]Velocidad: las naves rápidas pueden escapar de atacantes o alcanzar objetivos.[/ULI]
+[ULI]Escáneres: permiten seguir naves enemigas a distancia. Si escapan mediante un hipersalto al espacio profundo, el valor Seguimiento de saltos puede revelar su trayectoria y permitir que continúe la persecución.[/ULI]
+
+[H3]Precisión de las armas[/H3]
+La precisión de un disparo depende de los siguientes factores:
+[ULI]Distancia: un arma es menos precisa cerca del límite de su alcance que a corta distancia.[/ULI]
+[ULI]Velocidad del objetivo: los blancos lentos son más fáciles de alcanzar y los estacionarios, como las bases, especialmente vulnerables.[/ULI]
+[ULI]Los sensores de adquisición de objetivos de tus naves aumentan la probabilidad de acertar.[/ULI]
+[ULI]Las contramedidas de una nave dificultan que el enemigo la alcance.[/ULI]
+[ULI]Factores aleatorios e incontrolables también pueden mejorar o empeorar la precisión.[/ULI]

@@ -1,0 +1,11 @@
+Esta pantalla muestra un desglose de las economías estatal y privada.
+
+Enumera cada tipo de ingreso y gasto del año actual y del anterior, además de una proyección de las cantidades esperadas para el año en curso. Pasa el cursor sobre cualquier cantidad para obtener más información.
+
+[H3]Economía Estatal[/H3]
+La sección superior muestra los ingresos y gastos ordinarios previstos de la Economía Estatal. Estas cantidades cambian lentamente a medida que crece tu Imperio.
+
+La sección inferior muestra los ingresos extraordinarios. Estas cantidades pueden variar mucho y suelen incluir los ingresos por construcción de Naves privadas, obtenidos cuando el sector privado de tu Imperio compra Naves nuevas.
+
+[H3]Economía del Sector Privado[/H3]
+Esta sección muestra los ingresos y gastos del sector privado de tu Imperio. No controlas directamente cómo obtiene o gasta su dinero.

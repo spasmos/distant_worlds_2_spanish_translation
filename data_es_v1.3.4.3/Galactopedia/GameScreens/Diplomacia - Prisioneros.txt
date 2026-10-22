@@ -1,0 +1,3 @@
+Los Personajes capturados de otras Facciones aparecen en esta lista.
+
+Pasa el cursor sobre la entrada de un Personaje enemigo encarcelado y haz clic para mantener abierto el panel de detalles de la derecha.

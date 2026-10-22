@@ -1,0 +1,5 @@
+Esta pantalla enumera todas las Ubicaciones de minado de tu imperio, incluidas las Colonias y Estaciones mineras. Consulta las opciones de ordenación y filtrado de la parte superior. Puedes filtrar por un recurso concreto para localizar rápidamente todos los lugares donde se extrae.
+
+En los niveles de la galaxia y del sistema, las Ubicaciones de minado aparecen resaltadas en el mapa. Pasa el cursor sobre un elemento de la lista para señalar su posición, haz clic para seleccionarla o haz doble clic para desplazar la vista hasta allí.
+
+Cada elemento muestra los recursos conocidos que se extraen en esa ubicación y su Abundancia. Si existe Escasez de producción de un recurso, un borde rojo discontinuo rodeará su imagen. Pasa el cursor sobre cada recurso para consultar más detalles y las bonificaciones que proporciona.

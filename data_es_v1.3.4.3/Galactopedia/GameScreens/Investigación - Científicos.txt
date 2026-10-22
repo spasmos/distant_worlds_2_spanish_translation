@@ -1,0 +1,13 @@
+Esta lista muestra todos los personajes Científicos de tu imperio.
+
+Sitúa el cursor sobre una entrada para ver los detalles del Científico y haz clic para mantener abierto el panel de la derecha.
+
+Puedes cambiar el nombre de un Científico haciendo clic en el nombre situado bajo su retrato y escribiendo uno nuevo.
+
+[H3]Ubicaciones de los Científicos[/H3]
+Los Científicos proporcionan beneficios de Investigación cuando están a bordo de una Estación de investigación. Utiliza la lista desplegable de ubicaciones y el botón 'Transferir' para asignarlos a un destino concreto.
+
+También puedes automatizar al Científico para que tus asesores elijan su mejor ubicación. Utiliza el botón 'Automatizar' situado bajo su retrato a la derecha.
+
+[H3]Eventos[/H3]
+En la parte inferior del panel de detalles aparece una lista de todos los eventos en los que ha participado el Científico. Estos pueden mejorar o reducir sus habilidades, o proporcionarle nuevos rasgos.

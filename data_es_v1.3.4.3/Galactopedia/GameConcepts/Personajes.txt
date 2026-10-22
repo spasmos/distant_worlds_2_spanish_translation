@@ -1,0 +1,57 @@
+Los personajes son quienes gobiernan imperios, ejercen la diplomacia, comandan flotas, dirigen tropas en combate, investigan, diseñan nuevas tecnologías y realizan misiones de espionaje en la galaxia.
+
+Cada personaje posee habilidades y rasgos que determinan sus fortalezas y debilidades. Sus experiencias y acciones pueden otorgarle nuevas habilidades y rasgos, tanto positivos como negativos, y aumentar el nivel de sus habilidades.
+
+Algunos personajes tienen inicialmente ocultos sus rasgos y niveles de habilidad. No se revelarán hasta que reciban una misión u otra responsabilidad que utilice esas habilidades. Estos personajes se consideran «Sin probar».
+
+Las habilidades de un personaje proporcionan bonificaciones específicas para su función. Por ejemplo:
+[ULI]El Líder de tu imperio proporciona bonificaciones a todo el imperio[/ULI]
+[ULI]Los Embajadores mejoran las relaciones diplomáticas con el imperio extranjero ante el que están destinados[/ULI]
+[ULI]Los Almirantes proporcionan bonificaciones a todas las naves de su flota[/ULI]
+[ULI]Los Generales proporcionan bonificaciones a las tropas que dirigen en una batalla colonial[/ULI]
+[ULI]Los Científicos proporcionan bonificaciones a la estación de investigación donde se encuentran[/ULI]
+[ULI]Los Espías utilizan sus distintas habilidades de espionaje para realizar misiones de inteligencia[/ULI]
+
+[H3]Aplicación de las habilidades a una ubicación[/H3]
+Como se ha indicado, algunos personajes proporcionan bonificaciones a su ubicación actual; por ejemplo, los almirantes mejoran las naves de su flota y los científicos, la investigación de su estación.
+
+Cuando hay varios personajes en la misma ubicación, ya sea colonia, nave, base o flota, sus habilidades no se acumulan linealmente. La aportación de cada personaje adicional es cada vez menor.
+
+La mejor habilidad de cada área se aplica al 100 % de su valor, pero el segundo personaje más competente solo aporta el 50 % de su nivel y el tercero, el 25 %. Cada personaje posterior en esa ubicación vuelve a reducir a la mitad la cantidad añadida al total de esa habilidad.
+
+Por ello suele ser mejor distribuir los personajes entre varias ubicaciones que concentrarlos en una sola; por ejemplo, asignar almirantes y generales a distintas flotas o científicos a varias estaciones de investigación.
+
+[H2]Tipos de personaje[/H2]
+[H3]Líderes[/H3]
+Tu imperio siempre tiene un líder, cuyas habilidades y rasgos afectan a todo el imperio.
+
+Cada tipo de gobierno reemplaza a sus líderes de distinta manera. Los gobiernos electos suelen celebrar elecciones y sustituirlos pacíficamente. Los no electos cambian de líder con menos frecuencia, pero el proceso puede resultar muy perturbador.
+
+Las bonificaciones de los Líderes se aplican a todo el imperio. Están asignados a tu mundo natal y son mucho menos eficaces si no permanecen en la capital.
+
+Las facciones piratas cuentan con Líderes piratas especiales que combinan las habilidades y rasgos de Líderes y Almirantes. Algunos destacan más en el liderazgo y otros como almirantes. Suelen estar destinados en la base pirata de la facción.
+
+[H3]Embajadores[/H3]
+Los Embajadores son diplomáticos expertos que pueden apaciguar a tus enemigos y convertir a tus amigos en aliados de pleno derecho.
+
+Para influir en una facción alienígena mediante un Embajador, debes descubrir su mundo natal y asignar allí al personaje.
+
+[H3]Científicos[/H3]
+Estos personajes pueden aumentar la producción de Investigación de un único Puerto espacial o Estación de investigación. Asígnalos a una de esas ubicaciones para obtener sus efectos.
+
+[H3]Almirantes[/H3]
+Estos personajes afectan a todas las naves de una única flota. Asígnalos a una Flota para obtener sus efectos.
+
+[H3]Generales[/H3]
+Estos personajes afectan a todas las tropas presentes en una colonia o embarcadas en una flota. Asígnalos a una Flota o colonia para obtener sus efectos.
+
+[H3]Espías[/H3]
+Estos personajes disponen de distintas misiones especiales. De forma predeterminada se asignan a Contrainteligencia, que protege tu imperio de los espías enemigos. Consulta el artículo 'Misiones de inteligencia' para obtener más información.
+
+[H3]Supervivencia de los personajes[/H3]
+Los personajes pueden retirarse o perecer por diversas causas. Protege a los más valiosos y las ubicaciones donde estén asignados para mantenerlos a salvo.
+
+También puedes prescindir de ellos mediante el botón Descartar de la pantalla Personajes, aunque podría pasar bastante tiempo hasta que aparezca otro del mismo tipo. Normalmente conviene desarrollar a los personajes existentes en lugar de descartarlos con la esperanza de que llegue alguien excepcional.
+
+[H3]Generación de nuevos personajes[/H3]
+Las acciones del jugador influyen en el tipo de personaje que puede aparecer. Una gran expansión de la flota militar favorece la llegada de un nuevo Almirante; conseguir que facciones alienígenas firmen tratados puede atraer a un Embajador, y un avance crítico de Investigación puede revelar a un nuevo Científico.

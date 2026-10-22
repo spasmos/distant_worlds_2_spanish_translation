@@ -1,0 +1,2572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmpireMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EmpireMessage>
+    <Type>Story</Type>
+    <Title>¡La gloria aguarda!</Title>
+    <Text>En las ruinas del antiguo transporte de tropas mortalen hemos realizado un curioso descubrimiento:
+
+¡Somos los Matadores de Mortak, los más valientes entre los valientes!
+Las tradiciones de nuestros antepasados, que llegaron aquí en una era anterior, siguen muy vivas entre nosotros.
+Sabemos que fueron los más grandes guerreros, que se enfrentaron a todos y jamás fueron vencidos, ni siquiera por el gran horror ancestral que consumió las estrellas.
+Hemos conservado las antiguas costumbres y el pacto ancestral de reconstruir y recuperar la grandeza de los campeones de antaño.
+Los relatos antiguos hablan de enemigos poderosos, batallas mayores que cualquiera que hayamos presenciado y peligros increíbles. ¡El honor y la gloria que nos aguardan son incalculables!
+¡Usaremos el motor estelar que nuestros antepasados nos legaron y enviaremos a los Valientes, los Mortalens, para reclamar las estrellas!
+
+Hemos encontrado tecnología que ha ampliado nuestros conocimientos sobre [RESEARCH]Primeros experimentos con campos de curvatura[/RESEARCH].
+
+Hemos encontrado tecnología que ha ampliado nuestros conocimientos sobre [RESEARCH]Laboratorios de investigación[/RESEARCH].
+
+Estas ruinas proporcionan las siguientes bonificaciones a la colonia: [BONUS]+3 % al desarrollo de la colonia, +9 % a la investigación de construcción, +7 % al paisaje[/BONUS]</Text>
+    <StarDateDescription>2754.01.12</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Story</Type>
+    <Title>Feudalismo</Title>
+    <Text>Gracias al gobierno que hemos elegido, hemos adquirido conocimientos sobre:
+
+[ULI][RESEARCH]Cazas estelares[/RESEARCH][/ULI]
+[ULI][RESEARCH]Combate en gravedad cero[/RESEARCH][/ULI]
+[ULI][RESEARCH]Abordaje de naves[/RESEARCH][/ULI]
+
+También hay una fuerza de infantería disponible en nuestro mundo natal.</Text>
+    <StarDateDescription>2754.01.18</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Descubrimiento en TK490</Title>
+    <Text>Hemos descubierto nuevos recursos en [LOCATION]TK490[/LOCATION], en el sistema Yaven.
+
+La Cuprica es un metal brillante obtenido al fundir mineral de Cuprica. Es extremadamente resistente y ligero, y presenta un tono marrón rojizo lustroso. Se utiliza habitualmente en armas de rayos y torpedos. Se encuentra en algunos planetas rocosos metálicos y en asteroides.
+</Text>
+    <StarDateDescription>2757.08.14</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Research</Type>
+    <Title>Investigación completada: Research Labs</Title>
+    <Text>Hemos completado la investigación de [RESEARCH]Research Labs[/RESEARCH].
+
+Este proyecto proporciona los siguientes avances:
+[RESEARCH]Research Lab[/RESEARCH]</Text>
+    <StarDateDescription>2759.04.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Objetos desconocidos detectados en Yaven 1</Title>
+    <Text>Nuestra exploración ha detectado objetos desconocidos en [LOCATION]Yaven 1[/LOCATION], en el sistema Yaven.
+
+Debemos explorar con niveles más altos para revelar estos objetos.</Text>
+    <StarDateDescription>2759.05.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Descubrimiento en Yaven 1</Title>
+    <Text>Hemos descubierto nuevos recursos en [LOCATION]Yaven 1[/LOCATION], en el sistema Yaven.
+
+El Perfume de Vofula es una fragancia embriagadora que se obtiene de las brillantes flores verdes de la planta Vofula. Esta planta es un pequeño arbusto que crece junto a los lagos de hidrocarburos de los mundos carbonosos.
+El Perfume de Vofula proporciona las siguientes bonificaciones: [BONUS]+4 % al desarrollo de la colonia[/BONUS]</Text>
+    <StarDateDescription>2760.09.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Research</Type>
+    <Title>Investigación completada: Space Construction</Title>
+    <Text>Hemos completado la investigación de [RESEARCH]Space Construction[/RESEARCH].
+
+Este proyecto proporciona los siguientes avances:
+[RESEARCH]Construction Yard (v2)
+Small Space Port v2[/RESEARCH]</Text>
+    <StarDateDescription>2762.02.25</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Research</Type>
+    <Title>Investigación completada: Stable Warp Fields</Title>
+    <Text>Hemos completado la investigación de [RESEARCH]Stable Warp Fields[/RESEARCH].
+
+Este proyecto proporciona los siguientes avances:
+[RESEARCH]Warp Bubble Generator [/RESEARCH]</Text>
+    <StarDateDescription>2766.04.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Diplomacy</Type>
+    <Title>Encuentro con Mortalen Skyjackers</Title>
+    <Text>Hemos encontrado una nueva facción pirata en el sistema Yaven: los [FACTION]Mortalen Skyjackers[/FACTION].
+
+Esta facción pirata está compuesta principalmente por Mortalens, como nuestro imperio. Aunque son piratas, podrían resultar unos aliados útiles si los tratamos adecuadamente.
+
+Las comunicaciones iniciales con los Mortalens han sido desastrosas. Un malentendido sobre sus costumbres les ha causado una gran ofensa.</Text>
+    <StarDateDescription>2766.07.12</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de nave exploradora completado</Title>
+    <Text>El reequipamiento de una nave exploradora se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2766.09.13</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de nave exploradora completado</Title>
+    <Text>El reequipamiento de una nave exploradora se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2766.09.14</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de nave exploradora completado</Title>
+    <Text>El reequipamiento de una nave exploradora se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2766.09.15</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Military</Type>
+    <Title>¡Base asaltada!</Title>
+    <Text>¡La facción [FACTION]Mortalen Skyjackers[/FACTION] ha asaltado nuestra base [LOCATION]Yaven 4 Mining Station[/LOCATION]! En la incursión ha saqueado lo siguiente: 1,166 Argon</Text>
+    <StarDateDescription>2766.09.27</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de nave exploradora completado</Title>
+    <Text>El reequipamiento de una nave exploradora se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2766.10.01</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de nave de construcción completado</Title>
+    <Text>El reequipamiento de una nave de construcción se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2766.10.18</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de nave exploradora completado</Title>
+    <Text>El reequipamiento de una nave exploradora se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2766.10.18</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de nave exploradora completado</Title>
+    <Text>El reequipamiento de una nave exploradora se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2766.10.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de carguero pequeño completado</Title>
+    <Text>El reequipamiento de un carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2766.11.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de carguero pequeño completado</Title>
+    <Text>El reequipamiento de un carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2766.11.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de nave minera completado</Title>
+    <Text>El reequipamiento de una nave minera se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2766.11.23</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de carguero pequeño completado</Title>
+    <Text>El reequipamiento de un carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2766.11.25</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de carguero pequeño completado</Title>
+    <Text>El reequipamiento de un carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2766.12.13</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2766.12.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de carguero pequeño completado</Title>
+    <Text>El reequipamiento de un carguero pequeño se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2766.12.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de carguero pequeño completado</Title>
+    <Text>El reequipamiento de un carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.01.02</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Diplomacy</Type>
+    <Title>¿Quiénes son los Ikkuro?</Title>
+    <Text>Nuestros analistas han averiguado lo siguiente sobre los Ikkuro:
+
+Los Ikkuro son primates grandes y musculosos, cubiertos de un corto pelaje marrón rojizo.
+
+Poseen unas orejas enormes y muy separadas que les permiten determinar con precisión la procedencia de los sonidos. Esta capacidad les proporciona un sentido rudimentario del sonar con el que pueden «ver» en la oscuridad.
+
+Los Ikkuro suelen ser inteligentes y agresivos, aunque cautos. A menudo tienen mal genio y, cuando se les provoca o amenaza, pueden volverse violentos con rapidez. Pese a ello, suelen ser amables y afectuosos con quienes conocen bien.
+
+Son mecánicos extremadamente hábiles. Pueden reparar casi cualquier tipo de maquinaria y aplican con soltura ingeniería inversa a los dispositivos nuevos que encuentran. De hecho, a menudo terminan mejorando las máquinas al volver a montarlas.
+
+Esta predisposición natural para la mecánica también ha llevado a los Ikkuro a desarrollar el robot reparador S2F7, un avanzado autómata capaz de reparar con rapidez los daños de las naves estelares, incluso durante una batalla.
+
+Los Ikkuro sienten una gran fascinación por los árboles y las plantas, y poseen amplios conocimientos sobre los distintos tipos de flora de toda la galaxia. Aprovechan este saber experto para crear una gran variedad de medicamentos herbales muy eficaces.
+
+Suelen vivir en moradas construidas en lo alto de las copas de los árboles de planetas forestales, continentales o de praderas.</Text>
+    <StarDateDescription>2767.01.12</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Diplomacy</Type>
+    <Title>Encuentro con una colonia independiente de Ikkuro</Title>
+    <Text>Hemos encontrado una nueva colonia independiente de Ikkuro en [FACTION]Sefokhe 3[/FACTION], en el sistema Sefokhe.
+
+Los Ikkuro son hostiles hacia nosotros por naturaleza.
+
+Podemos invadir la colonia y tomarla desembarcando tropas. También podríamos intentar que se unieran a nosotros enviando una nave colonizadora, aunque es poco probable que lo consigamos debido a la opinión negativa que tienen de nosotros.
+
+Las comunicaciones iniciales con los Ikkuro han ido muy mal. Los hemos insultado accidentalmente, causándoles una gran ofensa.
+
+Hay proyectos disponibles en nuestro árbol tecnológico que pueden aumentar nuestros conocimientos sobre los Ikkuro. Deberíamos investigarlos para mejorar nuestras relaciones con ellos.</Text>
+    <StarDateDescription>2767.01.12</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de carguero pequeño completado</Title>
+    <Text>El reequipamiento de un carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.01.12</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de carguero pequeño completado</Title>
+    <Text>El reequipamiento de un carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.01.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de carguero pequeño completado</Title>
+    <Text>El reequipamiento de un carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.01.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de carguero pequeño completado</Title>
+    <Text>El reequipamiento de un carguero pequeño se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2767.02.07</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de carguero pequeño completado</Title>
+    <Text>El reequipamiento de un carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.02.08</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Diplomacy</Type>
+    <Title>Encuentro con Hidden Vacuum Dwellers</Title>
+    <Text>Hemos encontrado una nueva facción pirata en el sistema Yaven: los [FACTION]Hidden Vacuum Dwellers[/FACTION].
+
+Esta facción pirata está compuesta principalmente por Humanos, que son hostiles hacia nosotros por naturaleza. Es poco probable que sean unos aliados útiles.
+
+Las comunicaciones iniciales con los Humanos han ido mal. No les hemos causado una buena impresión.</Text>
+    <StarDateDescription>2767.02.16</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de carguero pequeño completado</Title>
+    <Text>El reequipamiento de un carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.02.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de carguero pequeño completado</Title>
+    <Text>El reequipamiento de un carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.02.26</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Exploration Ship Lively Remorse[/LOCATION] está bajo ataque de Courageous Reckoning (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Sefokhe 4, en el sistema Sefokhe!</Text>
+    <StarDateDescription>2767.02.28</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Escort Bleak Chariot[/LOCATION] está bajo ataque de Tenacious Trap (Fragata) de [FACTION]Hidden Vacuum Dwellers[/FACTION] en Yaven 4, en el sistema Yaven!</Text>
+    <StarDateDescription>2767.02.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de carguero pequeño completado</Title>
+    <Text>El reequipamiento de un carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.03.07</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de carguero pequeño completado</Title>
+    <Text>El reequipamiento de un carguero pequeño se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2767.03.15</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de carguero pequeño completado</Title>
+    <Text>El reequipamiento de un carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.03.15</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Characters</Type>
+    <Title>¡Aparece un nuevo embajador!</Title>
+    <Text>Ha aparecido un [CHARACTER]nuevo embajador[/CHARACTER] llamado [CHARACTER]Danpo Takruan[/CHARACTER] en [LOCATION]Degohirt[/LOCATION]</Text>
+    <StarDateDescription>2767.03.17</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de carguero pequeño completado</Title>
+    <Text>El reequipamiento de un carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.03.25</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de nave minera completado</Title>
+    <Text>El reequipamiento de una nave minera se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.04.01</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de carguero pequeño completado</Title>
+    <Text>El reequipamiento de un carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.04.14</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de carguero pequeño completado</Title>
+    <Text>El reequipamiento de un carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.04.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de carguero pequeño completado</Title>
+    <Text>El reequipamiento de un carguero pequeño se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2767.04.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Descubrimiento en Yosul 2</Title>
+    <Text>Hemos descubierto nuevos recursos en [LOCATION]Yosul 2[/LOCATION], en el sistema Yosul.
+
+Tentáculos de Darkhul: Los Darkhul son formidables monstruos marinos que habitan en los abismales túneles submarinos de los mundos oceánicos profundos. Pueden alcanzar longitudes de 100 metros o más. Son superdepredadores que no temen a nada, por lo que cazarlos es una tarea muy peligrosa. Sus tentáculos son un manjar poco común, empleado como alimento y medicina en toda la galaxia.
+Los Tentáculos de Darkhul proporcionan las siguientes bonificaciones: [BONUS]+8 % al desarrollo de la colonia, +3 % al crecimiento de la población[/BONUS]</Text>
+    <StarDateDescription>2767.05.08</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Descubrimiento en Yosul 2</Title>
+    <Text>Hemos descubierto objetos ocultos en [LOCATION]Yosul 2[/LOCATION], en el sistema Yosul.
+
+Bonuses: [BONUS]+6% Scenery from Coral Forest of Yosul[/BONUS]</Text>
+    <StarDateDescription>2767.05.08</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Characters</Type>
+    <Title>¡Aparece un nuevo espía!</Title>
+    <Text>Ha aparecido un [CHARACTER]nuevo espía[/CHARACTER] llamado [CHARACTER]Gobar Shiddai[/CHARACTER] en [LOCATION]Degohirt[/LOCATION]</Text>
+    <StarDateDescription>2767.05.25</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de carguero pequeño completado</Title>
+    <Text>El reequipamiento de un carguero pequeño se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2767.05.29</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Creaboho Mining Station[/LOCATION] está bajo ataque de Judgment of Kaamas (Destructor) de [FACTION]Mortalen Skyjackers[/FACTION] en Yaven 2, en el sistema Yaven!</Text>
+    <StarDateDescription>2767.06.16</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Descubrimiento en Kaamas 7</Title>
+    <Text>Hemos descubierto nuevos recursos en [LOCATION]Kaamas 7[/LOCATION], en el sistema Kaamas.
+
+El Vodkol es una potente bebida alcohólica elaborada con las raíces de la planta Vodia. Esta resistente planta crece en los páramos de tundra de los mundos helados. En la superficie parece un arbusto desgarbado de hojas anchas y amarillo pálido; bajo tierra desarrolla raíces blancas y bulbosas.
+El Vodkol proporciona las siguientes bonificaciones: [BONUS]+3 % al desarrollo de la colonia, +1 % a la felicidad de la colonia[/BONUS]</Text>
+    <StarDateDescription>2767.06.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Descubrimiento en Kaamas 7</Title>
+    <Text>Hemos descubierto nuevos recursos en [LOCATION]Kaamas 7[/LOCATION], en el sistema Kaamas.
+
+Piel de Attarión: Los Attariones son felinos depredadores que viven en las altas montañas de los mundos helados. Alcanzan dos metros de longitud y poseen un hermoso pelaje blanco grisáceo, extremadamente suave y ligero. Es muy apreciado en la confección de prendas por su calidez y durabilidad.
+La Piel de Attarión proporciona las siguientes bonificaciones: [BONUS]+4 % al desarrollo de la colonia, +1 % a la felicidad de la colonia[/BONUS]</Text>
+    <StarDateDescription>2767.06.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Descubrimiento en Kaamas 7</Title>
+    <Text>Hemos descubierto nuevos recursos en [LOCATION]Kaamas 7[/LOCATION], en el sistema Kaamas.
+
+El Hexodorium es un tipo único de polímero, muy resistente y difícil de dañar. Tiene numerosas aplicaciones en componentes avanzados. Suele encontrarse en mundos helados, aunque otros planetas de hielo también pueden albergar pequeños depósitos.
+</Text>
+    <StarDateDescription>2767.06.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de carguero pequeño completado</Title>
+    <Text>El reequipamiento de un carguero pequeño se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2767.07.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Escort Advocate of Yaven[/LOCATION] está bajo ataque de Resistance of Urctun (Escolta) de [FACTION]Hidden Vacuum Dwellers[/FACTION] en Sefokhe 3, en el sistema Sefokhe!</Text>
+    <StarDateDescription>2767.07.18</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Descubrimiento en Nibu 1</Title>
+    <Text>Hemos descubierto nuevos recursos en [LOCATION]Nibu 1[/LOCATION], en el sistema Nibu.
+
+La Raíz de Podantia es una hierba medicinal que ayuda a curar numerosas enfermedades. Sus finos tallos fibrosos contienen poderosos nutrientes que refuerzan el sistema inmunitario. Se encuentra en mundos volcánicos de azufre.
+La Raíz de Podantia proporciona las siguientes bonificaciones: [BONUS]+6 % al desarrollo de la colonia, +2 % al crecimiento de la población[/BONUS]</Text>
+    <StarDateDescription>2767.07.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Small Freighter Crafty Mystery[/LOCATION] está bajo ataque de Growling Star (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Yaven 5, en el sistema Yaven!</Text>
+    <StarDateDescription>2767.08.09</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de carguero pequeño completado</Title>
+    <Text>El reequipamiento de un carguero pequeño se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2767.08.13</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de carguero pequeño completado</Title>
+    <Text>El reequipamiento de un carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.10.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.10.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de carguero pequeño completado</Title>
+    <Text>El reequipamiento de un carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.10.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Exploration Ship Feeble Pride[/LOCATION] está bajo ataque de a Gravillex (supergigante) en Javen 4, en el sistema Javen!</Text>
+    <StarDateDescription>2767.11.02</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Escort Decisive Advocate[/LOCATION] está bajo ataque de Great Decree (Fragata) de [FACTION]Hidden Vacuum Dwellers[/FACTION] en Sefokhe 3, en el sistema Sefokhe!</Text>
+    <StarDateDescription>2767.11.27</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.12.07</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Escort Advocate of Yaven[/LOCATION] está bajo ataque de Kaamas Horizon (Fragata) de [FACTION]Mortalen Skyjackers[/FACTION] en Sefokhe 3, en el sistema Sefokhe!</Text>
+    <StarDateDescription>2767.12.12</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de nave minera completado</Title>
+    <Text>El reequipamiento de una nave minera se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2767.12.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Small Freighter Intrepid Destiny[/LOCATION] está bajo ataque de Courageous Reckoning (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Yaven 5, en el sistema Yaven!</Text>
+    <StarDateDescription>2767.12.26</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Ataque a colonia en Degohirt</Title>
+    <Text>Nuestra colonia [LOCATION]Degohirt[/LOCATION] está bajo ataque de [FACTION]Mortalen Skyjackers[/FACTION]!</Text>
+    <StarDateDescription>2767.12.29</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Military</Type>
+    <Title>¡Colonia saqueada!</Title>
+    <Text>¡Fuerzas de los [FACTION]Mortalen Skyjackers[/FACTION] están saqueando nuestra colonia [LOCATION]Degohirt[/LOCATION]! Una batalla terrestre se libra en la colonia.</Text>
+    <StarDateDescription>2768.01.01</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de nave minera completado</Title>
+    <Text>El reequipamiento de una nave minera se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2768.01.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Military</Type>
+    <Title>Los saqueadores se retiran</Title>
+    <Text>¡Los saqueadores de [FACTION]Mortalen Skyjackers[/FACTION] han sido rechazados y se han retirado de nuestra colonia [LOCATION]Degohirt[/LOCATION]!</Text>
+    <StarDateDescription>2768.01.13</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Exploration Ship Lively Remorse[/LOCATION] está bajo ataque de Judgment of Kaamas (Destructor) de [FACTION]Mortalen Skyjackers[/FACTION] en Sefokhe 5, en el sistema Sefokhe!</Text>
+    <StarDateDescription>2768.02.17</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Descubrimiento en Kaamas 1</Title>
+    <Text>Hemos descubierto nuevos recursos en [LOCATION]Kaamas 1[/LOCATION], en el sistema Kaamas.
+
+La Seda Bifuriana es una seda azul brillante y extremadamente fina, hilada por el gusano Bifuria. Estos gusanos viven en profundas cuevas subterráneas de mundos de praderas y continentales. Se adhieren a techos y paredes de grutas húmedas, donde tejen enormes redes de fibras ultrafinas que pueden recogerse para elaborar esta seda.
+La Seda Bifuriana proporciona las siguientes bonificaciones: [BONUS]+7 % al desarrollo de la colonia, +1 % a los ingresos de la colonia[/BONUS]</Text>
+    <StarDateDescription>2768.02.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Characters</Type>
+    <Title>¡Agente capturado!</Title>
+    <Text>Nuestro agente [CHARACTER]Kutar Kazzdi[/CHARACTER] ha sido capturado mientras se preparaba para robar el mapa territorial de los Mortalen Skyjackers. El descubrimiento de esta misión tendrá consecuencias diplomáticas.
+
+[CHARACTER]Kutar Kazzdi[/CHARACTER] ha sido encarcelado por los [FACTION]Mortalen Skyjackers[/FACTION].</Text>
+    <StarDateDescription>2768.02.28</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>Nueva escolta completada</Title>
+    <Text>La construcción de una nueva escolta se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2768.05.02</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>Nueva escolta completada</Title>
+    <Text>La construcción de una nueva escolta se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2768.05.25</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Small Freighter Yaven Destiny[/LOCATION] está bajo ataque de Kaamas Serpent (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Yaven 4, en el sistema Yaven!</Text>
+    <StarDateDescription>2768.06.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>Nueva escolta completada</Title>
+    <Text>La construcción de una nueva escolta se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2768.06.18</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Research</Type>
+    <Title>Investigación completada: Improved Escorts</Title>
+    <Text>Hemos completado la investigación de [RESEARCH]Improved Escorts[/RESEARCH].
+
+Este proyecto proporciona los siguientes avances:
+[RESEARCH]Patrol Escort
+Heavy Escort[/RESEARCH]</Text>
+    <StarDateDescription>2768.07.04</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Objetos desconocidos detectados en Yosul 1</Title>
+    <Text>Nuestra exploración ha detectado objetos desconocidos en [LOCATION]Yosul 1[/LOCATION], en el sistema Yosul.
+
+Debemos explorar con niveles más altos para revelar estos objetos.</Text>
+    <StarDateDescription>2768.09.15</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Small Freighter Vagrant of Yaven[/LOCATION] está bajo ataque de Kaamas Horizon (Fragata) de [FACTION]Mortalen Skyjackers[/FACTION] en Yaven 4, en el sistema Yaven!</Text>
+    <StarDateDescription>2768.09.26</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Escort Yaven Zenith[/LOCATION] está bajo ataque de Kaamas Serpent (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Sefokhe 3, en el sistema Sefokhe!</Text>
+    <StarDateDescription>2768.10.15</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Military</Type>
+    <Title>¡Base asaltada!</Title>
+    <Text>¡La facción [FACTION]Mortalen Skyjackers[/FACTION] ha asaltado nuestra base [LOCATION]Yaven 4 Mining Station[/LOCATION]! En la incursión ha saqueado lo siguiente: 5,051 credits</Text>
+    <StarDateDescription>2768.10.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Descubrimiento en Brintaal 5</Title>
+    <Text>Hemos descubierto nuevos recursos en [LOCATION]Brintaal 5[/LOCATION], en el sistema Brintaal.
+
+El Kasotti es una bebida alcohólica cremosa obtenida de las hojas gruesas y jugosas de la planta Kasot, una hierba rastrera que crece en las llanuras costeras bajas de los mundos de tundra helada.
+El Kasotti proporciona las siguientes bonificaciones: [BONUS]+3 % al desarrollo de la colonia[/BONUS]</Text>
+    <StarDateDescription>2768.11.02</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>Nueva escolta completada</Title>
+    <Text>La construcción de una nueva escolta se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2768.11.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2768.12.02</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>Nueva escolta completada</Title>
+    <Text>La construcción de una nueva escolta se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2769.01.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>Nueva escolta completada</Title>
+    <Text>La construcción de una nueva escolta se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2769.02.27</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Mining Ship Wanderer of Yaven[/LOCATION] está bajo ataque de Kaamas Serpent (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Yaven 2, en el sistema Yaven!</Text>
+    <StarDateDescription>2769.03.03</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Descubrimiento en Sefokhe 4</Title>
+    <Text>Hemos descubierto nuevos recursos en [LOCATION]Sefokhe 4[/LOCATION], en el sistema Sefokhe.
+
+El Pelaje de Danta es el espeso pelaje marrón y blanco de los Dantas. Estos grandes animales viven en las vastas llanuras de los mundos desérticos y forman manadas de entre 30 y 200 ejemplares. Migran por el desierto en busca de hongos Lopid, que crecen a medio metro bajo la arena. Su olfato muy desarrollado les permite localizar y desenterrar estos hongos ricos en agua.
+El Pelaje de Danta proporciona las siguientes bonificaciones: [BONUS]+4 % al desarrollo de la colonia[/BONUS]</Text>
+    <StarDateDescription>2769.05.04</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Descubrimiento en Sefokhe 4</Title>
+    <Text>Hemos descubierto objetos ocultos en [LOCATION]Sefokhe 4[/LOCATION], en el sistema Sefokhe.
+
+Bonuses: [BONUS]+4% Scenery from Dust Rings of Sefokhe[/BONUS]</Text>
+    <StarDateDescription>2769.05.04</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]LT536 Mining Station[/LOCATION] está bajo ataque de Courageous Reckoning (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Yaven 2, en el sistema Yaven!</Text>
+    <StarDateDescription>2769.06.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Degohirt Spaceport[/LOCATION] está bajo ataque de Kaamas Horizon (Fragata) de [FACTION]Mortalen Skyjackers[/FACTION] en Yaven 5, en el sistema Yaven!</Text>
+    <StarDateDescription>2769.07.01</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Small Freighter Crafty Mystery[/LOCATION] está bajo ataque de Judgment of Kaamas (Destructor) de [FACTION]Mortalen Skyjackers[/FACTION] en Yaven 1, en el sistema Yaven!</Text>
+    <StarDateDescription>2769.07.02</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Escort Yaven Bandit[/LOCATION] está bajo ataque de Dreadful Destiny (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Yaven Asteroid Field, en el sistema Yaven!</Text>
+    <StarDateDescription>2769.07.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Exploration Ship Lively Remorse[/LOCATION] está bajo ataque de Kaamas Serpent (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Sefokhe, en el sistema Sefokhe!</Text>
+    <StarDateDescription>2769.08.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>Nueva nave de construcción completada</Title>
+    <Text>La construcción de una nueva nave de construcción se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2769.10.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Small Freighter Frugal Encounter[/LOCATION] está bajo ataque de Growling Star (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Yaven 5, en el sistema Yaven!</Text>
+    <StarDateDescription>2769.10.27</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Descubrimiento en Kaamas 2</Title>
+    <Text>Hemos descubierto nuevos recursos en [LOCATION]Kaamas 2[/LOCATION], en el sistema Kaamas.
+
+Fibra de la Polilla Tassont: Las gigantescas Polillas Tassont son las mayores de su especie. Viven en profundas cuevas de los mundos de desierto arenoso, donde el clima les resulta más favorable. La extraordinaria fibra de sus alas puede soportar cargas enormes pese a medir apenas unas micras de grosor. Es muy demandada para confeccionar prendas y trajes ceremoniales, pero también se usa en labores estructurales y de seguridad, como la escalada.
+La Fibra de la Polilla Tassont proporciona las siguientes bonificaciones: [BONUS]+6 % al desarrollo de la colonia, +1 % a los ingresos de la colonia[/BONUS]</Text>
+    <StarDateDescription>2769.11.04</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>Nueva nave exploradora completada</Title>
+    <Text>La construcción de una nueva nave exploradora se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2769.11.17</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Escolta bajo abordaje</Title>
+    <Text>[LOCATION]Escort Yaven Bandit[/LOCATION] está siendo abordada por [FACTION]Mortalen Skyjackers[/FACTION] en Yaven 6, en el sistema Yaven!</Text>
+    <StarDateDescription>2769.11.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Small Freighter Last Intrigue[/LOCATION] está bajo ataque de Tenacious Trap (Fragata) de [FACTION]Hidden Vacuum Dwellers[/FACTION] en Yaven 5, en el sistema Yaven!</Text>
+    <StarDateDescription>2769.12.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>Nueva nave exploradora completada</Title>
+    <Text>La construcción de una nueva nave exploradora se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2770.01.04</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>Nueva nave de construcción completada</Title>
+    <Text>La construcción de una nueva nave de construcción se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.01.23</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>Nueva nave exploradora completada</Title>
+    <Text>La construcción de una nueva nave exploradora se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2770.01.29</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]LT536 Mining Station[/LOCATION] está bajo ataque de Tenacious Trap (Fragata) de [FACTION]Hidden Vacuum Dwellers[/FACTION] en Yaven 2, en el sistema Yaven!</Text>
+    <StarDateDescription>2770.02.07</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Exploration Ship Lively Remorse[/LOCATION] está bajo ataque de Judgment of Kaamas (Destructor) de [FACTION]Mortalen Skyjackers[/FACTION] en Sefokhe, en el sistema Sefokhe!</Text>
+    <StarDateDescription>2770.02.12</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Small Freighter Decrepit Subterfuge[/LOCATION] está bajo ataque de Evil Subjugator (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Yaven 5, en el sistema Yaven!</Text>
+    <StarDateDescription>2770.02.15</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Objetos desconocidos detectados en Sailf</Title>
+    <Text>Nuestra exploración ha detectado objetos desconocidos en [LOCATION]Sailf[/LOCATION], en el sistema Yosul.
+
+Debemos explorar con niveles más altos para revelar estos objetos.</Text>
+    <StarDateDescription>2770.03.05</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>Nueva nave exploradora completada</Title>
+    <Text>La construcción de una nueva nave exploradora se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2770.03.16</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de nave de construcción completado</Title>
+    <Text>El reequipamiento de una nave de construcción se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2770.03.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Mining Ship Solitary Hope[/LOCATION] está bajo ataque de Judgment of Kaamas (Destructor) de [FACTION]Mortalen Skyjackers[/FACTION] en Sefokhe 4, en el sistema Sefokhe!</Text>
+    <StarDateDescription>2770.04.02</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.04.10</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>Nueva nave exploradora completada</Title>
+    <Text>La construcción de una nueva nave exploradora se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2770.04.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.04.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.04.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.01</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.02</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.02</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.03</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.04</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.04</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.05</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.07</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.08</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.08</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.09</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.10</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.10</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.12</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.12</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.13</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.13</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>Nueva escolta completada</Title>
+    <Text>La construcción de una nueva escolta se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2770.05.14</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.14</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.15</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.15</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.16</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.17</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.17</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.18</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Escort Yaven Bandit[/LOCATION] está bajo ataque de Looming Guardian (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Yaven 2, en el sistema Yaven!</Text>
+    <StarDateDescription>2770.05.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.23</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.23</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.25</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.25</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.26</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.26</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.27</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.28</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.29</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.29</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.05.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.01</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>Nueva escolta completada</Title>
+    <Text>La construcción de una nueva escolta se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2770.06.01</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.01</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.02</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.03</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.03</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.04</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.05</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.05</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.07</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.07</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.08</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.09</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.09</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Small Freighter Majestic Tramp[/LOCATION] está bajo ataque de Kaamas Horizon (Fragata) de [FACTION]Mortalen Skyjackers[/FACTION] en Yaven 5, en el sistema Yaven!</Text>
+    <StarDateDescription>2770.06.10</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.10</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.12</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.13</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.13</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.14</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.15</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.15</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.16</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.17</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.17</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.18</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.23</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.23</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.25</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.06.26</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.07.01</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.07.02</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.07.03</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>Nueva escolta completada</Title>
+    <Text>La construcción de una nueva escolta se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2770.07.03</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionState</Type>
+    <Title>Nueva escolta completada</Title>
+    <Text>La construcción de una nueva escolta se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2770.07.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Transporte de tropas destruido</Title>
+    <Text>Hemos descubierto el [DISCOVERY]Transporte de tropas destruido[/DISCOVERY], unas ruinas antiguas de una civilización perdida, en el planeta volcánico [LOCATION]Brintaal 1[/LOCATION] del sistema Brintaal.
+
+Hemos encontrado lo que parece ser un transporte de tropas alienígena estrellado. Sería prudente investigar el planeta más a fondo en busca de indicios de posibles enemigos.
+
+¿Deberíamos investigar las ruinas?</Text>
+    <StarDateDescription>2770.07.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Descubrimiento en Brintaal 1</Title>
+    <Text>Hemos descubierto objetos ocultos en [LOCATION]Brintaal 1[/LOCATION], en el sistema Brintaal.
+
+Bonuses: [BONUS]+6% Scenery from Fire Caverns of Brintaal[/BONUS]</Text>
+    <StarDateDescription>2770.07.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Una colonia subterránea</Title>
+    <Text>Una investigación más exhaustiva del planeta ha revelado una colonia subterránea de alienígenas insectoides. Lo más probable es que estas repugnantes criaturas desciendan de los supervivientes del transporte de tropas estrellado.
+
+Estos alienígenas han demostrado ser viles no solo en apariencia, sino también en comportamiento. Lanzaron un ataque deshonroso contra nuestro equipo de exploración de la superficie. Los exploradores Mortalens fueron sorprendidos en una emboscada cobarde y, aunque lucharon con valentía, se vieron superados en número y finalmente fueron derrotados. Debemos vengarlos y responder a la sangre con sangre.</Text>
+    <StarDateDescription>2770.07.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Diplomacy</Type>
+    <Title>¿Quiénes son los Boskara?</Title>
+    <Text>Nuestros analistas han averiguado lo siguiente sobre los Boskara:
+
+Los Boskara son una feroz raza insectoide con una resistente piel de exoesqueleto marrón.
+
+Son la raza más violenta y agresiva de la galaxia conocida. Sobresalen en combate y recurren a artimañas y engaños para obtener ventaja. Los Boskara son aliados poco fiables.
+
+El ansia instintiva de conquista y expansión de los Boskara no tiene igual. La mayoría de las demás razas los consideran totalmente carentes de escrúpulos y, por ello, se mantienen bien alejadas. Sin embargo, los Boskara tienen un aliado natural en los Sluken, sus parientes cercanos, algo más razonables.
+
+Su tecnología incluye el mortífero Shaktur FireStorm, un arma de torpedos inmensamente destructiva. Esta arma otorga a las naves estelares Boskara una enorme capacidad de asalto planetario y les permite destruir con rapidez los puertos espaciales defensivos de las colonias enemigas. El Shaktur FireStorm también permite realizar bombardeos planetarios, con los que los Boskara pueden exterminar la población de las colonias enemigas.
+
+Los Boskara suelen habitar en el terreno inhóspito de los planetas volcánicos. A veces también pueden encontrarse comunidades en las montañas rocosas de los planetas carbonosos.</Text>
+    <StarDateDescription>2770.07.23</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Diplomacy</Type>
+    <Title>Encuentro con una colonia independiente de Boskara</Title>
+    <Text>Hemos encontrado una nueva colonia independiente de Boskara en [FACTION]Brintaal 1[/FACTION], en el sistema Brintaal.
+
+Los Boskara son muy hostiles hacia nosotros por naturaleza.
+
+Podemos invadir la colonia y tomarla desembarcando tropas. También podríamos intentar que se unieran a nosotros enviando una nave colonizadora, aunque es poco probable que lo consigamos debido a la opinión negativa que tienen de nosotros.
+
+Las comunicaciones iniciales con los Boskara han tenido un éxito extraordinario. Nos consideran con cierta simpatía.
+
+La colonia posee características únicas que proporcionan bonificaciones:
++6 % al paisaje por las Cavernas de Fuego de Brintaal
+
+Hay proyectos disponibles en nuestro árbol tecnológico que pueden aumentar nuestros conocimientos sobre los Boskara. Deberíamos investigarlos para mejorar nuestras relaciones con ellos.</Text>
+    <StarDateDescription>2770.07.23</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.08.03</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Yaven 4 Mining Station[/LOCATION] está bajo ataque de Worthy Enforcer (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Yaven 4, en el sistema Yaven!</Text>
+    <StarDateDescription>2770.08.13</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Kaamas 7 Mining Station[/LOCATION] está bajo ataque de Red Zenith (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Kaamas 7, en el sistema Kaamas!</Text>
+    <StarDateDescription>2770.08.27</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2770.08.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Exploration Ship Blind Princess[/LOCATION] está bajo ataque de Evil Subjugator (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Sefokhe 2, en el sistema Sefokhe!</Text>
+    <StarDateDescription>2770.09.02</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2770.09.07</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Military</Type>
+    <Title>¡Base asaltada!</Title>
+    <Text>¡La facción [FACTION]Mortalen Skyjackers[/FACTION] ha asaltado nuestra base [LOCATION]Yaven 4 Mining Station[/LOCATION]! En la incursión ha saqueado lo siguiente: 2,224 Argon</Text>
+    <StarDateDescription>2770.09.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Degohirt Spaceport[/LOCATION] está bajo ataque de Judgment of Kaamas (Destructor) de [FACTION]Mortalen Skyjackers[/FACTION] en Yaven 5, en el sistema Yaven!</Text>
+    <StarDateDescription>2770.10.04</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2770.10.18</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Exploration Ship Lively Remorse[/LOCATION] está bajo ataque de Evil Subjugator (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Sefokhe 3, en el sistema Sefokhe!</Text>
+    <StarDateDescription>2770.10.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Descubrimiento en Atoita</Title>
+    <Text>Hemos descubierto objetos ocultos en [LOCATION]Atoita[/LOCATION], en el sistema Kaamas.
+
+Bonuses: [BONUS]+9% Scenery from Ice Rings of Kaamas[/BONUS]</Text>
+    <StarDateDescription>2770.10.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Research</Type>
+    <Title>Investigación completada: System Patrol Starships</Title>
+    <Text>Hemos completado la investigación de [RESEARCH]System Patrol Starships[/RESEARCH].
+
+Este proyecto proporciona los siguientes avances:
+[RESEARCH]Frigate[/RESEARCH]</Text>
+    <StarDateDescription>2770.10.26</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2770.10.26</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Creaboho Mining Station[/LOCATION] está bajo ataque de Kaamas Horizon (Fragata) de [FACTION]Mortalen Skyjackers[/FACTION] en Yaven 2, en el sistema Yaven!</Text>
+    <StarDateDescription>2770.11.10</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Descubrimiento en Afeusc</Title>
+    <Text>Hemos descubierto nuevos recursos en [LOCATION]Afeusc[/LOCATION], en el sistema Javen.
+
+La Cerveza Decarión es una bebida alcohólica fuerte y de color rojo brillante elaborada en mundos de tundra helada. Se obtiene de las raíces de la Decaria, un pequeño arbusto de hojas rojizas y amarillas cuyas raíces penetran profundamente en el suelo. La planta se cosecha en verano y vuelve a plantarse en otoño.
+La Cerveza Decarión proporciona las siguientes bonificaciones: [BONUS]+5 % al desarrollo de la colonia, +1 % a la felicidad de la colonia[/BONUS]</Text>
+    <StarDateDescription>2770.11.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2770.11.23</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2770.12.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2770.12.14</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Kaamas 7 Mining Station[/LOCATION] está bajo ataque de Red Zenith (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Kaamas 7, en el sistema Kaamas!</Text>
+    <StarDateDescription>2771.01.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2771.01.23</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2771.02.02</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Escort Black Crucible[/LOCATION] está bajo ataque de Kaamas Horizon (Fragata) de [FACTION]Mortalen Skyjackers[/FACTION] en Yaven 5, en el sistema Yaven!</Text>
+    <StarDateDescription>2771.02.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Exploration Ship Feeble Pride[/LOCATION] está bajo ataque de Growling Star (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Sefokhe, en el sistema Sefokhe!</Text>
+    <StarDateDescription>2771.03.05</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2771.03.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Exploration Ship Lively Remorse[/LOCATION] está bajo ataque de Dreadful Destiny (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Sefokhe 3, en el sistema Sefokhe!</Text>
+    <StarDateDescription>2771.03.17</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2771.03.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Creaboho Mining Station[/LOCATION] está bajo ataque de Evil Subjugator (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Yaven 2, en el sistema Yaven!</Text>
+    <StarDateDescription>2771.03.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Mining Ship Solitary Hope[/LOCATION] está bajo ataque de Kaamas Serpent (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Sefokhe 4, en el sistema Sefokhe!</Text>
+    <StarDateDescription>2771.04.17</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Escort Red Rage[/LOCATION] está bajo ataque de Looming Guardian (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Yaven 4, en el sistema Yaven!</Text>
+    <StarDateDescription>2771.04.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2771.04.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2771.05.07</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Estación minera abordada</Title>
+    <Text>[LOCATION]Kaamas 1 Mining Station[/LOCATION] está siendo abordada por [FACTION]Mortalen Skyjackers[/FACTION] en Kaamas 1, en el sistema Kaamas!</Text>
+    <StarDateDescription>2771.05.15</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Descubrimiento en Ussil 3</Title>
+    <Text>Hemos descubierto nuevos recursos en [LOCATION]Ussil 3[/LOCATION], en el sistema Ussil.
+
+La Hoja de Yapara procede de un arbusto bajo que crece en los áridos páramos de los mundos de sabana desértica. Sus hojas verde amarillentas soportan un calor intenso, y la planta puede sobrevivir casi diez años sin agua. Contienen poderosos fitonutrientes muy eficaces contra toxinas y agentes patógenos.
+La Hoja de Yapara proporciona las siguientes bonificaciones: [BONUS]+3 % al desarrollo de la colonia, +2 % al crecimiento de la población, +2 % a la curación de plagas[/BONUS]</Text>
+    <StarDateDescription>2771.06.01</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2771.06.18</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2771.06.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Nibu 1 Mining Station[/LOCATION] está bajo ataque de Courageous Reckoning (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Nibu 1, en el sistema Nibu!</Text>
+    <StarDateDescription>2771.07.12</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Escort Yaven Bandit[/LOCATION] está bajo ataque de Kaamas Horizon (Fragata) de [FACTION]Mortalen Skyjackers[/FACTION] en Yaven 2, en el sistema Yaven!</Text>
+    <StarDateDescription>2771.07.16</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2771.08.05</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2771.08.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Descubrimiento en OG685</Title>
+    <Text>Hemos descubierto objetos ocultos en [LOCATION]OG685[/LOCATION], en el sistema OG685.
+
+Bonuses: [BONUS]+6% Scenery from Spectacular Coronal Eruptions[/BONUS]</Text>
+    <StarDateDescription>2771.08.14</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2771.08.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Exploration Ship Solemn Scheme[/LOCATION] está bajo ataque de Red Zenith (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Kaamas 6, en el sistema Kaamas!</Text>
+    <StarDateDescription>2771.09.08</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2771.09.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Military</Type>
+    <Title>¡Base asaltada!</Title>
+    <Text>¡La facción [FACTION]Mortalen Skyjackers[/FACTION] ha asaltado nuestra base [LOCATION]Nibu 1 Mining Station[/LOCATION]! En la incursión ha saqueado lo siguiente: 4,272 credits</Text>
+    <StarDateDescription>2771.09.23</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2771.09.29</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Descubrimiento en Villaceya 1</Title>
+    <Text>Hemos descubierto nuevos recursos en [LOCATION]Villaceya 1[/LOCATION], en el sistema Villaceya.
+
+El Cuarzo Dirilio se utiliza en componentes electrónicos avanzados y colectores de energía. Se encuentra en mundos volcánicos de azufre.
+</Text>
+    <StarDateDescription>2771.10.05</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Exploration Ship Blind Princess[/LOCATION] está bajo ataque de Evil Subjugator (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Sefokhe 2, en el sistema Sefokhe!</Text>
+    <StarDateDescription>2771.10.17</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Diplomacy</Type>
+    <Title>Aceptar tratado</Title>
+    <Text>Hidden Vacuum Dwellers nos ofrece protección</Text>
+    <StarDateDescription>2771.10.25</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Kaamas 1 Mining Station[/LOCATION] está bajo ataque de Dreadful Mutiny (Fragata) de [FACTION]Mortalen Skyjackers[/FACTION] en Kaamas 1, en el sistema Kaamas!</Text>
+    <StarDateDescription>2771.11.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2771.11.10</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Escort Yaven Advocate[/LOCATION] está bajo ataque de Kaamas Horizon (Fragata) de [FACTION]Mortalen Skyjackers[/FACTION] en Sefokhe 3, en el sistema Sefokhe!</Text>
+    <StarDateDescription>2771.11.12</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2771.11.16</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Tesoro recuperado</Title>
+    <Text>Mientras recuperábamos una sección de casco en el sistema Yaven, hemos realizado el siguiente descubrimiento:
+
+Hemos encontrado [DISCOVERY]un valioso tesoro por valor de 2.000 créditos[/DISCOVERY].</Text>
+    <StarDateDescription>2771.11.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Exploration Ship Solemn Gamble[/LOCATION] está bajo ataque de a Gravillex (Main Sequence) en Nobea, en el sistema Nobea!</Text>
+    <StarDateDescription>2771.12.10</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de nave minera completado</Title>
+    <Text>El reequipamiento de una nave minera se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2771.12.16</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Descubrimiento en AV253</Title>
+    <Text>Hemos descubierto objetos ocultos en [LOCATION]AV253[/LOCATION], en el sistema Ussil.
+
+Bonuses: [BONUS]+8% HighTech Research from Gravimetric Distortion[/BONUS]</Text>
+    <StarDateDescription>2771.12.16</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2771.12.27</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2772.01.03</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de nave minera completado</Title>
+    <Text>El reequipamiento de una nave minera se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2772.01.13</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Military</Type>
+    <Title>¡Base asaltada!</Title>
+    <Text>¡La facción [FACTION]Mortalen Skyjackers[/FACTION] ha asaltado nuestra base [LOCATION]Kaamas 1 Mining Station[/LOCATION]! En la incursión ha saqueado lo siguiente: 5,851 credits</Text>
+    <StarDateDescription>2772.01.26</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Military</Type>
+    <Title>¡Captura de Yaven Advocate!</Title>
+    <Text>¡Nuestra escolta [LOCATION]'Yaven Advocate'[/LOCATION] ha sido abordada y capturada por los [FACTION]Mortalen Skyjackers[/FACTION]!</Text>
+    <StarDateDescription>2772.02.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2772.02.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Exploration Ship Solemn Scheme[/LOCATION] está bajo ataque de Looming Guardian (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Kaamas 6, en el sistema Kaamas!</Text>
+    <StarDateDescription>2772.02.27</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2772.03.08</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Mining Ship Meagre Guardian[/LOCATION] está bajo ataque de Courageous Reckoning (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Kaamas 2, en el sistema Kaamas!</Text>
+    <StarDateDescription>2772.04.14</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Small Freighter Frugal Encounter[/LOCATION] está bajo ataque de Kaamas Horizon (Fragata) de [FACTION]Mortalen Skyjackers[/FACTION] en Yaven 4, en el sistema Yaven!</Text>
+    <StarDateDescription>2772.04.16</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de nave de construcción completado</Title>
+    <Text>El reequipamiento de una nave de construcción se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2772.04.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Kaamas 7 Mining Station[/LOCATION] está bajo ataque de Looming Guardian (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Kaamas 7, en el sistema Kaamas!</Text>
+    <StarDateDescription>2772.05.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Military</Type>
+    <Title>¡Base asaltada!</Title>
+    <Text>¡La facción [FACTION]Mortalen Skyjackers[/FACTION] ha asaltado nuestra base [LOCATION]Yaven 4 Mining Station[/LOCATION]! En la incursión ha saqueado lo siguiente: 4,227 credits</Text>
+    <StarDateDescription>2772.06.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Military</Type>
+    <Title>¡Base asaltada!</Title>
+    <Text>¡La facción [FACTION]Mortalen Skyjackers[/FACTION] ha asaltado nuestra base [LOCATION]Kaamas 7 Mining Station[/LOCATION]! En la incursión ha saqueado lo siguiente: 4,465 credits</Text>
+    <StarDateDescription>2772.07.08</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2772.08.04</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2772.08.04</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Objetos desconocidos detectados en Brintaal 2</Title>
+    <Text>Nuestra exploración ha detectado objetos desconocidos en [LOCATION]Brintaal 2[/LOCATION], en el sistema Brintaal.
+
+Debemos explorar con niveles más altos para revelar estos objetos.</Text>
+    <StarDateDescription>2772.09.18</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2772.09.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2772.09.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2772.10.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nuevo carguero pequeño completado</Title>
+    <Text>La construcción de un nuevo carguero pequeño se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2772.11.09</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Exploration Ship Blind Princess[/LOCATION] está bajo ataque de Kaamas Horizon (Fragata) de [FACTION]Mortalen Skyjackers[/FACTION] en Sefokhe 2, en el sistema Sefokhe!</Text>
+    <StarDateDescription>2772.11.12</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Descubrimiento en Javen 1</Title>
+    <Text>Hemos descubierto nuevos recursos en [LOCATION]Javen 1[/LOCATION], en el sistema Javen.
+
+El Grano de Korduva se cultiva en mundos de praderas. Crece en tallos de tres o cuatro metros de altura, cada uno de los cuales puede producir millones de espigas y cosechas colosales. Este grano de color beige es apreciado por su alto valor nutritivo y su agradable sabor.
+El Grano de Korduva proporciona las siguientes bonificaciones: [BONUS]+3 % al desarrollo de la colonia, +2 % al crecimiento de la población[/BONUS]</Text>
+    <StarDateDescription>2772.11.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Descubrimiento en Javen 1</Title>
+    <Text>Hemos descubierto nuevos recursos en [LOCATION]Javen 1[/LOCATION], en el sistema Javen.
+
+Vino de Muurio: Las plantas Muurion son brotes altos, semejantes al bambú, que pueden alcanzar 15 metros de altura. Crecen en las vastas llanuras de los mundos de praderas y producen numerosas flores pequeñas y fragantes. Los pétalos amarillos de estas flores se utilizan para elaborar el Vino de Muurio.
+El Vino de Muurio proporciona las siguientes bonificaciones: [BONUS]+4 % al desarrollo de la colonia, +1 % a la felicidad de la colonia[/BONUS]</Text>
+    <StarDateDescription>2772.11.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Research</Type>
+    <Title>Investigación completada: Rail Gun Weaponry</Title>
+    <Text>Hemos completado la investigación de [RESEARCH]Rail Gun Weaponry[/RESEARCH].
+
+Este proyecto proporciona los siguientes avances:
+[RESEARCH]Rail Gun [Ftr]
+Rail Gun [S]
+Rail Gun [M][/RESEARCH]</Text>
+    <StarDateDescription>2772.12.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Yaven 2[/LOCATION].</Text>
+    <StarDateDescription>2772.12.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Yaven 1[/LOCATION].</Text>
+    <StarDateDescription>2772.12.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Yaven 5[/LOCATION].</Text>
+    <StarDateDescription>2772.12.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Yaven Asteroid Field[/LOCATION].</Text>
+    <StarDateDescription>2772.12.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Yaven 3[/LOCATION].</Text>
+    <StarDateDescription>2772.12.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Yaven Asteroid Field[/LOCATION].</Text>
+    <StarDateDescription>2772.12.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Nibu 1[/LOCATION].</Text>
+    <StarDateDescription>2772.12.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Kaamas 1[/LOCATION].</Text>
+    <StarDateDescription>2772.12.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Yaven 2[/LOCATION].</Text>
+    <StarDateDescription>2772.12.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Yaven 6[/LOCATION].</Text>
+    <StarDateDescription>2772.12.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Yaven Asteroid Field[/LOCATION].</Text>
+    <StarDateDescription>2772.12.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Yaven 2[/LOCATION].</Text>
+    <StarDateDescription>2772.12.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Yaven 2[/LOCATION].</Text>
+    <StarDateDescription>2772.12.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Yaven Asteroid Field[/LOCATION].</Text>
+    <StarDateDescription>2772.12.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Mining Ship Wanderer of Yaven[/LOCATION] está bajo ataque de Growling Star (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Sefokhe 4, en el sistema Sefokhe!</Text>
+    <StarDateDescription>2772.12.13</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Kaamas 7[/LOCATION].</Text>
+    <StarDateDescription>2772.12.14</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de puerto espacial pequeño completado</Title>
+    <Text>El reequipamiento de un puerto espacial pequeño se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2772.12.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Yaven 4[/LOCATION].</Text>
+    <StarDateDescription>2772.12.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Yosul 2[/LOCATION].</Text>
+    <StarDateDescription>2773.01.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Objetos desconocidos detectados en Glizareiga</Title>
+    <Text>Nuestra exploración ha detectado objetos desconocidos en [LOCATION]Glizareiga[/LOCATION], en el sistema Talos.
+
+Debemos explorar con niveles más altos para revelar estos objetos.</Text>
+    <StarDateDescription>2773.02.04</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nueva nave minera completada</Title>
+    <Text>La construcción de una nueva nave minera se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2773.03.04</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Objetos desconocidos detectados en Vinaare 5</Title>
+    <Text>Nuestra exploración ha detectado objetos desconocidos en [LOCATION]Vinaare 5[/LOCATION], en el sistema Vinaare.
+
+Debemos explorar con niveles más altos para revelar estos objetos.</Text>
+    <StarDateDescription>2773.04.14</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Nibu 1 Mining Station[/LOCATION] está bajo ataque de Dreadful Destiny (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Nibu 1, en el sistema Nibu!</Text>
+    <StarDateDescription>2773.09.03</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2773.11.07</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Objetos desconocidos detectados en Lundure 4</Title>
+    <Text>Nuestra exploración ha detectado objetos desconocidos en [LOCATION]Lundure 4[/LOCATION], en el sistema Lundure.
+
+Debemos explorar con niveles más altos para revelar estos objetos.</Text>
+    <StarDateDescription>2773.11.25</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Descubrimiento en Lundure 4</Title>
+    <Text>Hemos descubierto objetos ocultos en [LOCATION]Lundure 4[/LOCATION], en el sistema Lundure.
+
+Bonuses: [BONUS]+6% Weapons Research from Unstable Plasma Discharges[/BONUS]</Text>
+    <StarDateDescription>2773.11.25</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2773.12.12</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Objetos desconocidos detectados en Brintaal 3</Title>
+    <Text>Nuestra exploración ha detectado objetos desconocidos en [LOCATION]Brintaal 3[/LOCATION], en el sistema Brintaal.
+
+Debemos explorar con niveles más altos para revelar estos objetos.</Text>
+    <StarDateDescription>2774.01.26</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Yosul 1[/LOCATION].</Text>
+    <StarDateDescription>2774.02.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2774.02.27</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Exploration Ship Blind Princess[/LOCATION] está bajo ataque de Dreadful Destiny (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Sefokhe 1, en el sistema Sefokhe!</Text>
+    <StarDateDescription>2774.03.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Objetos desconocidos detectados en Unoasu</Title>
+    <Text>Nuestra exploración ha detectado objetos desconocidos en [LOCATION]Unoasu[/LOCATION], en el sistema Yaven.
+
+Debemos explorar con niveles más altos para revelar estos objetos.</Text>
+    <StarDateDescription>2774.04.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Villaceya 3[/LOCATION].</Text>
+    <StarDateDescription>2774.04.08</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Escort Red Rage[/LOCATION] está bajo ataque de Dreadful Destiny (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Sefokhe 5, en el sistema Sefokhe!</Text>
+    <StarDateDescription>2774.04.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Nibu 1 Mining Station[/LOCATION] está bajo ataque de Judgment of Kaamas (Destructor) de [FACTION]Mortalen Skyjackers[/FACTION] en Nibu 1, en el sistema Nibu!</Text>
+    <StarDateDescription>2774.05.27</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Military</Type>
+    <Title>¡Captura de Red Rage!</Title>
+    <Text>¡Nuestra escolta [LOCATION]'Red Rage'[/LOCATION] ha sido abordada y capturada por los [FACTION]Mortalen Skyjackers[/FACTION]!</Text>
+    <StarDateDescription>2774.06.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Military</Type>
+    <Title>¡Base asaltada!</Title>
+    <Text>¡La facción [FACTION]Mortalen Skyjackers[/FACTION] ha asaltado nuestra base [LOCATION]Nibu 1 Mining Station[/LOCATION]! En la incursión ha saqueado lo siguiente: 4,417 credits</Text>
+    <StarDateDescription>2774.07.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Objetos desconocidos detectados en Villaceya 3</Title>
+    <Text>Nuestra exploración ha detectado objetos desconocidos en [LOCATION]Villaceya 3[/LOCATION], en el sistema Villaceya.
+
+Debemos explorar con niveles más altos para revelar estos objetos.</Text>
+    <StarDateDescription>2774.10.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Objetos desconocidos detectados en Kaamas 1</Title>
+    <Text>Nuestra exploración ha detectado objetos desconocidos en [LOCATION]Kaamas 1[/LOCATION], en el sistema Kaamas.
+
+Debemos explorar con niveles más altos para revelar estos objetos.</Text>
+    <StarDateDescription>2774.10.14</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Escort Bleak Chariot[/LOCATION] está bajo ataque de Dreadful Destiny (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Praxles 2, en el sistema Praxles!</Text>
+    <StarDateDescription>2774.10.18</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Military</Type>
+    <Title>¡Base asaltada!</Title>
+    <Text>¡La facción [FACTION]Mortalen Skyjackers[/FACTION] ha asaltado nuestra base [LOCATION]Elteemifu Mining Station[/LOCATION]! En la incursión ha saqueado lo siguiente: 66 Emeros Crystal</Text>
+    <StarDateDescription>2774.12.13</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Exploration Ship Feeble Pride[/LOCATION] está bajo ataque de Judgment of Kaamas (Destructor) de [FACTION]Mortalen Skyjackers[/FACTION] en Sefokhe 3, en el sistema Sefokhe!</Text>
+    <StarDateDescription>2774.12.16</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Descubrimiento en Gheunin</Title>
+    <Text>Hemos descubierto nuevos recursos en [LOCATION]Gheunin[/LOCATION], en el sistema Javen.
+
+El Granito Tebrakiano solo se encuentra en mundos volcánicos. Se forma cuando el magma se mezcla con basalto y es empujado hacia las profundidades. Al enfriarse, produce cristales de resplandor rojo. Este granito muy duro combina tonos rojos, blancos, grises y negros, y se utiliza para decorar y construir edificios.
+El Granito Tebrakiano proporciona las siguientes bonificaciones: [BONUS]+5 % al desarrollo de la colonia, +1 % a los ingresos de la colonia[/BONUS]</Text>
+    <StarDateDescription>2775.01.07</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Exploration Ship Broken Twilight[/LOCATION] está bajo ataque de Kaamas Firelance (Fragata) de [FACTION]Mortalen Skyjackers[/FACTION] en Kaamas 4, en el sistema Kaamas!</Text>
+    <StarDateDescription>2775.03.14</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Objetos desconocidos detectados en Unoasu</Title>
+    <Text>Nuestra exploración ha detectado objetos desconocidos en [LOCATION]Unoasu[/LOCATION], en el sistema Yaven.
+
+Debemos explorar con niveles más altos para revelar estos objetos.</Text>
+    <StarDateDescription>2775.03.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Small Freighter Aimless Agent[/LOCATION] está bajo ataque de Judgment of Kaamas (Destructor) de [FACTION]Mortalen Skyjackers[/FACTION] en Yaven 4, en el sistema Yaven!</Text>
+    <StarDateDescription>2775.04.06</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Exploration Ship Blind Princess[/LOCATION] está bajo ataque de Bastion of Kaamas (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Sefokhe 2, en el sistema Sefokhe!</Text>
+    <StarDateDescription>2775.04.28</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Kaamas 1 Mining Station[/LOCATION] está bajo ataque de Invincible Revenge (Fragata) de [FACTION]Mortalen Skyjackers[/FACTION] en Kaamas 1, en el sistema Kaamas!</Text>
+    <StarDateDescription>2775.05.07</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Tesoro recuperado</Title>
+    <Text>Mientras recuperábamos una sección de casco en el sistema Nibu, hemos realizado el siguiente descubrimiento:
+
+Hemos encontrado [DISCOVERY]un valioso tesoro por valor de 6.200 créditos[/DISCOVERY].</Text>
+    <StarDateDescription>2775.05.09</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Tesoro recuperado</Title>
+    <Text>Mientras recuperábamos una sección de casco en el sistema Nibu, hemos realizado el siguiente descubrimiento:
+
+Hemos encontrado [DISCOVERY]un valioso tesoro por valor de 4.200 créditos[/DISCOVERY].</Text>
+    <StarDateDescription>2775.05.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Mining Ship Yaven Evasion[/LOCATION] está bajo ataque de Kaamas Firelance (Fragata) de [FACTION]Mortalen Skyjackers[/FACTION] en Kaamas 6, en el sistema Kaamas!</Text>
+    <StarDateDescription>2775.05.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Small Freighter Merry Peril[/LOCATION] está bajo ataque de Growling Star (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Yaven 5, en el sistema Yaven!</Text>
+    <StarDateDescription>2775.07.01</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nueva nave minera completada</Title>
+    <Text>La construcción de una nueva nave minera se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2775.07.05</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Small Freighter Yaven Illusion[/LOCATION] está bajo ataque de Kaamas Sentry (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Yaven 4, en el sistema Yaven!</Text>
+    <StarDateDescription>2775.08.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Descubrimiento en Asceicil</Title>
+    <Text>Hemos descubierto nuevos recursos en [LOCATION]Asceicil[/LOCATION], en el sistema Javen.
+
+El Viconio es un alcohol increíblemente dulce elaborado a partir de la rara planta Viconius, una suculenta semejante a un cactus. Sus hojas gruesas y esponjosas contienen el valioso jugo de Viconio. La planta solo se encuentra en mundos de sabana desértica.
+El Viconio proporciona las siguientes bonificaciones: [BONUS]+4 % al desarrollo de la colonia, +2 % a la felicidad de la colonia[/BONUS]</Text>
+    <StarDateDescription>2775.08.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Objetos desconocidos detectados en Villaceya 3</Title>
+    <Text>Nuestra exploración ha detectado objetos desconocidos en [LOCATION]Villaceya 3[/LOCATION], en el sistema Villaceya.
+
+Debemos explorar con niveles más altos para revelar estos objetos.</Text>
+    <StarDateDescription>2775.09.02</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Research</Type>
+    <Title>Investigación completada: Basic Point Defense</Title>
+    <Text>Hemos completado la investigación de [RESEARCH]Basic Point Defense[/RESEARCH].
+
+Este proyecto proporciona los siguientes avances:
+[RESEARCH]Point Defense Cannon [PD][/RESEARCH]</Text>
+    <StarDateDescription>2775.09.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Exploration Ship Blind Princess[/LOCATION] está bajo ataque de Judgment of Kaamas (Destructor) de [FACTION]Mortalen Skyjackers[/FACTION] en Sefokhe, en el sistema Sefokhe!</Text>
+    <StarDateDescription>2775.11.02</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Estación minera abordada</Title>
+    <Text>[LOCATION]Kaamas 1 Mining Station[/LOCATION] está siendo abordada por [FACTION]Mortalen Skyjackers[/FACTION] en Kaamas 1, en el sistema Kaamas!</Text>
+    <StarDateDescription>2775.12.04</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Nibu 1[/LOCATION].</Text>
+    <StarDateDescription>2775.12.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Yaven 6[/LOCATION].</Text>
+    <StarDateDescription>2775.12.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Yaven Asteroid Field[/LOCATION].</Text>
+    <StarDateDescription>2775.12.20</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Yaven 1[/LOCATION].</Text>
+    <StarDateDescription>2775.12.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Yaven 5[/LOCATION].</Text>
+    <StarDateDescription>2775.12.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Yaven 3[/LOCATION].</Text>
+    <StarDateDescription>2775.12.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Gran Cámara de Yaven</Title>
+    <Text>Hemos descubierto la [DISCOVERY]Gran Cámara de Yaven[/DISCOVERY], unas ruinas antiguas de una civilización perdida, en la luna volcánica [LOCATION]Unoasu[/LOCATION] del sistema Yaven.
+
+Nuestra inspección orbital revela que las ruinas datan de una era extremadamente remota.
+
+¿Deberíamos investigar las ruinas?</Text>
+    <StarDateDescription>2775.12.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Flota de refugiados</Title>
+    <Text>En la Gran Cámara de Yaven hemos realizado un curioso descubrimiento:
+
+Nuestra expedición encontró una potente baliza localizadora. Sus integrantes [DISCOVERY]activaron la baliza[/DISCOVERY] y su señal ha sido captada por una [DISCOVERY]flota de 11 naves[/DISCOVERY] que acaba de entrar mediante un hipersalto en el sistema Yaven.
+
+Un mensaje de la flota explica: «¡Saludos! Somos refugiados Sluken de una galaxia lejana. Una cruel raza alienígena nos expulsó de nuestro hogar y nos persiguió en una guerra brutal. Buscamos refugio junto a vosotros y deseamos unirnos a vuestro imperio. A cambio, os ofrecemos nuestra flota de naves».
+
+Su flota consta de varias naves colonizadoras y una pequeña escolta de naves militares. Las naves parecen bastante avanzadas.
+
+Si queremos incorporar a estos refugiados a nuestro imperio y reclamar sus naves, debemos acercarnos a su flota en Unoasu.
+
+Estas ruinas proporcionan las siguientes bonificaciones a la colonia: [BONUS]+17 % al desarrollo de la colonia, +13 % a la investigación de tropas, +16 % al paisaje[/BONUS]
+
+Podemos obtener bonificaciones de investigación construyendo aquí una estación de investigación.
+
+Podemos obtener bonificaciones al paisaje construyendo aquí una base turística.
+
+Para obtener las demás bonificaciones, debemos colonizar este planeta.</Text>
+    <StarDateDescription>2775.12.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Yaven Asteroid Field[/LOCATION].</Text>
+    <StarDateDescription>2775.12.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Yaven Asteroid Field[/LOCATION].</Text>
+    <StarDateDescription>2775.12.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Yaven 2[/LOCATION].</Text>
+    <StarDateDescription>2775.12.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Yaven 2[/LOCATION].</Text>
+    <StarDateDescription>2775.12.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Yaven Asteroid Field[/LOCATION].</Text>
+    <StarDateDescription>2775.12.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Yaven 2[/LOCATION].</Text>
+    <StarDateDescription>2775.12.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Yaven 2[/LOCATION].</Text>
+    <StarDateDescription>2775.12.21</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Kaamas 7[/LOCATION].</Text>
+    <StarDateDescription>2775.12.24</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de puerto espacial pequeño completado</Title>
+    <Text>El reequipamiento de un puerto espacial pequeño se ha completado en [LOCATION]Degohirt[/LOCATION].</Text>
+    <StarDateDescription>2775.12.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Praxles 2[/LOCATION].</Text>
+    <StarDateDescription>2776.01.04</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Kaamas 7 Mining Station[/LOCATION] está bajo ataque de Kaamas Firelance (Fragata) de [FACTION]Mortalen Skyjackers[/FACTION] en Kaamas 7, en el sistema Kaamas!</Text>
+    <StarDateDescription>2776.01.16</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Nibu 1 Mining Station[/LOCATION] está bajo ataque de Invincible Revenge (Fragata) de [FACTION]Mortalen Skyjackers[/FACTION] en Nibu 1, en el sistema Nibu!</Text>
+    <StarDateDescription>2776.01.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Kaamas 1[/LOCATION].</Text>
+    <StarDateDescription>2776.01.27</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Yosul 2[/LOCATION].</Text>
+    <StarDateDescription>2776.01.30</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nueva nave minera completada</Title>
+    <Text>La construcción de una nueva nave minera se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2776.02.09</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Small Freighter Noble Bluff[/LOCATION] está bajo ataque de Dreadful Destiny (Escolta) de [FACTION]Mortalen Skyjackers[/FACTION] en Yaven 5, en el sistema Yaven!</Text>
+    <StarDateDescription>2776.02.15</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2776.03.13</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de escolta completado</Title>
+    <Text>El reequipamiento de una escolta se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2776.03.16</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitCivilian</Type>
+    <Title>Reequipamiento de estación minera completado</Title>
+    <Text>El reequipamiento de una estación minera se ha completado en [LOCATION]Yaven 4[/LOCATION].</Text>
+    <StarDateDescription>2776.03.19</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Military</Type>
+    <Title>¡Base asaltada!</Title>
+    <Text>¡La facción [FACTION]Mortalen Skyjackers[/FACTION] ha asaltado nuestra base [LOCATION]Nibu 1 Mining Station[/LOCATION]! En la incursión ha saqueado lo siguiente: 6,136 credits</Text>
+    <StarDateDescription>2776.03.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>ConstructionCivilian</Type>
+    <Title>Nueva nave minera completada</Title>
+    <Text>La construcción de una nueva nave minera se ha completado en [LOCATION]Degohirt Spaceport[/LOCATION].</Text>
+    <StarDateDescription>2776.03.25</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Descubrimiento en Kaamas 1</Title>
+    <Text>Hemos descubierto nuevos recursos en [LOCATION]Kaamas 1[/LOCATION], en el sistema Kaamas.
+
+La Nuez de Megalos es el fruto amarillo y ácido del árbol Megalos. Estos árboles, de aspecto nudoso y retorcido, crecen muy despacio y suelen tardar 2000 años en alcanzar una altura adulta de cinco metros. Sus enormes raíces pueden extenderse hasta 30 metros en todas direcciones. Crecen en los bosques densos de los mundos continentales.
+La Nuez de Megalos proporciona las siguientes bonificaciones: [BONUS]+3 % al desarrollo de la colonia, +1 % al crecimiento de la población[/BONUS]</Text>
+    <StarDateDescription>2776.03.29</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Military</Type>
+    <Title>¡Base asaltada!</Title>
+    <Text>¡La facción [FACTION]Mortalen Skyjackers[/FACTION] ha asaltado nuestra base [LOCATION]Kaamas 7 Mining Station[/LOCATION]! En la incursión ha saqueado lo siguiente: 168 Attarion Fur, 18 Vodkol, 52 Hexodorium</Text>
+    <StarDateDescription>2776.04.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>RetrofitState</Type>
+    <Title>Reequipamiento de estación de investigación completado</Title>
+    <Text>El reequipamiento de una estación de investigación se ha completado en [LOCATION]Ussil Asteroid Field[/LOCATION].</Text>
+    <StarDateDescription>2776.04.22</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Small Freighter Hasty Miracle[/LOCATION] está bajo ataque de Kaamas Firelance (Fragata) de [FACTION]Mortalen Skyjackers[/FACTION] en Kaamas 1, en el sistema Kaamas!</Text>
+    <StarDateDescription>2776.04.28</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Exploration Ship Blind Princess[/LOCATION] está bajo ataque de Dreadful Mutiny (Fragata) de [FACTION]Mortalen Skyjackers[/FACTION] en Sefokhe 2, en el sistema Sefokhe!</Text>
+    <StarDateDescription>2776.05.11</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>Exploration</Type>
+    <Title>Descubrimiento en Nobea 2</Title>
+    <Text>Hemos descubierto nuevos recursos en [LOCATION]Nobea 2[/LOCATION], en el sistema Nobea.
+
+El Incienso Acuasiano es un perfume de intenso color azul. Se elabora combinando diversos ingredientes exclusivos de los mundos oceánicos. El principal son las espinas venenosas de las anémonas abisales Dakhul; otro es el brillante coral azul Orkton, triturado hasta obtener un polvo fino.
+El Incienso Acuasiano proporciona las siguientes bonificaciones: [BONUS]+6 % al desarrollo de la colonia, +1 % al crecimiento de la población[/BONUS]</Text>
+    <StarDateDescription>2776.07.16</StarDateDescription>
+  </EmpireMessage>
+  <EmpireMessage>
+    <Type>UnderAttack</Type>
+    <Title>Bajo ataque</Title>
+    <Text>[LOCATION]Elteemifu Mining Station[/LOCATION] está bajo ataque de Dreadful Mutiny (Fragata) de [FACTION]Mortalen Skyjackers[/FACTION] en Praxles 2, en el sistema Praxles!</Text>
+    <StarDateDescription>2776.08.17</StarDateDescription>
+  </EmpireMessage>
+</ArrayOfEmpireMessage>

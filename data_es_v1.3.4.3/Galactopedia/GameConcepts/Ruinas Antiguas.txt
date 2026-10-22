@@ -1,0 +1,14 @@
+Mientras exploras la galaxia puedes descubrir restos de civilizaciones desaparecidas hace mucho tiempo. Merece la pena investigar estas ruinas, pues suelen contener información útil para tu imperio. Si eres el primero en encontrarlas, tu imperio recibirá sus beneficios.
+
+Las ruinas también pueden revelar conocimientos secretos y detalles sobre la historia de la galaxia. Como mínimo, pueden orientarte mientras descubres la verdad sobre el pasado.
+
+[H3]Bonificaciones de las ruinas[/H3]
+Las ruinas antiguas también suelen proporcionar bonificaciones, como las de investigación o paisaje.
+
+Las bonificaciones de investigación se obtienen construyendo una Estación de investigación en el planeta.
+
+Las ruinas a veces poseen bonificaciones de paisaje y atraen turismo a cualquier colonia que las contenga. Si se encuentran en un planeta o luna deshabitado, puedes construir allí una Base Turística para permitir que se visiten.
+
+Para obtener cualquier otro tipo de bonificación debes colonizar el planeta, siempre que tu tecnología actual lo permita.
+
+Por último, recuerda que puedes decidir no investigar todas las ruinas que encuentres. Se rumorea que algunas ocultan cosas que es mejor no perturbar...

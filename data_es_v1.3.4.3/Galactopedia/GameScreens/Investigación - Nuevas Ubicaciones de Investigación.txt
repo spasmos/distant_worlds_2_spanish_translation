@@ -1,0 +1,17 @@
+Esta pantalla muestra las ubicaciones exploradas que poseen bonificaciones especiales de Investigación y donde conviene construir nuevas Estaciones de investigación. Consulta las opciones de ordenación y filtrado en la parte superior. Puedes filtrar por bonificaciones concretas para localizar rápidamente destinos de un área determinada.
+
+Al alejar la vista hasta el nivel de galaxia o sistema, las nuevas ubicaciones de Investigación se resaltan en el mapa. Sitúa el cursor sobre una entrada para señalarla y apreciar fácilmente su posición respecto a las demás.
+
+Haz clic en una entrada para seleccionarla o doble clic para desplazar la vista hasta la ubicación.
+
+Cada entrada muestra las bonificaciones de Investigación de la ubicación. Sitúa el cursor sobre su descripción para consultar el resumen completo y la procedencia de cada una.
+
+[H3]Nuevas Estaciones de investigación en cola[/H3]
+El botón de la derecha permite poner en cola una nueva Estación de investigación en la ubicación. La siguiente Nave de Construcción disponible se encargará de construirla. Vuelve a pulsar el botón para cancelar la orden.
+
+Si no puedes construir en la ubicación, el botón Cola estará desactivado. Su información emergente explicará el motivo.
+
+[H3]Ubicaciones peligrosas[/H3]
+Cuando una ubicación se considera peligrosa aparece un rayo rojo junto a su nombre. Esto ocurre si contiene amenazas que aún no han sido eliminadas, como piratas o criaturas espaciales mortales.
+
+Las naves no militares no viajan a ubicaciones peligrosas. Primero deben eliminar las amenazas mediante naves militares o una flota. Puedes poner la Estación de investigación en cola, pero las Naves de Construcción no acudirán hasta que la zona sea segura.

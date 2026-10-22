@@ -1,0 +1,47 @@
+﻿Las nebulosas son un elemento fundamental de la galaxia. Vastas nubes de gas y polvo se extienden por toda su inmensidad.
+
+[H3]Efecto sobre el viaje hiperespacial[/H3]
+Las nebulosas dificultan el viaje hiperespacial y reducen enormemente la velocidad de salto de las naves que se encuentran en su interior.
+
+Por este motivo, las naves suelen trazar rutas de salto alrededor de las nebulosas en lugar de atravesarlas.
+
+De este modo, las nebulosas forman barreras naturales que dan forma a la galaxia.
+
+[H3]Efecto sobre los escáneres de largo alcance[/H3]
+Las nebulosas dificultan el funcionamiento de los escáneres de largo alcance, cuyo alcance se reduce enormemente en su interior.
+
+Las nebulosas también bloquean el escaneo de objetos situados al otro lado. No podrás ver naves ni bases tras una nube de nebulosa; en otras palabras, no es posible 'escanear a través' de ella.
+
+[H2]Otros efectos de las nebulosas[/H2]
+Todas las nebulosas ralentizan el viaje hiperespacial y dificultan los sensores. Algunas presentan además los siguientes efectos:
+
+[H3]Tormenta Galáctica[/H3]
+Las Tormentas Galácticas son regiones peligrosas de las nebulosas donde se producen descargas periódicas de relámpagos cargados. Pueden infligir los siguientes daños a naves y bases:
+[ULI]Daño estándar: 7 máx. (se mitiga con Armadura reactiva)[/ULI]
+
+[H3]Tormenta de Iones[/H3]
+Las Tormentas de Iones emiten radiación iónica dañina que puede inutilizar componentes de naves o bases desprotegidas. También drenan energía constantemente, lo que obliga a las naves a consumir más potencia del reactor y, por tanto, más combustible.
+[ULI]Daño iónico: 4 máx. (se mitiga con Defensa iónica)[/ULI]
+[ULI]Drenaje de energía: -1/seg[/ULI]
+
+[H3]Tormenta Gravítica[/H3]
+Las Tormentas Gravíticas emiten intensas ráfagas de energía gravítica que pueden dañar o inutilizar naves y bases desprotegidas. También reducen la velocidad sublumínica de cualquier nave que se encuentre en su interior. Producen los siguientes efectos:
+[ULI]Daño iónico: 8 máx. (se mitiga con Defensa iónica)[/ULI]
+[ULI]Daño estándar: 5 máx. (se mitiga con Armadura reactiva)[/ULI]
+[ULI]Modificador de velocidad: -50 %[/ULI]
+
+[H3]Zona de Radiación[/H3]
+Las Zonas de Radiación son áreas de radiación intensa que drenan energía y escudos. También reducen enormemente la eficacia de los sensores.
+[ULI]Drenaje de energía: -15/seg[/ULI]
+[ULI]Sensores inutilizados: -30[/ULI]
+[ULI]Reducción de escudos: -6/seg[/ULI]
+
+[H2]Superposición de nebulosas en el mapa[/H2]
+Puedes ver los límites precisos de las nebulosas activando la superposición Nebulosas del mapa. Esta muestra el contorno de todas las nebulosas conocidas.
+
+Los marcadores adoptan un color según el tipo de nebulosa:
+[ULI]Nebulosa estándar: gris[/ULI]
+[ULI]Tormenta Galáctica: naranja[/ULI]
+[ULI]Tormenta de Iones: púrpura[/ULI]
+[ULI]Tormenta Gravítica: verde[/ULI]
+[ULI]Zona de Radiación: amarillo[/ULI]

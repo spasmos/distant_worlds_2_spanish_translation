@@ -1,0 +1,6 @@
+Las Bases defensivas son plataformas de armamento pesado destinadas a proteger Colonias importantes. Se construyen en el espacio que rodea la Colonia y proporcionan una potencia de fuego considerable contra las fuerzas atacantes.
+
+[H3]Lista de Bases defensivas[/H3]
+Esta pantalla enumera todas las Bases defensivas de tu Imperio. Consulta las opciones de ordenación y filtrado de la parte superior.
+
+En los niveles de la galaxia y del sistema, las Bases defensivas aparecen resaltadas en el mapa. Pasa el cursor sobre un elemento para señalar su posición, haz clic para seleccionarla o haz doble clic para desplazar la vista hasta allí.

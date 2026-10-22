@@ -1,0 +1,26 @@
+Las Tropas sirven para invadir Colonias enemigas y defender las tuyas frente a invasiones.
+
+Se reclutan en las Colonias y necesitan tiempo para estar operativas. Las Colonias grandes pueden entrenarlas y recuperarlas con mayor rapidez que las pequeñas.
+
+La Investigación permite desbloquear unidades nuevas. Las de nivel superior solo pueden reclutarse en Colonias que hayan construido la Instalación planetaria requerida.
+
+Puedes guarnecer Tropas en una Colonia para destinarlas permanentemente a su defensa. Las naves de Transporte de tropas no recogerán unidades guarnecidas.
+
+Cada unidad exige un pago único al reclutarla y genera además un coste anual de mantenimiento.
+
+Las Tropas también tienen un tamaño: algunas son pequeñas, como la Infantería, y otras mayores, como las unidades Blindadas o de Defensa planetaria. Este tamaño determina cuánto espacio ocupan en las naves de Transporte de tropas y las Flotas de Invasión.
+
+[H3]Tipos de unidades de Tropa[/H3]
+Existen cinco tipos de unidad:
+[ULI]Infantería: la unidad defensiva básica, disponible desde el comienzo de la partida. Cada especie posee una unidad de Infantería propia con distintas fortalezas y debilidades.[/ULI]
+[ULI]Blindada: la principal unidad de ataque. Requiere un «Cuartel De Tropas Blindadas» para reclutarla.[/ULI]
+[ULI]Defensa planetaria: unidad defensiva especializada capaz de interceptar Tropas enemigas mientras viajan desde sus naves de desembarco hasta la superficie. Requiere un «Centro De Defensa Planetaria» para reclutarla.[/ULI]
+[ULI]Fuerzas especiales: Infantería de élite especializada en eliminar las defensas de una Colonia durante una invasión, incluidas Instalaciones terrestres, unidades de Defensa planetaria y Generales enemigos. Al defender, se concentra en las Fuerzas especiales invasoras. Requiere un «Cuartel De Operaciones Especiales» para reclutarla.[/ULI]
+[ULI]Titanes: unidades de ataque avanzadas y extremadamente poderosas. Requieren un «Centro De Fabricación De Titanes» para reclutarlas.[/ULI]
+
+[H3]Lista de Tropas[/H3]
+Esta pantalla enumera todas las unidades de Tropa de tu Imperio. Consulta las numerosas opciones de ordenación y filtrado de la parte superior. Puedes ordenar por fuerza de ataque, fuerza defensiva, coste de mantenimiento o ubicación, y filtrar por tipo de Tropa, estado de guarnición o ubicación, ya sea una Colonia o un transporte.
+
+En los niveles de la galaxia y del sistema, las Tropas aparecen resaltadas en el mapa. Pasa el cursor sobre un elemento para señalar su posición, haz clic para seleccionarlo o haz doble clic para desplazar la vista hasta allí.
+
+Cada elemento muestra la fuerza de ataque, la fuerza defensiva y el coste de mantenimiento de la unidad. Pasa el cursor sobre él para consultar un resumen detallado en el panel de la derecha. Una línea azul bajo la imagen identifica a las Tropas guarnecidas.

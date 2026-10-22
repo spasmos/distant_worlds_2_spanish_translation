@@ -1,0 +1,26 @@
+Los recursos son las materias primas presentes en planetas, lunas y asteroides. Pueden ser menas metálicas, gases, minerales, tejidos, alimentos, bebidas y muchos otros productos.
+
+La extracción de recursos valiosos constituye una parte importante de la economía de tu imperio.
+
+Algunos recursos se utilizan para construir naves y bases nuevas. Otros, los recursos de lujo, aumentan el desarrollo de tus colonias. Por último, el caslon sirve como combustible universal para reactores.
+
+[H3]Ubicaciones de minado[/H3]
+La minería se lleva a cabo tanto en estaciones mineras fijas como en naves mineras móviles.
+
+Las estaciones mineras son bases construidas en ubicaciones ricas en recursos. Extraen esos recursos y los cargueros los transportan después al puerto espacial más cercano.
+
+Las naves mineras son unidades móviles de extracción. Buscan ubicaciones con recursos muy demandados, los extraen y los llevan al puerto espacial más cercano.
+
+[H3]Uso de los recursos extraídos[/H3]
+Los recursos extraídos pueden utilizarse cuando llegan a un puerto espacial. Los recursos de construcción sirven para fabricar naves o bases nuevas, aunque también pueden venderse a otro imperio.
+
+El uso y el comercio de recursos se realizan automáticamente: las estaciones mineras, las naves mineras y los cargueros pertenecen al sector privado. Operan sin intervención estatal y no puedes asignar misiones a estos tipos de nave.
+
+[H3]Cómo explotar los recursos[/H3]
+Como gobernante y administrador de tu imperio, tus tareas relacionadas con la extracción de recursos son:
+[ULI]Explorar nuevas ubicaciones de recursos con naves exploradoras.[/ULI]
+[ULI]Construir estaciones mineras con naves de construcción en ubicaciones ricas en recursos.[/ULI]
+
+La lista Nuevas ubicaciones de minado (Mayús+F7) permite identificar rápidamente recursos valiosos y construir estaciones mineras para obtenerlos. La lista Recursos (F6) contiene filtros detallados para localizar recursos concretos por toda la galaxia.
+
+La superposición de mapa Flujo de recursos permite ver los orígenes y destinos de los recursos de tu imperio.

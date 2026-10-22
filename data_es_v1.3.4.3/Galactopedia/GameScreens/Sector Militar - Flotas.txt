@@ -1,0 +1,32 @@
+Las Flotas son grupos de Naves militares que actúan juntas para cumplir misiones.
+
+Cada Flota tiene una base que constituye su centro de operaciones y un Rango de acción que delimita, desde esa base, el área donde se enfrentará a objetivos enemigos.
+
+[H3]Lista de Flotas[/H3]
+Esta pantalla enumera todas las Flotas de tu Imperio. Consulta las opciones de ordenación y filtrado de la parte superior.
+
+En los niveles de la galaxia y del sistema, las Flotas aparecen resaltadas en el mapa. Pasa el cursor sobre un elemento para señalar su posición, haz clic para seleccionarlo o haz doble clic para desplazar la vista hasta allí.
+
+Cada elemento muestra la misión actual, el número de naves, la fuerza de combate de la Flota y la fuerza de ataque de sus Tropas. El icono del cometido de la Flota aparece en el extremo derecho. Sus Personajes se muestran también a la derecha, junto a la descripción de la misión.
+
+Pasa el cursor sobre un elemento para mostrar en el panel de la derecha un resumen detallado. Este desglosa todas las naves por cometido, nivel de daños y combustible, e incluye información sobre los Almirantes y Generales de la Flota.
+
+[H3]Plantillas y cometidos de Flota[/H3]
+Como se explicó anteriormente, cada Flota se basa en una plantilla. Puede desempeñar un cometido concreto, como «Atacar», «Incursión», «Defender» o «Invadir», y elegirá misiones adecuadas para él.
+
+También puedes controlarla personalmente estableciendo su cometido en «Manual» mediante el botón correspondiente bajo el panel de selección. Asignarle una misión de forma directa también la convierte automáticamente en una Flota manual.
+
+[H3]Crear Flotas nuevas[/H3]
+Puedes crear una Flota de varias formas:
+[ULI]selecciona varias naves en la vista principal arrastrando con el botón izquierdo pulsado o haciendo clic en cada una mientras mantienes Ctrl; después, pulsa «Crear nueva flota» bajo el panel de selección[/ULI]
+[ULI]selecciona varias naves en la lista Naves militares mediante Ctrl-clic o Mayús-clic; después, pulsa «Crear nueva flota» bajo el panel de selección[/ULI]
+[ULI]selecciona una plantilla en la pantalla Plantillas de flota y pulsa «Formar nueva flota» o «Construir nueva flota» a la derecha[/ULI]
+
+También puedes añadir una nave a una Flota existente: selecciónala y pulsa «Unir a la flota» bajo el panel de selección. Aparecerán todas las Flotas disponibles; haz clic en aquella a la que quieras incorporarla.
+
+[H3]Opciones tácticas[/H3]
+Las Flotas disponen de numerosas opciones tácticas para ajustar su comportamiento. Selecciona la Flota y haz clic en «Establecer tácticas», en el extremo derecho bajo el panel de selección, para abrir la pantalla Opciones tácticas.
+
+El Rango de acción determina cómo responde la Flota a las amenazas. Pasa el cursor sobre cada opción de esa pantalla para obtener más información.
+
+Cada nave de una Flota conserva además sus propias opciones tácticas. Puedes ajustar la interacción entre ambas en la sección «Tácticas de flota - Reemplazo táctico».

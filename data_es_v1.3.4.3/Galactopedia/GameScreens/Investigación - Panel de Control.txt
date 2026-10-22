@@ -1,0 +1,28 @@
+A la derecha de la pantalla se encuentra el panel de control de investigación, que reúne varias funciones para recorrer el árbol tecnológico.
+
+[H3]Salir de Investigación[/H3]
+El botón «Salir de Investigación», situado en la parte superior, cierra la pantalla Investigación y vuelve al juego.
+
+[H3]Máximo de proyectos simultáneos[/H3]
+Debajo aparece el número máximo de proyectos que puedes investigar a la vez. Pasa el cursor sobre su explicación para obtener más información.
+
+[H3]Acercar o alejar[/H3]
+A la derecha están los botones «Acercar Vista» y «Alejar Vista», que permiten mostrar más o menos proyectos disponibles.
+
+[H3]Botones de salto[/H3]
+Los botones de salto desplazan inmediatamente la vista a la primera fila de proyectos de la categoría elegida.
+
+Por ejemplo, el botón «Tecnología de hipersalto» muestra los proyectos de hipermotores en la parte superior de la pantalla.
+
+[H3]Filtrar proyectos[/H3]
+La lista desplegable inferior permite filtrar los proyectos visibles para centrarte en una sola categoría. Como esto oculta los demás, recuerda volver a «Todos los proyectos» cuando termines.
+
+[H3]Siguiente proyecto sugerido[/H3]
+El botón «Poner en cola proyecto sugerido» muestra el siguiente proyecto que recomiendan tus asesores de investigación. Haz clic para añadirlo a la cola.
+
+Pasa el cursor sobre el botón para consultar un resumen. El proyecto también quedará señalado en la vista; puede que tengas que alejarla para localizarlo.
+
+[H3]Cola de investigación[/H3]
+La cola reúne todos los proyectos pendientes. Los primeros avanzan de forma activa, hasta el máximo de proyectos simultáneos, mientras que los siguientes esperan a que se complete alguno de ellos.
+
+Haz clic con el botón derecho en un proyecto para retirarlo de la cola. También puedes desplazarlo hacia arriba o abajo mediante las flechas de la derecha.

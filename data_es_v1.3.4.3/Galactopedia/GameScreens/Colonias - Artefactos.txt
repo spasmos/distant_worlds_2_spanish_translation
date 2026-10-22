@@ -1,0 +1,7 @@
+Esta pantalla enumera todos los Artefactos que posee tu imperio.
+
+Los Artefactos son objetos que puedes obtener mediante la exploración. Normalmente proporcionan bonificaciones a tu imperio o a su ubicación, aunque algunos deben encontrarse en una Colonia o en tu capital para que se apliquen sus beneficios.
+
+Al alejar la vista hasta el nivel de galaxia o sistema, las ubicaciones de los Artefactos se resaltan en el mapa. Sitúa el cursor sobre una entrada para señalar su ubicación, haz clic para seleccionarla o doble clic para desplazar allí la vista.
+
+Al situar el cursor sobre un Artefacto de la lista también aparece a la derecha un panel con su resumen detallado.

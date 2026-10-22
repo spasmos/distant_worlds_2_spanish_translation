@@ -1,0 +1,5 @@
+La pantalla Ajustes de políticas permite decidir qué partes de tu Imperio se automatizan, en cuáles quieres recibir orientación de los asesores y cuáles prefieres controlar por completo.
+
+Haz clic en las barras de encabezado para desplegar o contraer cada sección. Además de los controles generales de automatización, cada área contiene muchos otros ajustes que permiten configurarla con más detalle. Pasa el cursor sobre cada ajuste para obtener una explicación.
+
+La sección superior, «Asistentes y automatización», reúne todos los ajustes de automatización del Imperio en un único lugar. Desde ella puedes decidir qué áreas estarán automatizadas, controladas por los asesores o bajo control manual. También puedes elegir una de las configuraciones predefinidas en la lista desplegable de la parte superior.

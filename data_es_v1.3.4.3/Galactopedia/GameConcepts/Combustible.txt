@@ -1,0 +1,20 @@
+Todas las naves necesitan combustible para desplazarse por la galaxia. Es un recurso esencial para la expansión de tu imperio.
+
+El combustible universal es el caslon, un gas azul claro presente sobre todo en los planetas gigantes gaseosos.
+
+[H3]Cómo se utiliza el combustible[/H3]
+Los reactores consumen combustible para generar energía bruta, que alimenta todos los componentes de una nave o base que la necesitan. Entre ellos se encuentran los motores y los hipermotores que impulsan las naves, además de los escudos al recargarse, las armas, los astilleros y muchos otros componentes.
+
+[H3]Repostaje[/H3]
+Los puntos de repostaje son ubicaciones dispuestas a vender combustible a las naves de tu imperio. Incluyen todos los puertos espaciales, colonias y estaciones de extracción de combustible amistosos, así como las colonias independientes. Al alejar la vista hasta el nivel de la galaxia, un icono circular azul junto al nombre del sistema señala estos puntos.
+
+La autonomía actual de la nave seleccionada se representa mediante un círculo amarillo discontinuo visible al nivel de la galaxia. Permite estimar hasta dónde puede viajar antes de tener que repostar.
+
+El alcance de salto actual de la nave seleccionada se representa mediante un círculo naranja discontinuo visible al nivel de la galaxia. Permite estimar hasta dónde puede llegar en un solo salto antes de salir del hiperespacio e iniciar otro para continuar hacia su destino.
+
+Cuando una nave se queda sin combustible, utiliza automáticamente su reserva de emergencia. Mientras la usa se desplaza a un tercio de su velocidad normal. Esta reserva dura indefinidamente, pero debes repostar la nave para recuperar su velocidad habitual.
+
+[H3]Colectores de energía[/H3]
+Por lo general, las bases pueden cubrir la mayor parte de sus necesidades mediante colectores de energía. Estos componentes aprovechan la radiación de una estrella cercana y reducen el consumo de combustible.
+
+Sin embargo, los colectores de energía solo funcionan mientras permanecen estacionarios, por lo que resultan útiles principalmente en bases inmóviles o cuando una nave está inactiva.

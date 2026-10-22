@@ -1,0 +1,11 @@
+Haz clic con el botón izquierdo y arrastra el ratón para mover la vista por la pantalla Investigación.
+
+La rueda del ratón desplaza rápidamente la vista hacia arriba o hacia abajo.
+
+Puedes acercar o alejar la vista para mostrar más o menos proyectos disponibles de dos formas:
+[ULI]mantén pulsada la tecla Ctrl mientras usas la rueda del ratón[/ULI]
+[ULI]haz clic en los botones «Acercar Vista» o «Alejar Vista» del panel de control de la derecha[/ULI]
+
+También puedes desplazarte en las cuatro direcciones con las teclas de flecha.
+
+Usa Re Pág o Av Pág para mover rápidamente la vista hacia arriba o hacia abajo, respectivamente.

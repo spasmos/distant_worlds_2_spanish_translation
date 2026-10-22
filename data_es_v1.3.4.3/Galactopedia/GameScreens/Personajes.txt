@@ -1,0 +1,18 @@
+Esta lista muestra los personajes de tu imperio. De forma predeterminada, se filtra para mostrar funciones distintas de Espía. Consulta las demás opciones de ordenación y filtrado en la parte superior del panel.
+
+Sitúa el cursor sobre una entrada de la lista para ver los detalles del personaje y haz clic para mantener abierto el panel de la derecha.
+
+Puedes cambiar el nombre de un personaje haciendo clic en el nombre situado bajo su retrato y escribiendo uno nuevo.
+
+
+[H3]Ubicaciones de los personajes[/H3]
+La mayoría de los personajes aplican sus habilidades a su ubicación actual. Por ejemplo, un Almirante aplica sus habilidades militares a la flota a la que pertenece, mientras que los Científicos aplican las suyas a la Estación de investigación donde están destinados.
+
+Tu Líder aplica sus habilidades a todo el imperio y lo mejora de distintas maneras. Por el contrario, sus niveles de habilidad negativos perjudican a todo el imperio en las áreas correspondientes.
+
+Para mover un personaje, selecciona el destino en la lista desplegable de ubicaciones y pulsa el botón 'Transferir'.
+
+Para automatizar por completo la ubicación de un personaje, utiliza el botón 'Automatizar' situado bajo su retrato a la derecha.
+
+[H3]Eventos[/H3]
+En la parte inferior del panel de detalles aparece una lista de todos los eventos en los que ha participado el personaje. Estos pueden mejorar o reducir sus habilidades, o proporcionarle nuevos rasgos.

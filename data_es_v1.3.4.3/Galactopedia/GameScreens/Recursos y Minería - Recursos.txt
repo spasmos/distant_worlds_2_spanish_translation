@@ -1,0 +1,19 @@
+Los recursos son materias primas presentes en planetas, lunas y asteroides. Incluyen minerales metálicos, gases, otros minerales, textiles, alimentos, bebidas y muchos artículos más.
+
+Puedes extraerlos para utilizarlos en tu imperio.
+
+Algunos recursos sirven para construir naves y bases nuevas. Los recursos de lujo aumentan el desarrollo de tus Colonias. El Caslon, por su parte, se utiliza como combustible universal para reactores.
+
+[H3]Lista de recursos[/H3]
+Esta pantalla enumera todos los recursos de la galaxia.
+
+De forma predeterminada, solo muestra los recursos para combustible y construcción que utiliza actualmente tu imperio. La ordenación da prioridad a aquellos con escasez de producción.
+
+Consulta los ajustes de ordenación y filtrado de la parte superior del panel. Otros filtros permiten mostrar los recursos de lujo que mejoran el desarrollo de tus Colonias. Puedes ordenar por tasa de extracción, demanda, número de fuentes o nivel de reservas del imperio.
+
+[H3]Superposición del mapa de Flujo de recursos[/H3]
+Al abrir la lista se activa automáticamente la superposición Flujo de recursos del mapa galáctico. Esta muestra el movimiento entre sistemas y permite visualizar las mercancías que Cargueros y Naves mineras transportan entre las Colonias y bases del imperio.
+
+Haz clic en un recurso para que la superposición muestre únicamente su transporte. También se resaltarán en el mapa galáctico todas sus fuentes conocidas. Vuelve a hacer clic para anular la selección.
+
+Cada elemento de la lista muestra las reservas actuales, la tasa de producción y la cantidad de fuentes conocidas y explotadas del recurso.

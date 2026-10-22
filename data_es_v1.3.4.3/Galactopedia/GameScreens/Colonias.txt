@@ -1,0 +1,40 @@
+Las Colonias son los mundos poblados de tu imperio y proporcionan la mayor parte de su riqueza e ingresos. Mediante los impuestos recaudas una parte de esos ingresos.
+
+Con el tiempo, las Colonias aumentan su población y nivel de desarrollo. Las más grandes y desarrolladas proporcionan mayores ingresos.
+
+Para acelerar su crecimiento debes mantener feliz a la población. También puedes asignar fondos en la pantalla Niveles de financiación de la sección Tu Imperio.
+
+[H3]Lista de Colonias[/H3]
+Esta pantalla enumera todos los mundos colonizados de tu imperio. Consulta las opciones de ordenación y filtrado en la parte superior del panel.
+
+Al alejar la vista hasta el nivel de galaxia o sistema, las ubicaciones de las Colonias se resaltan en el mapa. Sitúa el cursor sobre una entrada para señalar su ubicación, haz clic para seleccionarla o doble clic para desplazar allí la vista.
+
+Cada entrada muestra la población, el índice de aprobación, el nivel de desarrollo y los ingresos fiscales de la Colonia.
+
+Al hacer clic en una Colonia se selecciona y se abre a la derecha el Panel de detalles de la colonia. Un doble clic desplaza la vista hasta ella. También puedes abrir el panel situando el cursor sobre la flecha del extremo derecho de la entrada.
+
+[H3]Panel de detalles de la colonia[/H3]
+El Panel de detalles de la colonia ofrece un resumen completo y un conjunto ampliado de opciones para administrarla.
+
+La sección superior muestra el desarrollo y la economía. Los botones situados debajo permiten cambiar los impuestos y automatizar distintas áreas de la Colonia. También puedes asignar una Plantilla de ejército que determine su guarnición defensiva.
+
+[H3]Población[/H3]
+La sección Población muestra todas las especies presentes en la Colonia. Sitúa el cursor sobre cada una para consultar su índice de reproducción y nivel de asimilación.
+
+Esta sección también muestra el nivel general de aprobación de la Colonia y el desglose de todos los factores que contribuyen a él.
+
+[H3]Tropas y Personajes[/H3]
+La sección Tropas y Personajes muestra todas las unidades de tropas y personajes presentes en la Colonia.
+
+Puedes reclutar nuevas unidades mediante los botones situados debajo. Al seleccionar una tropa también puedes desmantelarla o guarnecerla.
+
+[H3]Instalaciones planetarias[/H3]
+La sección Instalaciones planetarias muestra todas las instalaciones, Maravillas y ruinas de la Colonia.
+
+
+Puedes construir nuevas instalaciones mediante los botones situados debajo. Al seleccionar una instalación también puedes desmantelarla.
+
+[H3]Construcción[/H3]
+La sección Construcción muestra las naves y bases que se están construyendo en la Colonia. Los botones situados debajo permiten iniciar nuevas construcciones.
+
+Haz clic en el botón de cierre de la esquina superior derecha para cerrar el panel.

@@ -1,0 +1,36 @@
+Para conquistar una colonia enemiga debes desembarcar una fuerza de invasión que combata contra sus defensores.
+
+[H3]Fuerzas defensoras[/H3]
+La defensa de una colonia está compuesta por:
+[ULI]Las tropas presentes en la colonia.[/ULI]
+[ULI]Milicias surgidas espontáneamente de la población durante la invasión.[/ULI]
+[ULI]La propia población de la colonia.[/ULI]
+
+Las tropas encabezan la defensa, pero la población también participa y forma milicias para rechazar la invasión.
+
+La propia población aporta además una pequeña cantidad de fuerza defensiva.
+
+Durante una batalla terrestre, ambos bandos pueden recibir bonificaciones o penalizaciones a su fuerza de ataque o defensa según la composición de sus fuerzas, el tipo de planeta y otros factores.
+
+[H3]Estrategia[/H3]
+Para triunfar, los invasores deberían superar ampliamente en número a los defensores. Las batallas prolongadas los debilitan y, aunque venzan, tardarán en recuperar su disposición. La mejor estrategia es arrollar al enemigo con rapidez y una fuerza abrumadora.
+
+Algunas tropas atacan mejor que otras: las unidades blindadas y los titanes poseen la mayor fuerza ofensiva. Desembarcar una fuerza combinada de varios tipos proporciona bonificaciones adicionales.
+
+Intenta desembarcar todas las fuerzas invasoras a la vez o con el menor intervalo posible. Un despliegue fragmentado permite a los defensores eliminarlas por separado y reduce mucho su eficacia.
+
+[H3]Resolver la batalla[/H3]
+La batalla termina cuando las tropas de uno de los dos bandos han sido eliminadas por completo.
+
+Si caen los defensores, el imperio invasor incorpora la colonia y captura de inmediato todas sus bases, incluidos los puertos espaciales.
+
+Si caen los invasores, el defensor conserva la colonia, aunque puede haber perdido tropas y población e incluso el planeta puede haber sufrido daños.
+
+Gane quien gane, los trastornos de la batalla reducen temporalmente el nivel de desarrollo de la colonia.
+
+Las tropas victoriosas, invasoras o defensoras, reciben un ascenso que aumenta su fuerza y eficacia en batallas futuras.
+
+[H3]Supervisar una invasión terrestre[/H3]
+Selecciona la colonia para seguir la invasión en el Panel de selección, situado en la esquina inferior izquierda. Las tropas defensoras aparecen en la sección 'Tropas' y las invasoras se distinguen por un fondo rojo.
+
+También puedes abrir una vista animada detallada en la pantalla Informe terrestre. Selecciona la colonia y haz clic en el área Tropas del Panel de selección.

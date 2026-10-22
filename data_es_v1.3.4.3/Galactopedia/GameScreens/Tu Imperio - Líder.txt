@@ -1,0 +1,14 @@
+Aquí se muestra al Líder de tu Imperio. Es un Personaje muy importante, pues sus habilidades se aplican a todo el Imperio y proporcionan ventajas o penalizaciones en distintas áreas.
+
+Pasa el cursor sobre su entrada en la lista y haz clic para mantener abierto el panel de detalles de la derecha.
+
+Puedes cambiar el nombre del Líder haciendo clic en el que aparece bajo su retrato y escribiendo uno nuevo.
+
+[H3]Ubicación del Líder[/H3]
+El Líder debería encontrarse en la Capital de tu Imperio, pero puedes trasladarlo a otra ubicación mediante la lista desplegable y el botón «Transferir» situado debajo.
+
+[H3]Eventos[/H3]
+En la parte inferior del panel de detalles aparece una lista de todos los eventos en los que ha participado. Algunos pueden mejorar o reducir sus habilidades, o proporcionarle nuevos Rasgos de personaje.
+
+[H3]Destituir al Líder[/H3]
+Si sus habilidades son muy deficientes, puedes destituirlo mediante el botón situado bajo su retrato. Con el tiempo se elegirá un Líder nuevo para sustituirlo.

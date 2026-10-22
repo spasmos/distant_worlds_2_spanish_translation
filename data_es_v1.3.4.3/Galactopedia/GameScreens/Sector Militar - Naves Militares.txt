@@ -1,0 +1,31 @@
+Naves militares
+
+Las Naves militares defienden tu Imperio de los ataques enemigos. También permiten ampliarlo mediante la conquista, atacando Flotas e invadiendo Colonias enemigas, y protegen tus dominios de Piratas y criaturas espaciales peligrosas.
+
+Existen Naves militares de distintos tamaños y cometidos. Conforme avance tu Tecnología, podrás investigar Cascos nuevos con los que diseñar y construir naves mayores.
+
+[H3]Asignar misiones[/H3]
+Para asignar una misión a una Nave militar, selecciónala con el botón izquierdo en la lista o directamente en la vista principal. Después, haz clic con el botón derecho sobre el objetivo para ordenar la misión predeterminada.
+
+Mantén pulsado el botón derecho para mostrar todas las misiones válidas para ese objetivo y elige la que prefieras.
+
+[H3]Lista de Naves militares[/H3]
+Esta pantalla enumera todas las Naves militares de tu Imperio. Consulta las numerosas opciones de ordenación y filtrado de la parte superior. Puedes ordenar por fuerza, tamaño, Flota, cometido o fuerza de ataque de las Tropas, y filtrar por cometido, pertenencia a una Flota, estado de automatización o nivel de daños.
+
+En los niveles de la galaxia y del sistema, las Naves militares aparecen resaltadas en el mapa. Pasa el cursor sobre un elemento para señalar su posición, haz clic para seleccionarlo o haz doble clic para desplazar la vista hasta allí.
+
+Cada elemento muestra la misión actual de la nave. Si pertenece a una Flota, el nombre de esta aparece entre paréntesis tras el de la nave. También se indican su fuerza de combate y la fuerza de ataque de las Tropas a bordo. Los Personajes embarcados aparecen a la derecha, junto a la descripción de la misión.
+
+Las naves dañadas o en construcción muestran un fondo rojo o naranja tras su imagen. Pasa el cursor sobre ella para consultar su estado.
+
+Pasa el cursor sobre cualquier elemento de la lista para mostrar un resumen detallado en el panel de la derecha.
+
+[H3]Estado de automatización[/H3]
+El botón pequeño de la derecha permite cambiar el estado de automatización. Puedes controlar la nave manualmente o automatizarla por completo para que elija sus propias misiones.
+
+También puedes limitar la automatización para que solo asigne misiones de escolta, guardia, patrulla o incursión.
+
+[H3]Opciones tácticas[/H3]
+Cada nave dispone de numerosas opciones tácticas para ajustar su comportamiento. Selecciona la nave y haz clic en «Establecer tácticas», en el extremo derecho bajo el panel de selección, para abrir la pantalla Opciones tácticas.
+
+El Rango de acción determina cómo responde la nave a las amenazas. Pasa el cursor sobre cada opción de esa pantalla para obtener más información.

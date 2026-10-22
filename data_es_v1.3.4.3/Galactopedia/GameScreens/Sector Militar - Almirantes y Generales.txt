@@ -1,0 +1,21 @@
+Esta lista muestra todos los Almirantes y Generales de tu Imperio.
+
+Pasa el cursor sobre una entrada para consultar los detalles del Personaje y haz clic para mantener abierto el panel de la derecha.
+
+Puedes cambiar su nombre haciendo clic en el que aparece bajo el retrato y escribiendo uno nuevo.
+
+[H3]Ubicaciones de Almirantes y Generales[/H3]
+Los Almirantes aplican sus bonificaciones de combate cuando se encuentran a bordo de una Nave militar, especialmente dentro de una Flota. Usa la lista desplegable de ubicaciones y el botón «Transferir» para asignarlos a una Flota u otro destino.
+
+También pueden proporcionar bonificaciones ajenas al combate cuando están destinados en un Puerto espacial, como una mayor velocidad de construcción de naves.
+
+Los Generales aplican sus bonificaciones de combate terrestre en las Colonias, ya sea al defender una propia o invadir una enemiga. Usa la lista desplegable de ubicaciones y el botón «Transferir» para asignarlos a una Flota o Colonia.
+
+Destina un General a una de tus Colonias para emplearlo en defensa o a una Flota de Invasión para atacar.
+
+También pueden proporcionar bonificaciones ajenas al combate cuando están destinados en una Colonia, como una mayor velocidad de reclutamiento de Tropas.
+
+Puedes automatizar a los Almirantes y Generales para que tus asesores militares elijan su mejor destino. Usa el botón «Automatizar» situado bajo el retrato del Personaje, a la derecha.
+
+[H3]Eventos[/H3]
+En la parte inferior del panel de detalles aparece una lista de todos los Eventos en los que ha participado el Almirante o General. Algunos pueden mejorar o reducir sus habilidades, o proporcionarle Rasgos de personaje nuevos.

@@ -1,0 +1,76 @@
+Las misiones de inteligencia te permiten infiltrarte en secreto en otros imperios para robar o destruir sus activos.
+
+[H3]Espías[/H3]
+Los espías son especialistas muy preparados y capacitados a quienes encomiendas estas misiones.
+
+Los espías mejoran sus habilidades con cada misión completada. Cuanto más hábil sea un espía, más difíciles serán las misiones que pueda asumir.
+
+En cambio, basta una misión fallida para que maten o capturen a tu espía, así que elige sus objetivos con prudencia.
+
+[H3]Contrainteligencia[/H3]
+La contrainteligencia también es crucial para proteger tu imperio. Puedes asignar espías para frustrar misiones enemigas: buscarán activamente agentes y saboteadores e informarán de todo descubrimiento. La contrainteligencia utiliza la habilidad Contraespionaje.
+
+[H3]Consecuencias diplomáticas[/H3]
+Ten presentes las consecuencias de una misión de inteligencia frustrada: si otro imperio descubre tus acciones contra él, su opinión sobre tu imperio empeorará drásticamente e incluso podría estallar una guerra.
+
+[H2]Tipos de misión estándar[/H2]
+Los siguientes tipos de misión de inteligencia están disponibles para todas las especies y gobiernos.
+
+[H3]Sabotear construcción[/H3]
+Daña las naves en construcción de un puerto espacial o una colonia. Habilidad utilizada: Sabotaje
+
+[H3]Destruir base[/H3]
+Destruye una base enemiga concreta. Tu imperio debe conocer la base objetivo.
+
+Las bases más grandes son más difíciles de destruir. Habilidad utilizada: Sabotaje
+
+[H3]Robar mapa territorial[/H3]
+Roba el mapa territorial de otro imperio y revela todos sus sistemas colonizados. Habilidad utilizada: Espionaje
+
+[H3]Robar mapa de operaciones[/H3]
+Muestra durante un breve periodo, aproximadamente 30 segundos, la ubicación de todas las naves y bases de otro imperio. Habilidad utilizada: Espionaje
+
+[H3]Robar información de investigación[/H3]
+Roba información de investigación de otro imperio para obtener mejores tecnologías para tus naves y bases. Habilidad utilizada: Espionaje
+
+[H3]Robar mapa galáctico[/H3]
+Roba el mapa galáctico de otro imperio y revela todos sus datos de exploración. Habilidad utilizada: Espionaje
+
+[H3]Sabotear colonia[/H3]
+Provoca que una colonia pierda parte de su población y reduce su nivel de desarrollo. Habilidad utilizada: Sabotaje
+
+[H3]Incitar a la rebelión[/H3]
+Provoca una revolución en un imperio y cambia su tipo de gobierno. El nuevo gobierno es difícil de predecir y podría serte favorable o no. Habilidad utilizada: Guerra Psicológica
+
+[H3]Asesinar personaje[/H3]
+Mata a un personaje de otro imperio. Tu imperio debe conocer la ubicación del objetivo.
+
+Los agentes de inteligencia enemigos no pueden ser objetivo de misiones de asesinato.
+
+Los líderes son especialmente difíciles de asesinar. Los embajadores y gobernadores de colonia también presentan mayor dificultad. Habilidad utilizada: Asesinato
+
+[H3]Infiltración[/H3]
+Infiltra un imperio y proporciona información continua de sus mapas galáctico y de operaciones; podrás ver todas sus naves, bases y colonias.
+
+Esta misión es permanente: si tiene éxito, tu agente permanece infiltrado en el imperio objetivo hasta que canceles la misión o el otro imperio lo descubra. Habilidad utilizada: Ocultación
+ 
+[H2]Otros tipos de misión[/H2]
+La mayoría de las especies y gobiernos tienen acceso a las misiones estándar anteriores. Sin embargo, algunos también permiten realizar las siguientes misiones adicionales.
+
+[H3]Influir positivamente en un imperio[/H3]
+Influye en la valoración que una facción hace de una tercera para mejorar su opinión sobre ella. Habilidad utilizada: Guerra Psicológica
+
+[H3]Influir negativamente en un imperio[/H3]
+Influye en la valoración que una facción hace de una tercera para empeorar su opinión sobre ella. Habilidad utilizada: Guerra Psicológica
+
+[H3]Capturar base[/H3]
+Captura una base concreta de otro imperio.
+
+Tu imperio debe conocer la base objetivo, que además debe encontrarse en tu territorio o en territorio no reclamado. Por tanto, no puede estar dentro del territorio del imperio objetivo, como ocurriría con el puerto espacial de una colonia.
+
+Las bases más grandes son más difíciles de capturar. Habilidad utilizada: Sabotaje
+
+[H3]Estabilización interna[/H3]
+Reduce el malestar interno provocado por los disidentes de tu propio imperio. Resulta especialmente útil durante una guerra, cuando aumenta el hastío bélico.
+
+Si tiene éxito, el hastío bélico y la corrupción de tu imperio se reducirán durante 2 años. Habilidad utilizada: Contraespionaje

@@ -1,0 +1,60 @@
+Las tropas defienden tus colonias de las invasiones enemigas y también sirven como fuerzas de ataque para invadir y conquistar colonias de otros imperios.
+
+[H3]Fuerza y disposición[/H3]
+Cada especie dispone de una unidad de infantería propia. Es la tropa predeterminada que puede reclutarse en las colonias sin instalaciones planetarias especiales y tiene una fuerza defensiva básica.
+
+La disposición para el combate se mide del 1 al 100. Con 100, las tropas están completamente descansadas y listas para luchar. El combate causa bajas y reduce su disposición, que tarda en recuperarse; las instalaciones médicas aceleran este proceso.
+
+[H3]Reclutamiento[/H3]
+Las tropas se reclutan en tus colonias y su mantenimiento cuesta dinero, así que forma solo las que necesites. El mantenimiento comienza cuando terminan su instrucción; las unidades todavía en reclutamiento no generan ese coste.
+
+El reclutamiento lleva tiempo porque las tropas deben recibir instrucción y equipo. Influyen los siguientes factores:
+[ULI]Tamaño de la colonia: las poblaciones mayores reclutan tropas con más rapidez.[/ULI]
+[ULI]Gobierno del imperio: algunos tipos reclutan tropas más rápido que otros.[/ULI]
+[ULI]Bonificaciones de reclutamiento: ciertas instalaciones y personajes aumentan la velocidad de reclutamiento.[/ULI]
+
+Planifica con antelación para disponer de tropas suficientes para tus objetivos.
+
+Para reclutar tropas, selecciona una colonia y pulsa 'Gestionar tropas' bajo el Panel de selección. Aparecerán botones para todas las unidades disponibles en ella.
+
+[H3]Guarniciones[/H3]
+Puedes establecer tropas como guarnición de una colonia. Así los transportes no las recogerán y permanecerán allí para defenderla.
+
+Las tropas de guarnición muestran una línea azul bajo su icono.
+
+Para cambiar ese estado, selecciona una colonia y después una unidad en el área Tropas. Los botones bajo el Panel de selección se adaptarán a ella; pulsa 'Tropa de guarnición' para alternar su estado.
+
+[H3]Tipos de tropas[/H3]
+Existen cinco tipos de tropas:
+[ULI]Infantería: unidad defensiva básica disponible desde el principio. Cada especie posee una infantería propia con distintas ventajas y desventajas.[/ULI]
+[ULI]Blindadas: principales unidades de ataque. Requieren un Cuartel de Tropas Blindadas.[/ULI]
+[ULI]Defensa planetaria: unidades defensivas que interceptan tropas enemigas entre sus naves de desembarco y la superficie. Requieren un Centro de Defensa Planetaria.[/ULI]
+[ULI]Fuerzas especiales: infantería de élite que elimina defensas coloniales durante una invasión, como instalaciones terrestres, unidades de defensa planetaria y generales enemigos. Al defender, se concentra en las fuerzas especiales invasoras. Requiere un Cuartel de Operaciones Especiales.[/ULI]
+[ULI]Titanes: unidades de ataque avanzadas y extremadamente poderosas. Requieren un Centro de Fabricación de Titanes.[/ULI]
+
+Cada tipo tiene valores independientes de Ataque y Defensa, por lo que unas unidades se especializan en atacar y otras en defender.
+
+Algunas tropas ocupan más espacio de lo normal en los transportes. Los costes de mantenimiento también varían; por ejemplo, las unidades blindadas son más caras que la infantería.
+
+Los tipos distintos de Infantería requieren investigación. El Cuartel de Tropas Blindadas permite reclutar unidades blindadas y el Cuartel de Operaciones Especiales, fuerzas especiales; ambas instalaciones se desbloquean mediante investigación.
+
+Además, el árbol tecnológico ofrece mejoras para cada tipo que aumentan su fuerza de ataque o defensa. Pasa el cursor sobre un proyecto para consultar sus efectos.
+
+[H3]Composición de tropas para naves y flotas[/H3]
+Puedes indicar qué tropas debe embarcar una flota asignándole una Plantilla de ejército, que define el porcentaje de cada tipo.
+
+Los transportes de la flota intentarán cargar tropas respetando esos porcentajes.
+
+Aunque puedes definir una composición preferida, la disponibilidad real puede alterarla. Es posible que tus colonias no tengan suficientes tropas sin guarnición del tipo solicitado.
+
+Si faltan tropas de un tipo, la nave o flota intentará sustituirlas por otros para completar toda su capacidad.
+
+[H3]Equilibrio y planificación[/H3]
+No reclutes demasiadas tropas: su mantenimiento puede consumir una parte considerable de tus fondos.
+
+En tiempos de paz, reduce el gasto manteniendo solo las tropas imprescindibles en tus colonias clave. Recluta más cuando prepares una ofensiva contra otro imperio.
+
+[H3]Transportar tropas[/H3]
+Las tropas pueden embarcar en transportes o naves militares grandes con compartimentos adecuados. Después pueden desembarcar en otra colonia para reforzarla o invadir una colonia enemiga.
+
+Las flotas de Invasión reúnen numerosos transportes de tropas. Utiliza la misión 'Cargar tropas' para embarcar unidades en una flota.

@@ -1,0 +1,18 @@
+Esta pantalla enumera todas las ubicaciones que pueden convertirse en Nuevas colonias. Consulta las numerosas opciones de ordenación y filtrado en la parte superior del panel. Los filtros permiten elegir niveles de idoneidad, especies alienígenas o tipos de planeta concretos.
+
+Al alejar la vista hasta el nivel de galaxia o sistema, las ubicaciones de las nuevas Colonias se resaltan en el mapa. Sitúa el cursor sobre una entrada para señalar su ubicación, haz clic para seleccionarla o doble clic para desplazar allí la vista.
+
+Cada entrada muestra el tamaño y la Idoneidad para colonizar del planeta o la luna. Sitúa el cursor sobre la puntuación para consultar un resumen detallado de su idoneidad para cada especie de tu imperio.
+
+[H3]Colonización de mundos independientes[/H3]
+Si la ubicación ya está habitada por una especie alienígena independiente, se muestran la especie, su población y la probabilidad actual de colonizar con éxito esa Colonia independiente; es decir, de que acepte incorporarse a tu imperio.
+
+[H3]Colonización en cola[/H3]
+El botón de la derecha permite poner en cola la colonización del planeta o la luna. Se construirá una Nave Colonizadora, se embarcarán colonos procedentes de una de tus Colonias y la nave viajará al mundo objetivo para colonizarlo.
+
+Si tu imperio ya dispone de una Nave Colonizadora adecuada, podrá utilizarla para colonizar el nuevo mundo.
+
+[H3]Ubicaciones peligrosas[/H3]
+Cuando una ubicación se considera peligrosa aparece un rayo rojo junto a su nombre. Esto ocurre si contiene amenazas que aún no han sido eliminadas, como piratas o criaturas espaciales mortales.
+
+Las naves no militares no viajan a ubicaciones peligrosas. Primero deben eliminar las amenazas mediante naves militares o una flota. Puedes poner la colonización en cola, pero las Naves Colonizadoras no partirán hasta que la zona sea segura.

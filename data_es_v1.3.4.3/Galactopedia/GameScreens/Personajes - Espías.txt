@@ -1,0 +1,22 @@
+Esta lista muestra todos los personajes Espía de tu imperio.
+
+Sitúa el cursor sobre una entrada de la lista para ver los detalles del Espía y haz clic para mantener abierto el panel de la derecha.
+
+Puedes cambiar el nombre de un Espía haciendo clic en el nombre situado bajo su retrato y escribiendo uno nuevo.
+
+[H3]Misiones de inteligencia[/H3]
+Los Espías realizan misiones de inteligencia contra otras facciones, ya sea robando mapas y tecnología o saboteando al objetivo de distintas formas.
+
+También pueden realizar labores de Contrainteligencia para proteger tu imperio de los Espías enemigos.
+
+Las habilidades de cada Espía determinan en gran medida qué tipos de misión se le dan mejor.
+
+[H3]Asignación de misiones[/H3]
+Para asignar una misión a un Espía, elige en las listas desplegables el imperio objetivo, el tipo de misión, cualquier objetivo concreto y el tiempo para completarla. Después, pulsa el botón 'Asignar Misión'.
+
+La probabilidad de éxito aparece a la derecha y se actualiza al seleccionar las distintas opciones. Evita asignar misiones demasiado difíciles: tu Espía podría ser interceptado e incluso capturado, con graves consecuencias diplomáticas.
+
+Para automatizar por completo las misiones de un Espía, utiliza el botón 'Automatizar' situado bajo su retrato a la derecha.
+
+[H3]Eventos[/H3]
+En la parte inferior del panel de detalles aparece una lista de todos los eventos en los que ha participado el Espía. Estos pueden mejorar o reducir sus habilidades, o proporcionarle nuevos rasgos. Completar misiones de inteligencia con éxito resulta especialmente útil para aumentar sus habilidades.

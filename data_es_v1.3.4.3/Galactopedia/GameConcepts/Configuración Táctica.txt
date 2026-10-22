@@ -1,0 +1,97 @@
+Las naves y flotas disponen de opciones tácticas que determinan cómo responden a las amenazas y cómo intervienen en combate.
+
+Para acceder a ellas, selecciona una nave o flota propia y pulsa el botón 'Establecer tácticas', situado en el extremo derecho bajo el Panel de selección.
+
+A continuación se explica cada opción, primero las correspondientes a naves y después las específicas de las flotas.
+
+[H2]Opciones tácticas de la nave[/H2]
+[H3]Posición en la flota[/H3]
+La posición en la flota especifica cómo opera una nave dentro de ella.
+[ULI][B]Núcleo:[/B] las naves de núcleo son las más importantes de la flota y las escoltan las demás naves (Escolta cercana y Piquete). Por lo general, una flota solo tiene una o dos naves de núcleo.[/ULI]
+[ULI][B]Escolta cercana:[/B] estas naves protegen a las naves de núcleo formando un perímetro defensivo próximo. Si no hay enemigos o llegan desde todas las direcciones, forman un perímetro circular alrededor del núcleo. Si proceden principalmente de una dirección, forman un arco defensivo entre las naves de núcleo y las enemigas.[/ULI]
+[ULI][B]Piquete:[/B] estas naves protegen a las naves de núcleo desde un perímetro defensivo más alejado. Si no hay enemigos o llegan desde todas las direcciones, forman un perímetro circular alrededor del núcleo. Si proceden principalmente de una dirección, forman un arco defensivo entre las naves de núcleo y las enemigas.[/ULI]
+
+[H3]Rango de intervención[/H3]
+El rango de intervención especifica cuándo una nave se enfrentará a objetivos enemigos.
+[ULI][B]No intervenir:[/B] la nave nunca se enfrentará a enemigos.[/ULI]
+[ULI][B]Intervenir al ser atacada:[/B] se enfrentará a los enemigos solo cuando estos la ataquen directamente.[/ULI]
+[ULI][B]Cercano:[/B] se enfrentará a objetivos enemigos cercanos.[/ULI]
+[ULI][B]Misma ubicación:[/B] se enfrentará a objetivos enemigos en la misma ubicación (planeta y lunas).[/ULI]
+[ULI][B]Mismo sistema:[/B] se enfrentará a objetivos enemigos en el mismo sistema estelar.[/ULI]
+
+Cuando una nave forma parte de una flota, el rango de intervención de la flota prevalece sobre el suyo. Es decir, utiliza el rango de la flota en lugar del propio.
+
+[H3]Postura de ataque: objetivos más débiles[/H3]
+Determina cómo se enfrenta una nave a un objetivo más débil y cómo elige la distancia óptima de ataque.
+[ULI][B]Evadir:[/B] la nave intentará mantenerse fuera del alcance de las armas enemigas.[/ULI]
+[ULI][B]Cautelosa:[/B] elegirá una distancia desde la que cause cierto daño y minimice el que pueda recibir.[/ULI]
+[ULI][B]Neutral:[/B] elegirá una distancia que maximice el daño infligido sin exponerse a daños excesivos.[/ULI]
+[ULI][B]Agresiva:[/B] elegirá una distancia que maximice el daño infligido sin apenas considerar el que pueda recibir.[/ULI]
+
+[H3]Postura de ataque: objetivos más fuertes[/H3]
+Determina cómo se enfrenta una nave a un objetivo más fuerte y cómo elige la distancia óptima de ataque.
+[ULI][B]Evadir:[/B] la nave intentará mantenerse fuera del alcance de las armas enemigas.[/ULI]
+[ULI][B]Cautelosa:[/B] elegirá una distancia desde la que cause cierto daño y minimice el que pueda recibir.[/ULI]
+[ULI][B]Neutral:[/B] elegirá una distancia que maximice el daño infligido sin exponerse a daños excesivos.[/ULI]
+[ULI][B]Agresiva:[/B] elegirá una distancia que maximice el daño infligido sin apenas considerar el que pueda recibir.[/ULI]
+
+[H3]Retirarse cuando[/H3]
+Especifica cuándo una nave huirá de una batalla.
+[ULI][B]Enemigo en el mismo sistema:[/B] huirá en cuanto detecte un enemigo en el mismo sistema estelar.[/ULI]
+[ULI][B]Enemigo en la misma ubicación:[/B] huirá en cuanto detecte un enemigo en la misma ubicación.[/ULI]
+[ULI][B]Enemigo cercano:[/B] huirá cuando haya un enemigo cerca en la misma ubicación.[/ULI]
+[ULI][B]Al ser atacada:[/B] huirá cuando un enemigo la ataque directamente.[/ULI]
+[ULI][B]Escudos por debajo del 50 % o cualquier daño en el blindaje:[/B] huirá cuando los escudos bajen del 50 % o el blindaje sufra cualquier daño.[/ULI]
+[ULI][B]Escudos por debajo del 20 % o blindaje por debajo del 50 %:[/B] huirá cuando los escudos bajen del 20 % o el blindaje esté por debajo del 50 %.[/ULI]
+[ULI][B]Cualquier componente no defensivo dañado:[/B] huirá cuando sufra daños cualquier componente que no sea un escudo o blindaje.[/ULI]
+[ULI][B]20 % de los componentes no defensivos dañados:[/B] huirá cuando esté dañado el 20 % de dichos componentes.[/ULI]
+[ULI][B]50 % de los componentes no defensivos dañados:[/B] huirá cuando esté dañado el 50 % de dichos componentes.[/ULI]
+[ULI][B]Nunca:[/B] la nave nunca huirá de una batalla.[/ULI]
+
+[H3]Invadir colonias[/H3]
+Determina cuándo desembarcará tropas una nave durante la invasión de una colonia.
+[ULI][B]Inmediatamente:[/B] intentará desembarcar las tropas en la colonia de inmediato.[/ULI]
+[ULI][B]Cuando esté despejado:[/B] esperará hasta que se hayan eliminado todas las defensas estáticas, incluidas las bases defensoras en órbita.[/ULI]
+[ULI][B]Nunca:[/B] la nave nunca invadirá colonias enemigas.[/ULI]
+
+[H2]Opciones tácticas de la flota[/H2]
+[H3]Rango de intervención de la flota[/H3]
+El rango de intervención de la flota especifica cuándo se enfrentará a sus objetivos.
+[ULI][B]No intervenir:[/B] la flota nunca se enfrentará a enemigos.[/ULI]
+[ULI][B]Intervenir al ser atacada:[/B] se enfrentará a los enemigos solo cuando estos la ataquen directamente.[/ULI]
+[ULI][B]Cercano:[/B] se enfrentará a objetivos enemigos situados a menos de 5000 unidades.[/ULI]
+[ULI][B]Misma ubicación:[/B] se enfrentará a objetivos enemigos en la misma ubicación (planeta y lunas).[/ULI]
+[ULI][B]Mismo sistema:[/B] se enfrentará a objetivos enemigos en el mismo sistema estelar.[/ULI]
+[ULI][B]Rango de 50 M:[/B] se enfrentará a objetivos enemigos situados a menos de 50 millones de unidades.[/ULI]
+[ULI][B]Rango de 100 M:[/B] se enfrentará a objetivos enemigos situados a menos de 100 millones de unidades.[/ULI]
+[ULI][B]Rango de 200 M:[/B] se enfrentará a objetivos enemigos situados a menos de 200 millones de unidades.[/ULI]
+[ULI][B]Rango de 300 M:[/B] se enfrentará a objetivos enemigos situados a menos de 300 millones de unidades.[/ULI]
+[ULI][B]33 % del alcance de combustible:[/B] se enfrentará a objetivos situados dentro del 33 % de la autonomía de la flota.[/ULI]
+[ULI][B]50 % del alcance de combustible:[/B] se enfrentará a objetivos situados dentro del 50 % de la autonomía de la flota.[/ULI]
+
+El rango de intervención de la flota prevalece sobre el de cada nave que la compone. Las naves de una flota utilizan el rango colectivo en lugar del suyo.
+
+Las flotas controladas manualmente no responden automáticamente a amenazas situadas fuera de su sistema estelar actual. En ese caso, esta opción aparece en amarillo. Para intervenir más allá del sistema actual, utiliza una función de flota automatizada (Defensa, Ataque, Incursión o Invasión).
+
+Las flotas tampoco se enfrentarán automáticamente a amenazas fuera de su sistema cuando los Ataques militares se controlen manualmente (consulta la sección Militar de Política del Imperio). En ese caso, esta opción aparece en naranja. Para responder a amenazas externas, activa la automatización de Ataques militares (Totalmente automatizado o Sugerir) y utiliza flotas automatizadas en lugar de la función Manual.
+
+[H3]Formación[/H3]
+Especifica la proximidad de las naves de Escolta cercana y Piquete respecto a las naves de Núcleo que protegen.
+[ULI]Muy cerrada[/ULI]
+[ULI]Cerrada[/ULI]
+[ULI]Normal[/ULI]
+[ULI]Abierta[/ULI]
+[ULI]Muy abierta[/ULI]
+
+[H3]Permitir reasignación de funciones de nave[/H3]
+Determina si puede reasignarse automáticamente la 'Posición en la flota' de las naves. Cuando se elige un nuevo buque insignia, porque se incorpora uno mejor o se pierde el anterior, pueden cambiar las naves de Núcleo, Escolta cercana y Piquete.
+[ULI]Las naves reasignan sus funciones dentro de la flota cuando es necesario.[/ULI]
+[ULI]Las naves conservan su función actual dentro de la flota.[/ULI]
+
+[H3]Retirarse cuando[/H3]
+Determina cuándo decidirá retirarse de una batalla toda la flota.
+[ULI]Fuerza enemiga un 50 % superior.[/ULI]
+[ULI]Fuerza enemiga un 100 % superior.[/ULI]
+[ULI]Fuerza enemiga un 200 % superior.[/ULI]
+[ULI]Nunca.[/ULI]
+[ULI]Fuerza enemiga superior.[/ULI]

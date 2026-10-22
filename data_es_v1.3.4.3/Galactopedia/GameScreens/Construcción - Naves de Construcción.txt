@@ -1,0 +1,15 @@
+Las Naves de Construcción son astilleros móviles. Construyen estaciones mineras, estaciones de investigación, bases turísticas y estaciones de vigilancia. También pueden reparar naves dañadas inmóviles e incluso naves y bases abandonadas descubiertas durante la exploración.
+
+Construir una base requiere recursos. Por ello, cuando recibe una misión de construcción, la Nave de Construcción viaja primero al puerto espacial más cercano para cargar los materiales necesarios.
+
+[H3]Lista de Naves de Construcción[/H3]
+Esta pantalla enumera todas las Naves de Construcción de tu imperio.
+
+Al alejar la vista hasta el nivel de galaxia o sistema, las Naves de Construcción se resaltan en el mapa. Sitúa el cursor sobre una entrada para señalar su ubicación, haz clic para seleccionarla o doble clic para desplazar allí la vista.
+
+Cada entrada muestra la misión actual de la Nave de Construcción.
+
+[H3]Estado de automatización[/H3]
+El pequeño botón de la derecha permite cambiar el estado de automatización. Puedes controlar manualmente la Nave de Construcción o automatizarla por completo para que elija sus propias misiones.
+
+También puedes limitar la automatización a construir estaciones mineras, estaciones de investigación, estaciones de vigilancia o bases turísticas, o a rescatar naves y bases abandonadas.

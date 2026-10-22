@@ -1,0 +1,10 @@
+Las Cisternas recorren el Imperio para repostar naves con poco combustible. Cuando se asignan a una Flota, dan prioridad a las naves que pertenecen a ella.
+
+Pueden extraer combustible en cualquier ubicación que contenga el recurso adecuado, aunque prefieren cargarlo en un Puerto espacial o una Colonia porque suele ser más rápido.
+
+[H3]Lista de Cisternas[/H3]
+Esta pantalla enumera todas las Cisternas de tu Imperio.
+
+En los niveles de la galaxia y del sistema, las Cisternas aparecen resaltadas en el mapa. Pasa el cursor sobre un elemento para señalar su posición, haz clic para seleccionarlo o haz doble clic para desplazar la vista hasta allí.
+
+Cada elemento muestra la carga y la misión actuales de la Cisterna.

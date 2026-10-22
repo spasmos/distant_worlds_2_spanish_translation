@@ -1,0 +1,56 @@
+
+GREETING_INTRODUCTION			;Somos los {0}.\n\nNos gusta la vida tranquila. Y una buena partida de Todash.\n\n¿Y a ti?
+GREETING_FRIENDLY			;¡Ahh, qué alegría volver a verte!\n\n¿Te gustaría unirte a nuestra partida de Todash?
+GREETING_NEUTRAL			;¿Hmm? Ah, ¿tienes algo de lo que hablar?
+GREETING_ANGRY				;¡Grrr, te atreves a presentarte ante nosotros! Más te vale que sea importante.\n\n¡Habla!
+
+PIRATE_PROTECTIONPROPOSE		;¿Protección para tus naves? Sí, podemos ofrecértela.\n\nPor la tarifa indicada abajo podemos «proteger» todas tus naves mientras viajen por nuestro territorio.\n\n¿Te parece una ganga?
+PIRATE_PROTECTIONPROPOSEINITIATE	;Hay muchos peligros ocultos acechando a tus naves. ¡Piratas, por ejemplo!\n\nPero, por una módica tarifa, podemos proteger todas tus naves que viajen por nuestro territorio.\n\nUna oferta tentadora, ¿no crees?
+PIRATE_PROTECTIONACCEPTRESPONSE		;¡Excelente!\n\nOrdenaremos a nuestras naves que no ataquen cuando vean alguna de las tuyas.\n\nAdiós, hasta que toque pagar nuestra próxima cuota...
+PIRATE_PROTECTIONREJECTRESPONSE		;Nos preguntamos si estás buscando problemas.\n\nQuizá sea así...
+PIRATE_ATTACKOFFER_SINGLEEMPIRE		;Parece que tienes dificultades con los {0}. Pero eso no tiene por qué ser un problema para ti. ¡Podemos atacarlos por ti!\n\nEste acuerdo sería secreto, solo entre nosotros. Nadie te culparía de los ataques.\n\nSolo necesitamos un pago de {1} créditos
+PIRATE_ATTACKCOMMENCE			;¡Acabas de contratarnos!\n\n¡Los {0} no sabrán por dónde les han venido los golpes!
+
+OFFER_FREETRADE				;¿Sabes una cosa? Lo que necesitamos es un acuerdo de libre comercio. Sería algo realmente estupendo.\n\n¿Qué opinas?
+FREETRADE_ACCEPT			;Un acuerdo de libre comercio... ¡Eso sí que es una gran idea! Aceptamos.\n\n¡Ya estamos pensando en cómo gastar todo ese dinero extra!
+FREETRADE_REJECT			;Bueno, la verdad es que no. No creemos que un acuerdo de libre comercio sea una buena idea.\n\nAl menos, no contigo
+
+CANCELTREATY				;¿Ese {0} que teníamos contigo? Se acabó: terminado, finiquitado, kaput.\n\nSimplemente no funcionó
+CANCELTREATY_RESPONSE_FRIENDLY		;¡Vaya!\n\nCreíamos que teníamos algo bueno. Supongo que nunca se sabe
+CANCELTREATY_RESPONSE_NEUTRAL		;Si tú lo dices
+CANCELTREATY_RESPONSE_ANGRY		;¡¿Ah, sí?! Bueno, nunca nos caíste bien de todos modos.\n\n¡Y punto!
+
+TREATY_PROPOSAL				;¡¿Un tratado?! ¡Nos encantan los tratados!\n\nCuéntanos más
+TREATY_ACCEPTRESPONSE			;¡Qué emoción! Tener amigos nuevos significa una gran celebración.\n\nPor cierto, ¿juegas a Todash?
+TREATY_REJECTRESPONSE			;Hmm, eso no es lo que queríamos oír.\n\nSabes muy bien cómo aguar una fiesta
+
+TRADESANCTIONS_IMPOSE			;¿Sabes qué tienes ahora? ¡Sanciones comerciales!\n\nTe las has ganado de verdad. Ya estamos hartos de tus puñaladas por la espalda
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY	;¡No imaginas lo enfadados que estamos ahora mismo!\n\n¡Indescriptiblemente enfadados! ¡Furiosamente indignados! Incluso bastante molestos
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL	;Eso es justo lo que esperábamos de ti.\n\n¡Ya no te invitaremos a más partidas de Todash!
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED	;¡Estás hecho una buena pieza! Imagínate: imponernos sanciones comerciales a nosotros, tus amigos.\n\nNo vuelvas a hablarnos
+TRADESANCTIONS_LIFT			;Se acabaron las sanciones comerciales.\n\nLa verdad es que son bastante aburridas. Preferimos con diferencia el comercio libre y abierto
+TRADESANCTIONS_LIFT_RESPONSE		;Ahora, para variar, estás diciendo algo sensato.\n\nCelebramos la vuelta al comercio normal
+
+WAR_DECLARE				;Has ido demasiado lejos esta vez: ¡GUERRA contra tu escuálido imperio!\n\n¡Te haremos suplicar clemencia y después no te concederemos ninguna!
+WAR_DECLARE_RESPONSE_EAGER		;¡VEN A POR NOSOTROS! ¡Te enterraremos!
+WAR_DECLARE_RESPONSE_NEUTRAL		;¡Calma, calma! Este será el último error que cometas
+WAR_DECLARE_RESPONSE_SURPRISED		;¡No puede ser!\n\nCreíamos que éramos amigos. Parece que nos equivocábamos
+
+WAR_END					;Esta guerra nos gustaba al principio, pero ya no es divertida.\n\n¿Lo dejamos por hoy? ¿Qué dices?
+WAR_END_ACCEPT				;Sí, basta de luchar por hoy.\n\nPodemos continuar más tarde si nos apetece
+WAR_END_REJECT				;No, ¡esta guerra es demasiado divertida para detenerla!\n\nSeguro que aún no te has aburrido, ¿verdad?
+
+GIFT_GIVE				;Tenemos un regalo para ti: ¡{0} créditos! ¿Te gusta?
+GIFT_THANKS				;¡Vaya! ¡Un regalo para nosotros! ¡Gracias!
+
+WARNING_INTELLIGENCEMISSIONS		;Oye, conocemos todas esas misiones encubiertas que envías contra nosotros.\n\n¡Y estamos bastante enfadados por ello!\n\nAsí que deja de hacerlo ahora mismo, ¿vale?
+WARNING_ATTACKS				;¡Detén ahora mismo tus ataques contra nuestras naves!\n\nNuestra paciencia se está agotando. ¡Te lo advertimos!
+
+
+WARNING						;¿Una advertencia? Nos preguntamos a qué se deberá
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY	;Entendemos tu preocupación.\n\nNos aseguraremos de que no vuelva a ocurrir
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL	;Antes de responder, debemos comprobar los detalles de este incidente.\n\nVolveremos a hablar contigo, ¿vale?
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY	;Ahora que lo mencionas, sí, ordenamos esas misiones contra ti.\n\n¿Por qué? Porque, la verdad, te odiamos mucho.\n\n¿Ha quedado todo claro?
+WARNING_ATTACKS_RESPONSE_FRIENDLY		;Qué horror. Acepta nuestras disculpas.\n\nDanos los detalles del incidente y nos ocuparemos del capitán de nave responsable
+WARNING_ATTACKS_RESPONSE_NEUTRAL		;Hmmm, nada bueno. Que nos hayan pillado, queremos decir.\n\nAcepta nuestras disculpas
+WARNING_ATTACKS_RESPONSE_ANGRY			;Recordamos haber ordenado algunos ataques recientemente.\n\nPero solo haríamos algo así contra nuestros enemigos. Supongo que eso significa que eres nuestro enemigo, ¿no?

@@ -1,0 +1,6 @@
+Las Estaciones de vigilancia son bases especializadas equipadas con escáneres de largo alcance para observar lugares estratégicos. Se construyen en zonas tranquilas desde las que puedan vigilar objetivos enemigos.
+
+[H3]Lista de Estaciones de vigilancia[/H3]
+Esta pantalla enumera todas las Estaciones de vigilancia de tu Imperio. Consulta las opciones de ordenación y filtrado de la parte superior.
+
+En los niveles de la galaxia y del sistema, las Estaciones de vigilancia aparecen resaltadas en el mapa. Las insignias de sistema y ubicación también señalan los Puertos espaciales mediante el icono amarillo de construcción. Pasa el cursor sobre un elemento para señalar su posición, haz clic para seleccionarla o haz doble clic para desplazar la vista hasta allí.

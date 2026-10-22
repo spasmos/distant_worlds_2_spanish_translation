@@ -1,0 +1,14 @@
+Los imperios adoptan distintas formas de gobierno, cada una con sus propias características. Los diferentes gobiernos sienten afinidad o rechazo natural entre sí, lo que moldea las relaciones diplomáticas de toda la galaxia.
+
+Los cinco tipos básicos de gobierno son Democracia, República, Feudalismo, Monarquía y Dictadura Militar. Están disponibles para todos los imperios y especies alienígenas.
+
+Otros tres tipos de gobierno solo están disponibles para determinadas especies alienígenas: Gremio Mercantil, Tecnocracia y Mente Colmena. También existen dos formas especiales: la Senda de los Antiguos y el Camino de la Oscuridad. Estos dos gobiernos ancestrales deben redescubrirse antes de que un imperio pueda adoptarlos.
+
+Cada especie alienígena muestra tendencias naturales hacia ciertas formas de gobierno: las más agresivas suelen preferir las dictaduras militares, mientras que las pacíficas tienden a elegir democracias o repúblicas.
+
+Cada tipo de gobierno posee bonificaciones y penalizaciones únicas que lo hacen más o menos adecuado para distintos estilos de liderazgo. Todos se explican con detalle en su correspondiente artículo.
+
+[H3]Afinidad natural[/H3]
+Cada tipo de gobierno tiene amigos y rivales naturales entre otros gobiernos concretos. Sin embargo, esta es solo una de las muchas influencias sobre las relaciones entre imperios: dos gobiernos rivales por naturaleza aún pueden ser amigos gracias a factores como el comercio.
+
+Del mismo modo, dos imperios con gobiernos afines por naturaleza pueden ser enemigos debido a otros factores, como las disputas por sistemas.

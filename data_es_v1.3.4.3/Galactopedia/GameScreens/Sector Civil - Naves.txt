@@ -1,0 +1,7 @@
+Esta pantalla enumera todas las naves civiles de tu Imperio: Cargueros, Naves de pasajeros y Naves mineras.
+
+Forman parte de la economía civil, por lo que normalmente no puedes asignarles misiones. En su lugar, buscan sus propias tareas: trasladar carga, transportar turistas e inmigrantes y extraer recursos.
+
+En los niveles de la galaxia y del sistema, las naves civiles aparecen resaltadas en el mapa. Pasa el cursor sobre un elemento para señalar su posición, haz clic para seleccionarlo o haz doble clic para desplazar la vista hasta allí.
+
+Cada elemento muestra la misión actual de la nave, así como la carga y los pasajeros que transporta.

@@ -1,0 +1,81 @@
+La investigación desbloquea tecnologías para construir naves y bases. También proporciona nuevas capacidades al imperio, como colonizar otros tipos de planetas o levantar nuevas instalaciones planetarias.
+
+Para obtener esas tecnologías y capacidades debes investigar los proyectos específicos que desbloquean cada avance.
+
+Investigar proyectos lleva tiempo. La velocidad depende de la producción de investigación de tus colonias y estaciones de investigación.
+
+La investigación puede proporcionar las siguientes ventajas:
+[ULI]Nuevos cascos con los que construir otros tipos de naves o bases.[/ULI]
+[ULI]Componentes completamente nuevos que proporcionan nuevas capacidades a tus naves y bases.[/ULI]
+[ULI]Mejoras para componentes existentes: las naves y bases que los utilizan reciben sus nuevas capacidades de forma automática e inmediata. Así se reduce la necesidad de modernizarlas para aprovechar los avances científicos.[/ULI]
+[ULI]Nuevas instalaciones planetarias para tus colonias.[/ULI]
+[ULI]Capacidad para colonizar nuevos tipos de planetas.[/ULI]
+[ULI]Capacidades mejoradas para las unidades de tropas.[/ULI]
+[ULI]Bonificaciones para el imperio en distintas áreas.[/ULI]
+[ULI]Mejoras diplomáticas con determinadas razas alienígenas.[/ULI]
+
+[H2]Pantalla de investigación[/H2]
+Puedes consultar los proyectos disponibles en la pantalla Investigación (F10).
+
+La parte izquierda contiene los proyectos de los niveles tecnológicos más bajos, disponibles al comenzar una partida nueva.
+
+El nivel tecnológico aumenta conforme avanzas hacia la derecha.
+
+Sitúa el cursor sobre un proyecto para consultar la tecnología y las demás ventajas que proporciona.
+
+[H3]Orden de investigación[/H3]
+Los proyectos están conectados mediante rutas. Debes completar los proyectos previos antes de investigar los que dependen de ellos. Al terminar uno se habilitan sus proyectos derivados, normalmente situados a la derecha.
+
+[H3]Investigación ciega o visible[/H3]
+Si la partida utiliza investigación ciega, además de las tecnologías ya descubiertas solo podrás ver los siguientes proyectos disponibles.
+
+Si la partida permite ver toda la investigación, todos los proyectos serán visibles desde el principio.
+
+[H3]Poner proyectos en cola[/H3]
+Haz clic izquierdo en un proyecto para añadirlo a la cola de investigación. Puedes poner en cola hasta 15 proyectos.
+
+Si dispones de varias estaciones de investigación, puedes investigar más de un proyecto a la vez. Define el máximo de proyectos simultáneos en la sección Investigación de la pantalla Políticas del imperio (tecla P).
+
+Cada proyecto comenzará en cuanto se completen todos los que lo preceden en la cola.
+
+[H3]Tecnologías exclusivas de cada raza[/H3]
+Algunos proyectos están limitados a determinadas razas alienígenas y nadie más puede investigarlos.
+
+Sin embargo, a veces es posible obtener esas tecnologías por otros medios, como comerciando con una raza que ya las posea.
+
+Ten en cuenta que no puedes transferir a otro imperio una tecnología obtenida mediante el comercio: no la comprendes lo suficiente como para explicársela.
+
+[H3]Costes de iniciación[/H3]
+Algunos proyectos exigen pagar un coste de iniciación antes de comenzar. Este puede incluir dinero y recursos.
+
+Al añadir a la cola un proyecto con costes de iniciación, aparecerá una ventana para que apruebes el pago.
+
+[H3]Requisitos adicionales[/H3]
+Algunos proyectos exigen bonificaciones de investigación adicionales. Solo podrás iniciarlos cuando alcances la cantidad necesaria del tipo correspondiente; por ejemplo, ciertos proyectos avanzados de escudos requieren un nivel mínimo de bonificaciones de investigación de escudos.
+
+La exploración permite descubrir lugares con bonificaciones para áreas concretas. Construye allí una estación de investigación para incorporar esas bonificaciones a tu imperio.
+
+[H3]Investigación intensiva[/H3]
+Puedes acelerar un proyecto importante mediante la investigación intensiva, pagando dinero para duplicar su velocidad de investigación.
+
+Para iniciar una investigación intensiva, selecciona el primer proyecto que se esté investigando, es decir, el primero de la cola. Una ventana mostrará el coste y solicitará tu confirmación. Los proyectos acelerados se identifican mediante un cronómetro en su esquina superior izquierda.
+
+[H2]Fuentes y producción de investigación[/H2]
+La producción de investigación procede tanto de la población de tus colonias como de las estaciones que construyas.
+
+Para aprovechar toda tu producción, debes destinar fondos excedentes a la investigación. Una financiación completa permite acceder antes a nuevas tecnologías.
+
+Puedes asignar fondos desde la pantalla Niveles de financiación de la sección Imperio (Mayús+F2).
+
+[H3]Estaciones de investigación[/H3]
+Conviene construir estaciones de investigación en lugares que proporcionen bonificaciones. Estas proceden de anomalías galácticas inusuales, a menudo situadas cerca de agujeros negros, estrellas de neutrones y otros enclaves exóticos.
+
+La lista Nuevas ubicaciones de investigación (Mayús+F9) muestra los mejores lugares donde construir estaciones nuevas.
+
+Usa el botón situado a la derecha de cada fila para poner en cola una estación en ese lugar. La siguiente nave de construcción disponible se encargará de levantarla. Vuelve a pulsar el botón para cancelar la orden.
+
+Cuando la estación esté terminada, las bonificaciones del lugar se sumarán a las bonificaciones generales de investigación de tu imperio.
+
+Las bonificaciones de investigación son importantes por dos motivos:
+[ULI]Aumentan la velocidad de los proyectos del tipo correspondiente; por ejemplo, las bonificaciones de construcción aceleran la investigación de nuevos cascos.[/ULI]
+[ULI]Como se explicó antes, algunos proyectos solo pueden iniciarse al alcanzar suficientes bonificaciones de un tipo determinado; por ejemplo, ciertos proyectos avanzados de escudos exigen un nivel mínimo de bonificaciones de investigación de escudos.[/ULI]

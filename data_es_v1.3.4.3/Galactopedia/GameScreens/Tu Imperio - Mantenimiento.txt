@@ -1,0 +1,7 @@
+Esta pantalla muestra los costes de mantenimiento de todas las Naves y Bases de tu Imperio, tanto estatales como privadas.
+
+La sección Militar muestra la cantidad y el mantenimiento total de las Naves militares de cada cometido.
+
+La sección Otros muestra la cantidad y el mantenimiento total de las demás Naves y Bases estatales de cada cometido.
+
+La sección Sector Privado muestra la cantidad y el mantenimiento total de las Naves y Bases privadas de cada cometido.

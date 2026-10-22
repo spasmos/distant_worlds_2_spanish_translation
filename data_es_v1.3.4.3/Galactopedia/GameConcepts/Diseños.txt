@@ -1,0 +1,34 @@
+Todas las naves y bases de tu imperio utilizan diseños, que actúan como plantillas o planos para construirlas.
+
+[H3]Cascos de naves[/H3]
+Los cascos forman la superestructura de una nave o base. Cada uno tiene un cometido, como Carguero pequeño, Estación minera o Fragata.
+
+Los cascos tienen un tamaño intrínseco, correspondiente al propio casco, y un tamaño máximo que limita el diseño completo con todos sus componentes.
+
+Algunos incorporan cierto nivel de blindaje reactivo, por lo que resisten mejor el fuego enemigo incluso sin añadir componentes de blindaje al diseño.
+
+La construcción de los cascos también requiere recursos.
+
+[H3]Bahías de componentes[/H3]
+Los cascos contienen bahías, espacios destinados a alojar distintos tipos de componentes del diseño.
+
+Existen seis tipos de bahías y cada uno admite únicamente determinados componentes:
+[ULI]General: centros de mando, alojamientos de tripulación, depósitos de combustible, reactores, hipermotores, bodegas de carga, compartimentos de pasajeros y tropas, extractores mineros, colectores de energía y todos los demás.[/ULI]
+[ULI]Armas: armas o rayos tractores.[/ULI]
+[ULI]Motores: motores y propulsores vectoriales.[/ULI]
+[ULI]Defensa: blindaje, escudos o control de daños.[/ULI]
+[ULI]Hangares: módulos de atraque, astilleros o hangares de cazas.[/ULI]
+[ULI]Sensores: escáneres, contramedidas, computadoras de adquisición de objetivos, módulos de prospección e inhibidores de escáneres.[/ULI]
+
+Cada bahía tiene además un tamaño máximo y no admite componentes que lo superen.
+
+[H3]Componentes[/H3]
+Los diseños reúnen los componentes que proporcionan todas las funciones necesarias para un tipo concreto de nave o base. Cada componente se instala en una bahía compatible del casco.
+
+Algunos componentes son obligatorios en todos los diseños. Por ejemplo, cualquier nave o base necesita reactores, depósitos de combustible, alojamientos de tripulación y centros de mando.
+
+Otros componentes son más especializados, como los astilleros, laboratorios de investigación y módulos de atraque.
+
+El progreso de la investigación desbloquea mejoras para los componentes existentes que aumentan automáticamente las capacidades de tus naves y bases.
+
+Algunos avances proporcionan componentes completamente nuevos. Cuando estén disponibles, actualiza tus diseños para incorporarlos.

@@ -1,0 +1,23 @@
+Los interceptores y bombarderos son pequeñas naves monoplaza transportadas a bordo de una nave militar mayor. Son rápidos y maniobrables y atacan mientras su portanaves mantiene una distancia segura.
+
+Los cazas no requieren dinero ni recursos para su construcción o mantenimiento. Tampoco tienen hipermotores y solo pueden viajar a velocidades sublumínicas, por lo que deben transportarse en otra nave o base.
+
+Existen dos tipos de cazas:
+[ULI]Interceptores, dedicados principalmente a atacar otros cazas.[/ULI]
+[ULI]Bombarderos, más eficaces contra objetivos grandes como naves y bases.[/ULI]
+
+Investiga nuevos cascos y componentes de cazas en la pantalla Investigación. Después podrás diseñar tus propios interceptores y bombarderos en Diseño de naves.
+
+[H3]Hangares de cazas[/H3]
+Para construir cazas necesitas una nave o base con hangares de cazas. Selecciónala en el Panel de selección y pulsa el botón morado 'Gestionar cazas'. Se mostrarán los controles para construir y lanzar interceptores y bombarderos.
+
+Los hangares fabrican, transportan y reparan cazas. Son componentes investigables que pueden instalarse en cualquier nave o base militar. Cada hangar alberga una cantidad concreta, normalmente entre 4 y 24 cazas.
+
+Los cazas no pueden transferirse entre portanaves: quedan asignados de forma permanente a aquel donde se construyeron. Si el portanaves es destruido, sus cazas también lo serán.
+
+[H3]Bases planetarias de cazas[/H3]
+También puedes construir instalaciones de bases de cazas en tus colonias. Permiten albergar numerosos cazas directamente en la colonia sin necesidad de una base orbital o portanaves.
+
+Primero debes investigar el proyecto correspondiente en la pantalla Investigación. Después podrás construir la instalación en una colonia.
+
+Cuando una colonia dispone de una base de cazas, puedes construirlos y lanzarlos como en un portanaves. Selecciona la colonia y pulsa 'Gestionar cazas' bajo el Panel de selección.

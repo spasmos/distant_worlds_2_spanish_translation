@@ -1,0 +1,15 @@
+Algunos lugares son peligrosos porque contienen amenazas hostiles conocidas, normalmente objetivos móviles como naves piratas y criaturas espaciales letales. Estas amenazas suelen desplazarse entre lugares, por lo que la información es transitoria y se actualiza con frecuencia.
+
+Las naves civiles no viajarán a un lugar donde haya amenazas hostiles. Las Naves de construcción no levantarán bases allí, las Naves de exploración no seguirán investigándolo, las Naves mineras no extraerán recursos y los cargueros no recogerán ni entregarán mercancías.
+
+[H3]Lista de lugares peligrosos[/H3]
+Esta pantalla enumera los lugares que contienen amenazas hostiles conocidas. Consulta las opciones de ordenación y filtrado de la parte superior. Puedes filtrar por cada clase de amenaza, incluidos tipos concretos de criatura espacial.
+
+En los niveles de la galaxia y del sistema, los lugares peligrosos aparecen resaltados en el mapa. Las insignias de sistema y ubicación también los identifican mediante un icono de rayo rojo. Pasa el cursor sobre un elemento para señalar su posición, haz clic para seleccionarla o haz doble clic para desplazar la vista hasta allí.
+
+Cada elemento muestra la amenaza principal y la fuerza hostil total del lugar. También indica cuándo se actualizó la información por última vez y, por tanto, su fiabilidad.
+
+[H3]Poner en cola la investigación y el despeje[/H3]
+El botón de la derecha permite poner en cola la investigación y el despeje de un lugar peligroso. La siguiente Flota adecuada que quede disponible se desplazará hasta allí y eliminará las amenazas que encuentre. Vuelve a hacer clic para cancelar la investigación.
+
+Si no puedes investigar el lugar, el botón Cola estará desactivado. Su descripción emergente explicará el motivo.

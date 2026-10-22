@@ -1,0 +1,3 @@
+Usa los botones de Opciones tácticas para establecer las tácticas predeterminadas del diseño nuevo. Las Naves y Bases construidas con él utilizarán inicialmente estos valores.
+
+Una vez construidas, las Naves pueden establecer sus propias tácticas, aunque las iniciales proceden de su diseño.

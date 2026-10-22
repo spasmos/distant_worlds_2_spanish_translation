@@ -1,0 +1,15 @@
+Los Embajadores de tu Imperio aparecen en esta lista.
+
+Pasa el cursor sobre la entrada de un Embajador y haz clic para mantener abierto el panel de detalles de la derecha.
+
+Puedes cambiar su nombre haciendo clic en el que aparece bajo el retrato y escribiendo uno nuevo.
+
+[H3]Ubicación del Embajador[/H3]
+Los Embajadores aportan beneficios diplomáticos y de espionaje a tu relación con otra Facción. Para asignar uno a una Facción concreta, envíalo a su Capital.
+
+Usa la lista desplegable de ubicación y el botón «Transferir» para asignarlo a la Facción deseada.
+
+También puedes automatizarlo para que tus asesores diplomáticos elijan la mejor ubicación. Usa el botón «Automatizar» situado bajo el retrato de la derecha.
+
+[H3]Eventos[/H3]
+En la parte inferior del panel de detalles aparece una lista de todos los eventos en los que ha participado. Algunos pueden mejorar o reducir sus habilidades, o proporcionarle nuevos Rasgos de personaje.

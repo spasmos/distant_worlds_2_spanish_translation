@@ -1,0 +1,11 @@
+Las Plantillas de flota permiten definir su composición y el número de naves de cada cometido, además de agrupar unas opciones tácticas predeterminadas. Después puedes crear Flotas nuevas a partir de ellas.
+
+Las Flotas intentan incluir las cantidades y cometidos indicados en su plantilla. Si no hay suficientes naves disponibles de uno de ellos, recurren a otros para completar el número total.
+
+[H3]Tipos de Plantilla de flota[/H3]
+Cada cometido de Flota dispone de una plantilla predeterminada: «Atacar», «Incursión», «Defender» e «Invadir». También puedes crear manualmente otras plantillas para cada cometido.
+
+[H3]Crear Flotas mediante plantillas[/H3]
+Puedes formar una Flota seleccionando sus naves personalmente, pero la pantalla Plantillas de flota ofrece dos métodos más rápidos.
+
+Selecciona la plantilla deseada y pulsa «Formar nueva flota» para reunir naves existentes o «Construir nueva flota» para encargar naves nuevas.

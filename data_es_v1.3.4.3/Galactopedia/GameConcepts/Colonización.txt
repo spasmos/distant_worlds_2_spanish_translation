@@ -1,0 +1,56 @@
+Las colonias son los mundos habitados de tu imperio. Constituyen un elemento esencial, pues generan la riqueza que lo sostiene.
+
+Las colonias aportan ingresos fiscales para financiar el gobierno, pero necesitan tiempo para crecer. Concentra tus defensas, tanto tropas como naves, en las colonias consolidadas: estos mundos centrales son la clave de tu crecimiento inicial.
+
+[H3]Colonizar nuevos mundos[/H3]
+Para fundar colonias debes construir naves colonizadoras y enviarlas a reclamar planetas para tu imperio. La nave se consume y desaparece al establecer la nueva colonia.
+
+Por lo general, solo puedes establecer colonias en sistemas que no pertenezcan ya al territorio de otro imperio.
+
+Las colonias independientes son una excepción: puedes incorporarlas aunque estén dentro del territorio de otro imperio. Sin embargo, hacerlo ofenderá al propietario del sistema y perjudicará vuestras relaciones.
+
+[H3]Idoneidad planetaria[/H3]
+Para albergar una colonia viable, un planeta o una luna debe ser suficientemente adecuado para la raza que lo colonice. Cada raza se adapta mejor a ciertos tipos de planeta, considerados sus tipos «nativos», y suele encontrar entre ellos sus mejores objetivos de colonización.
+
+La idoneidad depende de las características de la raza y de la calidad del propio planeta.
+
+Cada tipo de planeta tiene un intervalo de calidad habitual. Por ejemplo, los planetas de Desierto Arenoso presentan una calidad de entre el 25 % y el 50 %.
+
+La idoneidad de una raza para un planeta concreto se calcula mediante esta fórmula:
+
+(Calidad del planeta - Idoneidad mínima de la raza para ese planeta) + Idoneidad de la raza para ese planeta
+
+Por ejemplo, los teekanos reciben +30 de idoneidad en planetas de Desierto Arenoso. Además, su idoneidad mínima para esos planetas es 40, frente al valor predeterminado de 50. Por tanto, un planeta de Desierto Arenoso con un 30 % de calidad tiene para ellos una idoneidad de colonización de +20: ((30 - 40) + 30) = 20.
+
+[H3]Elegir objetivos y mejorar la idoneidad[/H3]
+Normalmente solo deberías colonizar planetas con una idoneidad de 20 o más.
+
+En ocasiones puede interesarte colonizar un planeta con menos de 20 de idoneidad, por ejemplo si ocupa una posición estratégica o proporciona bonificaciones especiales.
+
+Recuerda que los planetas con poca idoneidad consumen recursos netos del imperio: mantenerlos cuesta más dinero del que producen.
+
+La idoneidad no solo determina si un planeta puede colonizarse. Las colonias más adecuadas generan más ingresos, tienen poblaciones más felices y crecen con mayor rapidez.
+
+Puedes mejorar la idoneidad de varias formas:
+[ULI]La investigación de colonización puede aumentar la idoneidad para distintos tipos de planeta.[/ULI]
+[ULI]La investigación de terraformación puede permitirte mejorar la calidad planetaria.[/ULI]
+[ULI]Puedes incorporar al imperio razas alienígenas mejor adaptadas para que colonicen los planetas adecuados para ellas.[/ULI]
+
+[H3]Ventajas de las colonias independientes[/H3]
+Siempre puedes colonizar un planeta que ya albergue una población alienígena independiente, pues sus habitantes están adaptados al mundo.
+
+Las colonias independientes son objetivos valiosos: su numerosa población ya establecida proporciona una ventaja inicial y permite que el nuevo mundo genere ingresos rápidamente.
+
+También ofrecen otra ventaja importante: sus habitantes suelen poder colonizar tipos de planetas y lunas inaccesibles para tu raza. Al incorporarlos podrás establecer colonias en mundos que de otro modo no podrías ocupar.
+
+[H3]Colonizar mundos independientes[/H3]
+La mayoría de las colonias independientes no aceptarán integrarse hasta que hayas entablado amistad con ellas.
+
+Mejora las relaciones mediante tratados comerciales y regalos. Con el tiempo podrían confiar lo suficiente en ti como para invitarte a colonizarlas. Entonces podrás enviar una nave colonizadora e integrar el mundo en tu imperio.
+
+[H3]Invadir mundos independientes[/H3]
+Por desgracia, algunas especies son tan hostiles que nunca responderán favorablemente a tu diplomacia.
+
+También puedes invadir una colonia independiente, desembarcar tropas y tomar el planeta por la fuerza.
+
+Ten presente que invadir colonias independientes dañará tu reputación diplomática ante otras facciones. Además, la población recién conquistada estará muy descontenta y necesitarás una guarnición numerosa para contener cualquier rebelión.

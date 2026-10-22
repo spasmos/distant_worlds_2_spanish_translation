@@ -1,0 +1,47 @@
+
+GREETING_INTRODUCTION			;¡Bienvenido, visitante de otro mundo! Somos los alegres securanos de {0}.\n\nPonte cómodo y cuéntanos el motivo de tu visita
+GREETING_FRIENDLY			;¿Qué tema deberíamos tratar con nuestro querido amigo?
+GREETING_NEUTRAL			;¿Hay algo de lo que te gustaría hablar?
+GREETING_ANGRY				;Expón tu caso rápidamente. Tenemos poco tiempo para ti
+
+OFFER_FREETRADE				;Comparecemos ante ti para ofrecerte un acuerdo de libre comercio.\n\nEste tratado sería muy rentable para nuestros dos imperios. ¡Y podríamos exportarte parte de nuestra exquisita comida y nuestro vino!\n\n¿Estás de acuerdo?
+FREETRADE_ACCEPT			;¡Aceptamos con entusiasmo tu oferta de un acuerdo de libre comercio!\n\nPara empezar, prueba esta deliciosa muestra de bistec Bakdur que te hemos enviado.
+FREETRADE_REJECT			;Lamentablemente, ahora mismo no nos conviene un acuerdo de libre comercio. Aunque quizá cambiemos de opinión más adelante
+
+CANCELTREATY				;Nuestro {0} contigo ya ha durado bastante. Este tratado queda cancelado
+CANCELTREATY_RESPONSE_FRIENDLY		;Qué lamentable que ya no valores nuestra amistad. Pero es tu elección
+CANCELTREATY_RESPONSE_NEUTRAL		;Los tratados vienen y van. Pero las cosas importantes permanecen: cantar y bailar, comer y beber
+CANCELTREATY_RESPONSE_ANGRY		;No perdemos nada: este tratado no valía nada de todos modos. ¡Igual que tu insignificante imperio!
+
+TREATY_PROPOSAL				;¿Cuál es tu oferta?
+TREATY_ACCEPTRESPONSE			;¡Nos llena de alegría que aceptes! ¡Compondremos una canción en honor de esta gran ocasión!
+TREATY_REJECTRESPONSE			;¡Qué típico! Tu gente es bastante desagradable, ¿no?
+
+TRADESANCTIONS_IMPOSE			;Te hemos cocinado una cosita: ¡sanciones comerciales!\n\nTus provocaciones nos han obligado a poner fin a todo comercio entre nuestros dos imperios.\n\nEsperamos que esta lección te enseñe a comportarte de forma civilizada
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY	;Eres un pequeño déspota bastante malvado, ¿no?\n\n¡Pero unas simples sanciones comerciales no nos doblegarán!
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL	;No nos impresionan tus lamentables sanciones comerciales.\n\nAhora te ignoraremos...
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED	;¡¿Por qué impones sanciones comerciales a tus amigos?!\n\nNo puedes hablar en serio...
+TRADESANCTIONS_LIFT			;Hemos decidido poner fin a nuestras sanciones comerciales contra ti.\n\nAhora se reanudará el comercio normal
+TRADESANCTIONS_LIFT_RESPONSE		;¡Sabíamos que no podrías resistir mucho tiempo sin acceso a nuestro delicioso bistec Bakdur!\n\nQue esto te sirva de lección
+
+WAR_DECLARE				;Con gran tristeza debemos informarte de lo siguiente: ahora existe un estado de GUERRA entre nosotros.\n\n¡Debemos poner fin de una vez por todas a tus actividades traicioneras!
+WAR_DECLARE_RESPONSE_EAGER		;¡Otra decisión insensata por tu parte!\n\nEsta guerra será tu fin. ¡Prepárate para la aniquilación!
+WAR_DECLARE_RESPONSE_NEUTRAL		;¡Lucharemos con valor e intensidad!\n\nEl sufrimiento recaerá sobre ti, no sobre nosotros
+WAR_DECLARE_RESPONSE_SURPRISED		;¡¿Qué?! ¿Ya no somos amigos?\n\nDebe de haber algún error...
+
+WAR_END					;Instamos a poner fin a esta guerra inútil entre nosotros.\n\n¿Qué dices?
+WAR_END_ACCEPT				;Estamos de acuerdo. Pongamos fin a esta guerra de inmediato.\n\nNuestras fuerzas militares regresarán a sus bases
+WAR_END_REJECT				;No. ¡Seguiremos luchando hasta aplastar a tu vil imperio!
+
+GIFT_GIVE				;Te ofrecemos con alegría un regalo de {0} créditos.\n\nQue nuestra amistad se haga cada vez más fuerte
+GIFT_THANKS				;Gracias por tu regalo. Te lo agradecemos mucho
+
+WARNING						;¿Una advertencia para nosotros? Nos preguntamos de qué podría tratarse
+WARNING_INTELLIGENCEMISSIONS			;¡Estamos cansados de tus traicioneras misiones encubiertas contra nosotros!\n\n¡Detenlas ahora, gusano patético!
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY	;No tenemos constancia de ninguna misión contra ti, amigo mío, pero investigaremos esta situación de inmediato.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL	;Ten por seguro que investigaremos este incidente.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY	;¿Misiones encubiertas? ¿Qué misiones? Si hubiera alguna, desde luego no hablaríamos contigo de ella. Pero no hay ninguna misión de todos modos... ¡Así que deja de ser tan paranoico!
+WARNING_ATTACKS					;¡Tus ataques militares sin provocación encienden un fuego de ira en nosotros!\n\n¡No avives más este fuego o podría consumirte!
+WARNING_ATTACKS_RESPONSE_FRIENDLY		;Qué terrible. Acepta nuestras sinceras disculpas por cualquier actuación demasiado entusiasta de nuestros comandantes militares.
+WARNING_ATTACKS_RESPONSE_NEUTRAL		;Investigaremos este incidente y nos ocuparemos del comandante militar responsable.
+WARNING_ATTACKS_RESPONSE_ANGRY			;¿Ataques? No perderíamos el tiempo atacando a un imperio tan patético como el tuyo.

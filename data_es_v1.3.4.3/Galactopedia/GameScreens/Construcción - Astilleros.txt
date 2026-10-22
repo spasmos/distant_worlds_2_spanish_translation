@@ -1,0 +1,13 @@
+Los Astilleros son las instalaciones donde construyes nuevas naves para tu imperio. Entre ellos se incluyen los puertos espaciales, que suelen ser la opción más rápida. Tus Colonias también pueden construir naves y bases.
+
+[H3]Lista de Astilleros[/H3]
+Esta pantalla enumera todos los Astilleros de tu imperio. Consulta las opciones de ordenación y filtrado en la parte superior. Puedes ordenarlos por velocidad de construcción o tiempo de espera actual.
+
+Al alejar la vista hasta el nivel de galaxia o sistema, los Astilleros se resaltan en el mapa. Los distintivos de sistema y ubicación también señalan los puertos espaciales mediante el icono amarillo de construcción. Sitúa el cursor sobre una entrada para señalarla, haz clic para seleccionar su ubicación o doble clic para desplazar allí la vista.
+
+[H3]Cola de construcción y tiempo de espera[/H3]
+Cada entrada muestra el tiempo de espera actual antes de que pueda comenzar una nueva construcción.
+
+También aparecen las naves y bases de la cola, incluidas las naves que se dirigen allí para ser reparadas o modernizadas y aún no han llegado. Sitúa el cursor sobre cada elemento para consultar más detalles, incluido el porcentaje de progreso.
+
+Al situar el cursor sobre una entrada también aparece a la derecha un panel de resumen. Este indica cuántos Astilleros individuales posee la ubicación, el tiempo de espera actual y las velocidades de construcción y reparación.

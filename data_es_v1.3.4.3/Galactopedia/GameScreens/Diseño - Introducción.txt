@@ -1,0 +1,15 @@
+La pantalla Diseño de naves permite crear diseños nuevos para Naves, Bases y Cazas.
+
+Para generar uno, añade Componentes a las Bahías de un Casco.
+
+El diseño debe cumplir numerosos requisitos para considerarse válido. Por ejemplo:
+[ULI]todos los diseños necesitan un Centro de Mando[/ULI]
+[ULI]todos los diseños deben almacenar Combustible para que un Reactor genere energía[/ULI]
+[ULI]todas las Naves necesitan Motores para desplazarse[/ULI]
+
+Cada cometido tiene además sus propios requisitos.
+
+[H3]Botón Recomendaciones[/H3]
+Consulta el botón Recomendaciones y su panel emergente mientras añades Componentes. Se encuentran en la parte superior del panel Vista de diseño. Las recomendaciones opcionales aparecen en amarillo y las obligatorias, en rojo.
+
+No podrás guardar el diseño hasta que cumpla todos los requisitos.

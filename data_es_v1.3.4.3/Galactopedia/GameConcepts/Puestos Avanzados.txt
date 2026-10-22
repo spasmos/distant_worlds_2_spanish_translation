@@ -1,0 +1,44 @@
+Los Puestos Avanzados son pequeños asentamientos cerrados en superficie que pueden establecerse en planetas y lunas.
+
+Son ideales para asentarse en planetas que de otro modo serían inhóspitos para la colonización. Resultan especialmente útiles para obtener ruinas importantes con bonificaciones para el imperio o recursos valiosos.
+
+[H3]Diferencias respecto a las Colonias[/H3]
+Aunque los Puestos Avanzados se parecen en ciertos aspectos a las Colonias, presentan varias diferencias importantes.
+
+La principal diferencia es que los Puestos Avanzados no crecen más allá de su población inicial.
+
+Los Puestos Avanzados tampoco pagan impuestos, por lo que no generan ingresos.
+
+Pueden establecerse en cualquier planeta o luna de superficie sólida cuya idoneidad sea de -50 o superior.
+
+[H3]Costes de mantenimiento[/H3]
+Los costes de mantenimiento de un Puesto Avanzado dependen de la idoneidad de su población para el planeta. Una idoneidad menor aumenta los costes, mientras que una mejor idoneidad los reduce.
+
+Por tanto, los Puestos Avanzados siempre suponen una pérdida neta para tu economía: nunca generan dinero, pero siempre tienen costes de mantenimiento.
+
+Debes valorar con cuidado si realmente te conviene establecer uno. El Puesto Avanzado debería proporcionar un beneficio claro que compense sus costes de mantenimiento.
+
+[H3]Los Puestos Avanzados reclaman territorio[/H3]
+Los Puestos Avanzados también reclaman todo su sistema como territorio de tu imperio.
+
+Sin embargo, como no crecen, su territorio nunca se proyectará más allá del sistema.
+
+[H3]Restricciones[/H3]
+Los Puestos Avanzados también presentan algunas restricciones:
+[ULI]no pueden construir nuevas naves ni bases[/ULI]
+[ULI]no pueden construir la mayoría de las instalaciones planetarias[/ULI]
+[ULI]no pueden reclutar tropas[/ULI]
+
+También existe un límite total: solo puedes tener un Puesto Avanzado por cada Colonia de tu imperio.
+
+[H3]Establecimiento de nuevos Puestos Avanzados[/H3]
+Para establecer un Puesto Avanzado debes enviar una Nave Colonizadora al planeta objetivo. En lugar de una misión de 'Colonización', la nave realizará una de 'Establecer Puesto Avanzado'.
+
+También puedes utilizar la lista Nuevas colonias para poner Puestos Avanzados en cola, igual que haces con la Colonización.
+
+Asimismo, puedes usar el botón de acción 'Poner Puesto Avanzado en cola', situado bajo el Panel de selección, en cualquier planeta o luna deshabitado que cumpla los requisitos.
+
+[H3]Conversión de Puestos Avanzados en Colonias[/H3]
+Puedes convertir un Puesto Avanzado en una Colonia completa pagando un coste de mejora. Para ello, la idoneidad de la especie dominante del Puesto Avanzado debe ser superior a cero.
+
+Selecciona el Puesto Avanzado en el Panel de selección. Bajo el panel aparecerá el botón de acción 'Pasar a Colonia'. Haz clic para pagar el coste y completar la conversión. La colonia crecerá con normalidad, con sus costes de mantenimiento, ingresos e impuestos, y podrá reclutar tropas y construir instalaciones, naves y bases.

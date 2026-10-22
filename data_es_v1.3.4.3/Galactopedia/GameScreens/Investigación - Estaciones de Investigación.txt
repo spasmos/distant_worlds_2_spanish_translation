@@ -1,0 +1,6 @@
+Esta pantalla enumera todas las ubicaciones de Investigación de tu imperio, incluidas las Estaciones de investigación y cualquier otra base con laboratorios. Consulta las opciones de ordenación y filtrado en la parte superior. Puedes filtrar por bonificaciones concretas para localizar rápidamente todas las bases dedicadas a un área de investigación.
+
+Al alejar la vista hasta el nivel de galaxia o sistema, las ubicaciones de Investigación se resaltan en el mapa. Sitúa el cursor sobre una entrada para señalarla, haz clic para seleccionar su ubicación o doble clic para desplazar allí la vista.
+
+[H3]Producción de investigación[/H3]
+Cada entrada muestra la Producción de investigación y las bonificaciones de la ubicación. Sitúa el cursor sobre la descripción de una bonificación para consultar el resumen completo y su procedencia. Los Científicos a bordo de la base aparecen en la esquina superior derecha.

@@ -1,0 +1,33 @@
+El turismo consiste en transportar pasajeros de vacaciones desde las colonias hasta las bases turísticas.
+
+Naves de pasajeros privadas transportan a los turistas hasta su destino. El turismo pertenece por completo al sector privado de tu imperio, por lo que no controlas sus desplazamientos.
+
+El turismo puede ser una fuente importante de ingresos extras para tu imperio.
+
+[H3]Ubicaciones pintorescas y bases turísticas[/H3]
+Las bases turísticas son bases especiales construidas en ubicaciones pintorescas de toda la galaxia. Estas ubicaciones pueden ser:
+[ULI]Planetas con anillos.[/ULI]
+[ULI]Agujeros negros.[/ULI]
+[ULI]Estrellas de neutrones.[/ULI]
+[ULI]Planetas con ruinas inusuales o monumentos antiguos.[/ULI]
+[ULI]Colonias con maravillas.[/ULI]
+[ULI]Planetas o lunas con formaciones naturales espectaculares.[/ULI]
+
+[H3]Bonificaciones de paisaje[/H3]
+Las ubicaciones pintorescas tienen una bonificación de paisaje que indica su valor y procedencia, por ejemplo: '+10 % por una extensa red de túneles submarinos'.
+
+Para consultar las bonificaciones de paisaje de una estrella, un planeta, una luna o un asteroide:
+[OLI]Selecciona la ubicación.[/OLI]
+[OLI]En el Panel de selección, sitúa el cursor sobre el área 'Bonus de ubicación'.[/OLI]
+[OLI]Una descripción emergente mostrará todas las bonificaciones de la ubicación, incluidas las de paisaje.[/OLI]
+
+Puedes encontrar ubicaciones pintorescas sin explotar en la lista 'Nuevas ubicaciones turísticas' de la sección Civil del Centro de control. Usa los botones 'Construir base turística' de la derecha para poner en cola bases nuevas en las ubicaciones que prefieras.
+
+Ten en cuenta que las colonias con bonificaciones de paisaje atraen turistas sin necesidad de construir en ellas una base turística.
+
+La cantidad de turistas que atrae una base depende del atractivo paisajístico de su ubicación y de la proximidad de colonias grandes y prósperas. Sus habitantes adinerados buscan destinos pintorescos para sus viajes.
+
+[H3]Ingresos por turismo[/H3]
+Los ingresos se generan cuando una nave de pasajeros llega a una base turística y su cuantía depende del número de pasajeros transportados. Estos ingresos variables aparecen en la pantalla Economía (F2), en la partida 'Turismo' de la sección 'Ingresos extras anuales'.
+
+El turismo también cruza las fronteras imperiales mientras los dos imperios no estén en guerra. Por tanto, las naves de pasajeros pueden transportar visitantes desde una colonia de un imperio hasta una base turística de otro.

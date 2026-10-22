@@ -1,0 +1,9 @@
+Esta pantalla enumera todos los Cargueros de tu Imperio.
+
+Forman parte de la economía civil, por lo que no puedes asignarles misiones. En su lugar, buscan sus propias tareas y transportan carga entre distintos lugares.
+
+Consulta las opciones de ordenación y filtrado de la parte superior. Puedes filtrar los Cargueros según transporten recursos para combustible, para construcción o de lujo.
+
+En los niveles de la galaxia y del sistema, los Cargueros aparecen resaltados en el mapa. Pasa el cursor sobre un elemento para señalar su posición, haz clic para seleccionarlo o haz doble clic para desplazar la vista hasta allí.
+
+Cada elemento muestra la misión actual de la nave y la carga que transporta.

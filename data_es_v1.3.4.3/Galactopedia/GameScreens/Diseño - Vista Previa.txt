@@ -1,0 +1,21 @@
+El centro de la pantalla muestra una vista previa del diseño.
+
+Mantén pulsado el botón derecho del ratón y muévelo horizontal o verticalmente para girar la vista.
+
+Usa la rueda del ratón para acercar o alejar la vista previa.
+
+[H3]Marcadores de Bahías externas[/H3]
+Las Bahías externas aparecen en la vista previa como marcadores esféricos cuyo color corresponde al tipo de Bahía.
+
+Puedes mostrar u ocultar estos marcadores mediante el botón situado a la derecha del área Opciones tácticas.
+
+Para colocar Componentes directamente en las Bahías externas de la vista previa:
+[OLI]selecciona uno en la lista Componentes disponibles[/OLI]
+[OLI]las Bahías válidas quedarán resaltadas en la vista previa[/OLI]
+[OLI]haz clic con el botón izquierdo en la Bahía donde quieras añadirlo[/OLI]
+
+También puedes:
+[ULI]hacer clic con el botón derecho en una Bahía de la vista previa para retirar el Componente que contiene[/ULI]
+
+[H3]Colocación de Motores[/H3]
+Al añadir un Motor, la Bahía utilizada puede no ser la seleccionada. Los Motores deben mantener la simetría y se colocan de forma alterna a cada lado del diseño.

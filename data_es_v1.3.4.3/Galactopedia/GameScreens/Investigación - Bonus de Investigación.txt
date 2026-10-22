@@ -1,0 +1,7 @@
+Esta pantalla enumera todas las bonificaciones de Investigación de tu imperio, separadas por tipo. Son importantes por dos motivos:
+[ULI]aumentan la velocidad de los proyectos cuyo tipo coincide; por ejemplo, las bonificaciones de Investigación de construcción aceleran el desarrollo de nuevos Cascos de nave[/ULI]
+[ULI]algunos proyectos exigen una bonificación mínima de un tipo concreto para poder iniciarse; por ejemplo, ciertos proyectos avanzados de Escudos requieren alcanzar un umbral de bonificaciones de Investigación de Escudos[/ULI]
+
+Al situar el cursor sobre un tipo de bonificación aparece a la derecha un panel con el desglose completo de todas sus fuentes.
+
+Las fuentes pueden ser ubicaciones donde hayas construido una Estación de investigación, Científicos u otros personajes, así como bonificaciones de especie o gobierno.

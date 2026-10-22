@@ -1,0 +1,10 @@
+En ocasiones, la Exploración descubre Ruinas antiguas que pueden albergar secretos y otros objetos valiosos.
+
+[H3]Lista de Ruinas conocidas[/H3]
+Esta pantalla enumera todas las Ruinas encontradas al explorar la galaxia.
+
+En los niveles de la galaxia y del sistema, sus ubicaciones aparecen resaltadas en el mapa. Pasa el cursor sobre un elemento de la lista para señalar su ubicación, haz clic para seleccionarla o haz doble clic para desplazar la vista hasta allí.
+
+Cada elemento muestra las bonificaciones proporcionadas por las Ruinas. Puedes obtenerlas para tu Imperio colonizando el planeta donde se encuentran. También puedes conseguir bonificaciones de Investigación construyendo allí una Estación de investigación, o bonificaciones de paisaje mediante una Base turística.
+
+Pasa el cursor sobre unas Ruinas de la lista para mostrar a la derecha un panel con información detallada.

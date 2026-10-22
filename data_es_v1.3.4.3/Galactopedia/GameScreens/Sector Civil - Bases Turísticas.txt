@@ -1,0 +1,5 @@
+Esta pantalla enumera todas las ubicaciones de Bases turísticas de tu Imperio. Son destinos turísticos a los que las Naves de pasajeros llevan turistas, generando así ingresos para el Imperio.
+
+En los niveles de la galaxia y del sistema, las Bases turísticas aparecen resaltadas en el mapa. Pasa el cursor sobre un elemento para señalar su posición, haz clic para seleccionarlo o haz doble clic para desplazar la vista hasta allí.
+
+Cada elemento muestra las bonificaciones de Paisaje de la ubicación.

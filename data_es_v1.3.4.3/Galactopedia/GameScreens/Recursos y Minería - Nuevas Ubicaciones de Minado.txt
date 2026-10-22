@@ -1,0 +1,17 @@
+Esta pantalla enumera posibles Ubicaciones de minado donde puedes construir Estaciones mineras nuevas.
+
+Consulta las opciones de ordenación y filtrado de la parte superior. Los filtros permiten buscar recursos concretos: los elementos amarillos representan recursos para construcción de naves y bases, mientras que los azules claros corresponden a recursos de lujo para desarrollar las Colonias.
+
+En los niveles de la galaxia y del sistema, las nuevas Ubicaciones de minado aparecen resaltadas en el mapa. Pasa el cursor sobre un elemento para señalar su posición, haz clic para seleccionarlo o haz doble clic para desplazar la vista hasta allí.
+
+Cada elemento muestra los recursos conocidos y su Abundancia. Si tu Imperio sufre escasez de uno de ellos, un borde rojo discontinuo rodeará su imagen. Pasa el cursor sobre cada recurso para consultar un resumen completo y las bonificaciones que proporciona.
+
+[H3]Poner en cola Estaciones mineras nuevas[/H3]
+El botón de la derecha permite poner en cola una Estación minera en esa ubicación. La siguiente Nave de construcción disponible acudirá para construirla. Vuelve a hacer clic en el botón para cancelar la orden.
+
+Si no puedes construir en la ubicación, el botón Cola estará desactivado. Su información emergente explicará el motivo.
+
+[H3]Ubicaciones peligrosas[/H3]
+Un icono de rayo rojo junto al nombre indica que la ubicación se considera peligrosa porque contiene amenazas sin eliminar, como Piratas o criaturas espaciales letales.
+
+Las naves no militares no viajarán a una ubicación peligrosa. Primero deben eliminar las amenazas las Naves militares o una Flota. Puedes poner en cola la Estación minera, pero la Nave de construcción no acudirá hasta que se eliminen las amenazas.

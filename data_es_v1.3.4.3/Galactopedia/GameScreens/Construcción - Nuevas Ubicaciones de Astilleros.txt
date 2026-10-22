@@ -1,0 +1,8 @@
+Esta pantalla enumera las Colonias donde puedes construir nuevos puertos espaciales. Consulta las opciones de ordenación y filtrado en la parte superior del panel.
+
+Al alejar la vista hasta el nivel de galaxia o sistema, las posibles ubicaciones de los nuevos puertos espaciales se resaltan en el mapa. Sitúa el cursor sobre una entrada para señalarla, haz clic para seleccionarla o doble clic para desplazar allí la vista.
+
+[H3]Nuevos puertos espaciales en cola[/H3]
+El botón de la derecha permite poner en cola un nuevo puerto espacial en la Colonia. Vuelve a pulsarlo para cancelar la construcción.
+
+Si no puedes construir en la ubicación, el botón Cola estará desactivado. Su información emergente explicará el motivo.

@@ -1,0 +1,38 @@
+Los impuestos de las colonias son la principal fuente de ingresos de tu imperio.
+
+La población de cada colonia desarrolla sus actividades privadas y genera riqueza. Tu imperio grava entonces los ingresos obtenidos por esos ciudadanos.
+
+[H3]Ingresos privados de las colonias[/H3]
+La relación entre los ingresos privados y los ingresos fiscales del Estado se muestra en la pantalla Economía (F2).
+
+La sección Economía Sector Privado > Ingresos anuales contiene la fila 'Ingresos SP', que muestra los ingresos totales generados por tus colonias.
+
+La sección Economía Estatal > Ingresos anuales contiene la fila 'Impuesto de la colonia', que muestra los ingresos fiscales totales que obtienes de tus colonias. Esta recaudación representa una parte de los 'Ingresos SP' mencionados anteriormente.
+
+[H3]Fórmula de ingresos coloniales[/H3]
+Los ingresos privados de una colonia se calculan de la siguiente manera:
+
+Ingresos coloniales = Población total x Nivel de desarrollo
+
+Tu imperio grava estos ingresos privados para obtener sus propios ingresos. Por tanto, para maximizar la recaudación fiscal debes favorecer el crecimiento de tus colonias y aumentar tanto su población como su nivel de desarrollo.
+
+[H3]Establecer las tasas de impuestos[/H3]
+Las tasas de impuestos de las colonias pueden establecerse entre el 0 y el 100 %. Si los habitantes consideran que la tasa es demasiado alta, disminuirá su aprobación y serán menos felices.
+
+Puedes dejar que las tasas de impuestos de tus colonias se controlen automáticamente, que es la opción predeterminada. En ese caso se establecerá una tasa adecuada al tamaño y al desarrollo de cada colonia. Consulta la sección 'Colonias y tasas de impuestos' de la pantalla Política del imperio (tecla P).
+
+También puedes decidir en cada colonia si automatizar el control de los impuestos mediante sus ajustes de automatización. Selecciona una colonia y pulsa el botón 'Establecer automatización de la colonia', situado bajo el Panel de selección. Después pulsa 'Automatizar tasas de impuestos' para alternar el modo en que se gestionan sus tasas.
+
+[H3]Impuestos y crecimiento colonial[/H3]
+Cuando se funda una colonia, la tasa de impuestos suele ser muy baja. Esto aumenta la felicidad de su población y favorece un crecimiento más rápido.
+
+A medida que aumentan el tamaño y el desarrollo de una colonia, puedes elevar la tasa y empezar a obtener de ella unos ingresos fiscales considerables.
+
+[H3]Corrupción[/H3]
+A medida que crece una colonia también aparece cierto grado inevitable de corrupción. Esta reduce los ingresos privados totales generados por la colonia y, por tanto, la cantidad de impuestos que recaudas.
+
+Algunos tipos de gobierno reducen la corrupción en las colonias: República, Tecnocracia y Mente Colmena.
+
+Otros gobiernos aumentan la corrupción: Gremio Mercantil, Feudalismo, Monarquía y Dictadura Militar.
+
+Las instalaciones de administración planetaria también pueden reducir las pérdidas causadas por la corrupción.

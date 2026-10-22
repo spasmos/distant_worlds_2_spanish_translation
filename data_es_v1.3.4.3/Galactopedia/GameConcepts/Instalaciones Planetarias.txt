@@ -1,0 +1,10 @@
+Las instalaciones planetarias son edificios que puedes construir en las colonias. Proporcionan bonificaciones o capacidades especiales a la colonia.
+
+Antes de construir una instalación debes investigarla. Tanto su construcción como su mantenimiento continuo cuestan dinero, y solo puedes construir una instalación de cada tipo en una colonia.
+
+[H3]Construcción y consulta de instalaciones[/H3]
+Para construir instalaciones, selecciona una colonia en el Panel de selección y pulsa el botón verde 'Construir instalaciones'. Se abrirá un conjunto de botones con todas las instalaciones disponibles en esa colonia.
+
+Puedes consultar todas las instalaciones de tu imperio en la lista Instalaciones planetarias de la sección Colonias.
+
+Consulta los temas individuales de la sección Instalaciones planetarias para obtener información detallada sobre cada instalación.

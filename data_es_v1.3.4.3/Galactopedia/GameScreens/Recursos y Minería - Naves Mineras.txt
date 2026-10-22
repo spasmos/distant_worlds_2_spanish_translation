@@ -1,0 +1,12 @@
+Las Naves mineras son unidades móviles de extracción. Viajan hasta las Ubicaciones de minado y, cuando llenan la bodega, llevan los recursos al Puerto espacial más cercano.
+
+Las Naves mineras forman parte de la economía civil, por lo que normalmente no puedes asignarles misiones. Buscan destinos por su cuenta y dan prioridad a los recursos con mayor demanda en tu imperio.
+
+Algunos tipos de gobierno permiten controlarlas directamente. En ese caso, selecciona una Nave minera y haz clic con el botón derecho en la Ubicación de minado objetivo para indicarle dónde extraer.
+
+[H3]Lista de Naves mineras[/H3]
+Esta pantalla enumera todas las Naves mineras de tu imperio. Consulta las opciones de ordenación y filtrado de la parte superior. Puedes filtrarlas según extraigan recursos para combustible, para construcción o de lujo.
+
+En los niveles de la galaxia y del sistema, las Naves mineras aparecen resaltadas en el mapa. Pasa el cursor sobre un elemento para señalar su posición, haz clic para seleccionarlo o haz doble clic para desplazar la vista hasta allí.
+
+Cada elemento muestra los recursos que extrae la Nave minera y su misión actual.

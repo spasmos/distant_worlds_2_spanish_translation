@@ -1,0 +1,10 @@
+La lista Componentes disponibles muestra todos los Componentes investigados que puedes añadir al diseño.
+
+Solo aparecen los válidos para el cometido. Los Cazas, por ejemplo, no pueden usar Componentes de Nave, ni las Naves Componentes de Caza. También se excluyen los que no caben en ninguna Bahía del Casco.
+
+La lista desplegable de la esquina superior izquierda permite filtrar por tipo de Bahía o mostrar únicamente el Componente más reciente de cada categoría.
+
+La lista de la esquina superior derecha permite ordenar por nombre, categoría, nivel tecnológico o tamaño.
+
+[H3]Resumen del Componente[/H3]
+Pasa el cursor sobre un Componente para mostrar a la derecha un resumen emergente de sus especificaciones.
