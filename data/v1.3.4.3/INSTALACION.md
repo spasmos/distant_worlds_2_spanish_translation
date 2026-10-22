@@ -8,7 +8,7 @@ Esta traducción está preparada para **Distant Worlds 2** juego base.
 2. Localiza la carpeta `data` dentro de la instalación del juego.
 3. Como medida de seguridad, haz una copia de esa carpeta antes de modificarla.
 4. Si ya habías instalado una versión anterior de esta traducción, elimina únicamente las carpetas `data\Galactopedia\GameConcepts` y `data\Galactopedia\GameScreens`. Esto evita conservar artículos duplicados con sus antiguos nombres ingleses.
-5. Copia todo el contenido de `data_es_v****`.
+5. Copia todo el contenido de `data_es_*`.
 6. Pégalo dentro de la carpeta `data` del juego y acepta **reemplazar los archivos existentes**.
 7. Inicia el juego normalmente.
 
