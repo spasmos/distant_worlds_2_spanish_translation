@@ -2,8 +2,6 @@
 
 Traducción al español de Distant Worlds 2
 
-version traducción: 1.0.0
-version del juego: v1.3.4.3
 autor: spasmos
 
 # Comentarios
