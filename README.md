@@ -6,7 +6,7 @@ autor: spasmos
 
 # Comentarios
 
-Aunque ha coincidido con la publicación de una traducción de otro compañero jugador, esta traducción es genunina, se realizó completamente de 0 partiendo de los textos en ingles a lo largo de los meses de julio, agosto y septiembre del 2026 sin ser consciente de que ya exisitia una traducción. Como el trabajo realizado fue importante la dejo publicada.
+v1.3.4.3: Aunque ha coincidido con la publicación de una traducción de otro compañero jugador, esta traducción es genunina, se realizó completamente de 0 partiendo de los textos en ingles a lo largo de los meses de julio, agosto y septiembre del 2026 sin ser consciente de que ya exisitia una traducción. Como el trabajo realizado fue importante la dejo publicada.
 
 # Instalación de la traducción
 
